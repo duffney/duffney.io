@@ -2,3 +2,8 @@ baseURL = "http://example.org/"
 languageCode = "en-us"
 title = "My New Hugo Site"
 theme= "hello-friend-ng"
+
+[[menu.main]]
+  identifier = "blog"
+  name       = "blog"
+  url        = "/posts"
