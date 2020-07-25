@@ -1,9 +1,75 @@
-baseURL = "http://example.org/"
+baseURL = "https://duffney.io"
 languageCode = "en-us"
-title = "My New Hugo Site"
+title = "duffney.io"
 theme= "hello-friend-ng"
+
+[params]
+  dateform        = "Jan 2, 2006"
+  dateformShort   = "Jan 2"
+  dateformNum     = "2006-01-02"
+  dateformNumTime = "2006-01-02 15:04 -0700"
+
+  # Subtitle for home
+  homeSubtitle = "engineering focus in a distracted world"
+
+  # Set disableReadOtherPosts to true in order to hide the links to other posts.
+  disableReadOtherPosts = false
+
+  # Enable sharing buttons, if you linke
+  enableSharingButtons = true
+
+  # Metadata mostly used in document's head
+  description = "My new homepage or blog"
+  keywords = "homepage, blog"
+  images = [""]
+
+  # Default theme "light" or "dark"
+  defaultTheme = "dark"
+
+[taxonomies]
+    category = "categories"
+    tag      = "tags"
+    series   = "series"
+
+[languages]
+  [languages.en]
+    title = "duffney.io (dev)"
+    subtitle = ""
+    keywords = ""
+    copyright = '<a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank" rel="noopener">CC BY-NC 4.0</a>'
+    readOtherPosts = "Read other posts"
+
+    [languages.en.params.logo]
+      logoText = "_ duffney.io"
+      logoHomeLink = "/"
+
+[params.portrait]
+  path = "/img/portrait.jpg"
+  alt = "Portrait"
+
+[permalinks]
+  posts = "/:title"
+
+  # Social icons
+  [[params.social]]
+    name = "twitter"
+    url  = "https://twitter.com/joshduffney"
+  [[params.social]]
+    name = "github"
+    url  = "https://github.com/Duffney"
+  [[params.social]]
+    name = "linkedin"
+    url  = "https://www.linkedin.com/in/joshduffney/"
+  [[params.social]]
+    name = "stackoverflow"
+    url  = "https://stackoverflow.com/users/3934865/joshduffney"
 
 [[menu.main]]
   identifier = "blog"
   name       = "blog"
   url        = "/posts"
+
+[[menu.main]]
+    identifier = "start here"
+    name       = "start here"
+    url        = "/start-here/"

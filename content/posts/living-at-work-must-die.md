@@ -7,7 +7,7 @@ type:
 - post
 - posts
 title: Living at work must die
-tags: ["powershell","ansible"]
+tags: ["asynchronous","communication","deepwork"]
 categories: ["essays"]
 weight: 10
 series:
