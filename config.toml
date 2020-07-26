@@ -64,12 +64,15 @@ theme= "hello-friend-ng"
     name = "stackoverflow"
     url  = "https://stackoverflow.com/users/3934865/joshduffney"
 
-[[menu.main]]
-  identifier = "blog"
-  name       = "blog"
-  url        = "/posts"
+  # And you can even create generic menu
+  [[menu.main]]
+    identifier = "blog"
+    name       = "blog"
+    url        = "/posts"
 
-[[menu.main]]
+  [[menu.main]]
     identifier = "start here"
-    name       = "start here"
-    url        = "/start-here/"
+    name = "start here"
+    url = "/start-here/"
+    weight = -100
+
