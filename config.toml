@@ -3,6 +3,12 @@ languageCode = "en-us"
 title = "duffney.io"
 theme= "hello-friend-ng"
 
+PygmentsCodeFences = true
+PygmentsStyle = "monokai"
+
+# googleAnalytics = "UA-173628310-1"
+# disqusShortname = "duffney"
+
 [params]
   dateform        = "Jan 2, 2006"
   dateformShort   = "Jan 2"
@@ -16,7 +22,7 @@ theme= "hello-friend-ng"
   disableReadOtherPosts = false
 
   # Enable sharing buttons, if you linke
-  enableSharingButtons = true
+  enableSharingButtons = false
 
   # Metadata mostly used in document's head
   description = "My new homepage or blog"
@@ -25,6 +31,12 @@ theme= "hello-friend-ng"
 
   # Default theme "light" or "dark"
   defaultTheme = "dark"
+
+# Colors for favicons
+[params.favicon.color]
+  mask = "#252627"
+  msapplication = "#252627"
+  theme = "#252627"
 
 [taxonomies]
     category = "categories"

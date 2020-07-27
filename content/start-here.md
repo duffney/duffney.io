@@ -39,4 +39,4 @@ Technology has given me a career, not a job. I love what I do, but there's a cat
 
 To combat it, I focus on deep, meaningful work and practice digital minialism in order to detach from distraction and live a life empowered by technology not consumed by it.
 
-You can find me on Twitter, where all my ideas start.
+You can find me on [Twitter](https://twitter.com/joshduffney), where all my ideas start.
