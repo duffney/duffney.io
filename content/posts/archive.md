@@ -2,11 +2,11 @@
 author:
   name: "Josh Duffney"
 date: 2013-07-27
-linktitle: Blog migration archive
+linktitle: The Archive
 type:
 - post
 - posts
-title: Blog migration archive
+title: The Archive
 tags: ["PowerShell","DSC"]
 categories: ["archive"]
 ---

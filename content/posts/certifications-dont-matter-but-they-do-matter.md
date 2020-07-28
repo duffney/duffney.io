@@ -3,6 +3,7 @@ author:
   name: "Josh Duffney"
 date: 2020-04-03
 linktitle: Certifications Don't Matter But They Absolutely Do Matter
+toc: true
 type:
 - post
 - posts
@@ -68,7 +69,7 @@ If you feel stuck, overwhelmed, or confused by where you should invest your time
 
 > Insert Content upgrade for How to Study for Certifications
 
-{{ <script async data-uid="481686e31f" src="https://unique-writer-1890.ck.page/481686e31f/index.js"></script> }}
+<script async data-uid="481686e31f" src="https://unique-writer-1890.ck.page/481686e31f/index.js"></script>
 
 
 <!--
