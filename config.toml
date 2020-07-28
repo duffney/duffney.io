@@ -1,4 +1,4 @@
-baseURL = "https://duffney.io"
+baseURL = "https://duffney.dev"
 languageCode = "en-us"
 title = "duffney.io"
 theme= "hello-friend-ng"
