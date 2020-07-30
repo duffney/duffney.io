@@ -67,13 +67,13 @@ Passing the exams was simply validation. The real value was in learning alongsid
 
 If you feel stuck, overwhelmed, or confused by where you should invest your time to improve your craft. Consider a certification path. _Invest in yourself and enjoy the process._
 
-Follow me on [Twitter](https://twitter.com/joshduffney), where all my ideas start.
-
 ---
 
 <script async data-uid="481686e31f" src="https://unique-writer-1890.ck.page/481686e31f/index.js"></script>
 
 <!--
+
+Follow me on [Twitter](https://twitter.com/joshduffney), where all my ideas start.
 
 * [AZ-103 Study Guide 2020](http://duffney.io/AZ103-StudyGuide)
 

@@ -66,4 +66,14 @@ If I'm not reading or writing, I'm thinking. People closest to me will say, ther
 
 If this provoked some questions, please ask them in the comments below. If you're already doing some of these things, I'd love to hear your story! I want to know what habits and routines you've establish to stay disconnected.
 
+<!--
 You can follow me on [Twitter](https://twitter.com/joshduffney) where I'll be sharing the journey.
+-->
+
+---
+
+I write a weekly email, _Tuesday's Thoughts_. Where I share how I stay in the driver's seat of my career and how I work in technology without being consumed by it.
+
+Join over 500 subscribers and enter your email below.
+
+<script async data-uid="a1e537562f" src="https://unique-writer-1890.ck.page/a1e537562f/index.js"></script>

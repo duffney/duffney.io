@@ -103,12 +103,21 @@ In my mind, my next step would be to become a DevOps Engineer where I could cont
 
 I very recently accepted an opportunity to join the DevOps team at Paylocity! My official title is DevOps Engineer, so game over right? I made it, I'm DevOps. Well, as it turns out there is a lot more to this DevOps thing than meets the eye. As always with tech, there is a ton of new stuff to learn so I've got a long way to go. However, I think I'm on the right path. I've switched roles a little bit, the DevOps team I'm on deals mostly with the deployments of the company's applications. I'm actually within the Development department, which is very weird for me, I've only been in IT Operations prior to this. It's different, but good. Day 3 of the job and I was assigned a project to automate some SQL data masking using a [WSDL](https://en.wikipedia.org/wiki/Web_Services_Description_Language) with horrible documenation. I had never done that before so I love that I'm already being challenged to learn new stuff.
 
-So, now you're caught up with my PowerShell story. I hope it was an enjoyable read, but more than that I hope it has given you some insight into how learning PowerShell has changed my career for the better. When I started in IT I never thought I would end up writing code all day and enjoying it so much. [Jeffrey Snover](https://twitter.com/jsnover) often talks about how PowerShell makes your work fun again, that's exactly what PowerShell has done for me. Work is no longer work, I don't dread getting up in the morning and getting to work. It's actually quite the opposite, I'm ready at 5:00am sometimes to start coding because I dreamt of something cool I could do in PowerShell.
-
 <p align="center">   
   <img width="480" height="272" src="/img/posts/doubling-my-salary-a-powershell-story/GameOver.jpg">
 </p>
 
+
+So, now you're caught up with my PowerShell story. I hope it was an enjoyable read, but more than that I hope it has given you some insight into how learning PowerShell has changed my career for the better. When I started in IT I never thought I would end up writing code all day and enjoying it so much. [Jeffrey Snover](https://twitter.com/jsnover) often talks about how PowerShell makes your work fun again, that's exactly what PowerShell has done for me. Work is no longer work, I don't dread getting up in the morning and getting to work. It's actually quite the opposite, I'm ready at 5:00am sometimes to start coding because I dreamt of something cool I could do in PowerShell.
+
 ### Credits
 
 ![credits](/img/posts/doubling-my-salary-a-powershell-story/credits.gif "credits")
+
+---
+
+I write a weekly email, _Tuesday's Thoughts_. Where I share how I stay in the driver's seat of my career and how I work in technology without being consumed by it.
+
+Join over 500 subscribers and enter your email below.
+
+<script async data-uid="a1e537562f" src="https://unique-writer-1890.ck.page/a1e537562f/index.js"></script>

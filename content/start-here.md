@@ -33,7 +33,7 @@ Join over 500 subscribers and enter your email below.
 
 My blog is a collection of my work, curated resources, and ideas. Ideas I've used to improve my career, myself and my life. As you browse my digital home, you'll find content on; [PowerShell](/tags/powershell/), Ansible, DevOps, Career, Cloud, deep work, and digital minimalism.
 
-I've documented my journey from sysadmin to SRE in a series of posts. [Doubling My Salary a PowerShell Story](/doubling-my-salary-a-powershell-story/), Becoming a Craftsman, The Pursuit of Autonomy Mastery and Purpose, and You're an Engineer be an Engineer.
+I've documented my journey from sysadmin to SRE in a series of posts. [Doubling My Salary a PowerShell Story](/doubling-my-salary-a-powershell-story/), [Becoming a Craftsman](/becoming-a-craftsman), [What Matters Beyond the Salary](/what-matters-beyond-the-salary), and [You're an Engineer be an Engineer](/youre-an-engineer-be-an-engineer).
 
 Technology has given me a career, not a job. I love what I do, but there's a catch. It's nearly impossible to avoid the clutches of an always-on, always connected mentality. Falling pray to that mentaility has led me to burnout. 
 
