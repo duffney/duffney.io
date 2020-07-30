@@ -76,6 +76,11 @@ PygmentsStyle = "monokai"
     name = "stackoverflow"
     url  = "https://stackoverflow.com/users/3934865/joshduffney"
 
+  [markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+
   # And you can even create generic menu
   [[menu.main]]
     identifier = "blog"
