@@ -105,3 +105,5 @@ $Task | Register-ScheduledTask -TaskName 'ScheduledTaskName' -User "svc_account"
 
 
 [Scheduled Task via Powershell](http://powershell.com/cs/forums/t/20758.aspx)
+
+Follow me on [Twitter](https://twitter.com/joshduffney), where all my ideas start.

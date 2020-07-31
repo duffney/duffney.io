@@ -87,4 +87,4 @@ I see the logic in these playbooks becoming my referenceable artifacts that I ca
 
 ---
 
-<script async data-uid="96433366f0" src="https://unique-writer-1890.ck.page/96433366f0/index.js"></script>
+<script async data-uid="fc6ecb784a" src="https://unique-writer-1890.ck.page/fc6ecb784a/index.js"></script>

@@ -181,3 +181,5 @@ You don't have to do that if you are not going to reuse the expression. Below is
 ### Pluralsight Course
 
 If you want to learn more about regular expression, check out my Pluralsight course titled [Introduction to Regular Expression (Regex)](https://app.pluralsight.com/library/courses/regular-expression-introduction/table-of-contents).
+
+Follow me on [Twitter](https://twitter.com/joshduffney), where all my ideas start.

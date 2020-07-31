@@ -111,3 +111,6 @@ Select-Object NodeName,IPaddress,MacAddress,DNS
 
 
 ![PositionalParams](/img/posts/Run-Local-Functions-Remotely-in-PowerShell/PositionalParams.gif "PositionalParams")
+
+
+Follow me on [Twitter](https://twitter.com/joshduffney), where all my ideas start.

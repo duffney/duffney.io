@@ -7,9 +7,10 @@ PygmentsCodeFences = true
 PygmentsStyle = "monokai"
 
 paginate  = 15
+disableReadOtherPosts = true
 
-# googleAnalytics = "UA-173628310-1"
-# disqusShortname = "duffney"
+googleAnalytics = "UA-173628310-1"
+disqusShortname = "duffney"
 
 [params]
   dateform        = "Jan 2, 2006"
