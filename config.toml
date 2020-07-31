@@ -96,3 +96,7 @@ disqusShortname = "duffney"
     url = "/start-here/"
     weight = -100
 
+  [[menu.main]]
+    identifier = "links"
+    name       = "links"
+    url        = "/links"
