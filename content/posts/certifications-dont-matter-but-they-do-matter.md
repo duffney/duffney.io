@@ -16,7 +16,7 @@ One of my favorite quotes is "Titles don't matter, but they absolutely do matter
 
 [Career Devops With Jeff Hackert](https://www.arresteddevops.com/career-devops/)
 
-## Why Certifications Don't Matter
+# Why Certifications Don't Matter
 
 There is merit in both sides of the certification argument. When people say certifications don't matter, they're really meaning; Certifications do not equate to experience, mastery, or competence. Why would they say this? Well, in a lot of cases people can cheat the system. Braindumps exist and someone who has the skill to memorize all of them can pass the exam without actually knowing the content. Certifications also don't mean experience.
 
@@ -24,7 +24,7 @@ You learn things through experience that you won't learn by studying for an exam
 
 > Certifications do not equate to experience, mastery, or competence.
 
-## Why Certifications Matter
+# Why Certifications Matter
 
 Certifications do matter because they validate your knowledge to a degree. It gives people who don't yet have experience the confidence to speak about a specific technology. They will gain experience through that confidence. Certifications provide an on-ramp with entry-level exams. Learning a new technology is difficult, but trying to decide where to start is the biggest stumbling block. Certifications tracks solve that for you and will get you started. They do that by giving you a clear and structured learning path and then test you on that content. Another huge benefit is the keywords you can use on your social media profiles and resume. If you haven't already, you better start learning a little bit of SEO to maximize the visibility of your social media profiles.
 
@@ -39,13 +39,13 @@ Certifications do matter because they validate your knowledge to a degree. It gi
 
 > Your career needs a direction, not an opearting manual.
 
-## When Someone has Certifications
+# When Someone has Certifications
 
 When someone has certifications what does that mean? Well, it doesn't mean you should immediately hire them based on that. Certifications are not the end all be all. Whether or not they hold certifications, it's still your job to find out where their knowledge gaps are. It does however mean that the person is disciplined. Braindumps or not it takes effort and is uncomfortable to will yourself to study. It also means they have a certain level of grit. It's nerve-racking to sit for a test and to push past those nerves takes a certain level of perseverance.
 
 > When someone has a certification it is an indicator not a predictor.
 
-## How I Used Certifications to Revitalize My Career
+# How I Used Certifications to Revitalize My Career
 
 In my last blog post "You Are an Engineer Be an Engineer" I was very open and honest about how and why I fell off the path and out of the game. I simply stopped learning and because of that I was in a bad spot. I knew I had a lot of catching up to do when it came to the cloud. I had put off learning it for years, but now knew it was time not only to dive in but catch up. I also knew I couldn't just "learn" the cloud. I needed some method to my madness.
 
@@ -59,7 +59,7 @@ Fast forward several months and I now am an AWS Certified Cloud Practitioner, Mi
 [![Since Be an Engineer](/img/sincebeanengineer.png "sincebeanengineer")](https://twitter.com/joshduffney/status/1232714246930210816?s=20)
 -->
 
-## Conclusion
+# Conclusion
 
 Since deciding to invest in my career through certifications a lot has happened. I passed the AWS CCP, AZ-103 and AZ-400 exams. Then I put that knowledge to use by authoring a 5 part series on DEV titled [Using Ansible with Azure](https://dev.to/cloudskills/connecting-to-azure-with-ansible-22g2), and wrote a Study guide for the AZ-103.
 
@@ -78,7 +78,7 @@ Follow me on [Twitter](https://twitter.com/joshduffney), where all my ideas star
 * [AZ-103 Study Guide 2020](http://duffney.io/AZ103-StudyGuide)
 
 
-### Using Ansible with Azure
+## Using Ansible with Azure
 
 * [Connecting to Azure with Ansible](https://dev.to/cloudskills/connecting-to-azure-with-ansible-22g2)
 * [Deploying Resources to Azure with Ansible](https://dev.to/cloudskills/deploying-resources-to-azure-with-ansible-1pon)
@@ -88,7 +88,7 @@ Follow me on [Twitter](https://twitter.com/joshduffney), where all my ideas star
 
 
 
-### Azure DevOps Certification Bootcamp On-Demand
+## Azure DevOps Certification Bootcamp On-Demand
 
 Here's Everything You'll Get in this DevOps Bootcamp:
 
