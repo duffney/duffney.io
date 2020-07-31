@@ -1,4 +1,4 @@
-baseURL = "https://duffneyio.netlify.app"
+baseURL = "https://duffney.io"
 languageCode = "en-us"
 title = "duffney.io"
 theme= "hello-friend-ng"
