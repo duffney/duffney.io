@@ -48,7 +48,7 @@ disqusShortname = "duffney"
 
 [languages]
   [languages.en]
-    title = "duffney.io (dev)"
+    title = "duffney.io"
     subtitle = ""
     keywords = ""
     copyright = '<a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank" rel="noopener">CC BY-NC 4.0</a>'
