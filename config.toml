@@ -6,6 +6,8 @@ theme= "hello-friend-ng"
 PygmentsCodeFences = true
 PygmentsStyle = "monokai"
 
+paginate  = 15
+
 # googleAnalytics = "UA-173628310-1"
 # disqusShortname = "duffney"
 
