@@ -21,7 +21,7 @@ For example, the cmdlet `New-ADUser` has a `-Credential` parameter, which you co
 
 This blog post walks you through the process of adding such functionality to your PowerShell functions. I also discuss how to get around common issues when working with _legacy_ cmdlets that don't support a credential object, but before we get started let's first talk about PSCredential objects and how to generate them.
 
-## Creating Credential Object
+# Creating Credential Object
 
 _PSCredential objects represent a set of security credentials, such as a user name and password._ [MSDN](https://msdn.microsoft.com/en-us/library/system.management.automation.pscredential(v=vs.85).aspx) The objects are then passed to the parameter of a function and used to execute the function as that user account in the credential object. There are a few ways that you can generate a credential object. The first and easiest method is by using the PowerShell cmdlet `Get-Credential`. You can simply execute `Get-Credential`, which will result in a username and password prompt. From there you could enter the _domainName\userName_ or you can call the cmdlet with some optional parameters.
 
@@ -52,7 +52,7 @@ $Cred = New-Object System.Management.Automation.PSCredential (“username”, $p
 
 Now that you know how to create credential objects, it's now time to talk about how we add credential parameters to our PowerShell functions.
 
-## Adding a Credential Parameter
+# Adding a Credential Parameter
 
 Just like any other parameter, you start off by adding it in the param block of your function. I typically use the parameter name of $Credential because that's what existing PowerShell cmdlets use. 
 
@@ -78,7 +78,7 @@ There are a few other methods for handling this problem. One is a simple if stat
 
 > **TIP:** - Some cmdlets that accept a credential parameter do not support `[System.Management.Automation.PSCredential]::Empty` as they should. _See the [Dealing with Legacy Cmdlets](#Dealing-with-Legacy-Cmdlets) section for a workaround._
 
-## Using Credential Parameters
+# Using Credential Parameters
 
 In this next section of the post, I'm going to demonstrate how to use credential parameters. I'll be using a function called `Set-RemoteRegistryValue`, which is out of [The Pester Book](https://leanpub.com/the-pester-book). I've added the credential parameter by using the techniques you just learned above. Inside the `Set-RemoteRegistryValue` function, it uses Invoke-Command. I've updated it to use the `-Credential` parameter and then added the $Credential variable created by the function. This allows me to change the user who's running Invoke-Command.
 
@@ -102,7 +102,7 @@ function Set-RemoteRegistryValue {
 }
 ```
 
-### With Credentials
+# With Credentials
 
 
 The first way I can use the -Credential parameter of `Set-RemoteRegistryValue` is by using `Get-Credential` in `()` at run time. This will cause the `Get-credential` to run first just like a math problem. You'll then be prompted for a username and password. You could use the `-Credential` or `-Username` parameters of `Get-credential` to pre-populate the username and domain. If you're not familiar with a technique called splatting, that's how I'm passing the rest of the parameters to the `Set-RemoteRegistryValue` function. For more information about splatting, check out this [MSDN article](https://msdn.microsoft.com/en-us/powershell/reference/5.0/microsoft.powershell.core/about/about_splatting)
@@ -142,7 +142,7 @@ Set-RemoteRegistryValue @remoteKeyParams -Credential duffney
 
 > **TIP:** - _If you're following allong you'll need to install a few windows features to create this registry value._ Run `Install-WindowsFeature Web-Server` and `Install-WindowsFeature web-mgmt-tools` if required.
 
-### With Credentials in a variable
+# With Credentials in a variable
 
 You can also populate a credential variable ahead of time and pass it to the `-Credential` parameter of `Set-RemoteRegistryValue` function. I use the following method a lot when working with continuous integration and continuous deployment tools such as Jenkins, TeamCity, and Octopus Deploy. 
 
@@ -165,7 +165,7 @@ Value = '1'
 Set-RemoteRegistryValue @remoteKeyParams -Credential $Cred
 ```
 
-### Without Credentials
+# Without Credentials
 
 
 Since I added `[System.Management.Automation.PSCredential]::Empty` as the default value of the `-Credential` parameter, I can run the command without credentials as well. Remember, that not all cmdlets that have the `-Credential` parameter allow for this. Not to worry though, we can get around this limitation and I'll discuss how in the next section of the post.
@@ -181,13 +181,13 @@ Value = '1'
 Set-RemoteRegistryValue @remoteKeyParams
 ```
 
-## Dealing with Legacy Cmdlets {#Dealing-with-Legacy-Cmdlets}
+# Dealing with Legacy Cmdlets {#Dealing-with-Legacy-Cmdlets}
 
 Being in the tech industry, you'll never escape the need to support and/or deal with legacy applications. Working in PowerShell is no different and in this case, you'll eventually run into one or both of the following problems. 
 
 A cmdlet doesn't support `[System.Management.Automation.PSCredential]::Empty`, which I've mentioned a few times. Or, the cmdlet you want to use doesn't even support the `-Credential` parameter at all and instead accepts a string username and string password! This section of the blog post is dedicated to helping you solve this problem. First, up is, what to do when a cmdlet doesn't support `[System.Management.Automation.PSCredential]::Empty`.
 
-### Using If Else to Handle Empty Credentials
+# Using If Else to Handle Empty Credentials
 
 Before I dive into solving this problem, let me first expand on what the problem is. So, what does it mean when I say the cmdlet doesn't support `[System.Management.Automation.PSCredential]::Empty`? 
 
@@ -220,7 +220,7 @@ function Set-RemoteRegistryValue {
 }
 ```
 
-### Using Splatting to Handle Empty Credentials
+# Using Splatting to Handle Empty Credentials
 
 
 Another way to address this problem is to use splatting. I still use an if statement to determine if $credential is empty or not, but the difference is I'm just adding a $credential object to a hash table, instead of repeating the entire block of code that uses `Invoke-Command`. 
@@ -254,7 +254,7 @@ function Set-RemoteRegistryValue {
 }
 ```
 
-### Working with [string] Passwords
+# Working with [string] Passwords
 
 
 A good example of a cmdlet that accepts a string as a password is the `Invoke-Sqlcmd` cmdlet. Invoke-Sqlcmd is an extremely useful cmdlet that allows you to interact with SQL via PowerShell. I use it all the time within my code to perform simple SQL insert, update, and delete statements. The problem is, I don't want to pass a clear text password to my function in order to use Invoke-Sqlcmd. I want to pass a credential object like I would when using a modern and well-designed PowerShell cmdlet. 
@@ -295,7 +295,7 @@ $Credential= New-Object -TypeName System.Management.Automation.PSCredential `
 
 Get-AllSQLDatabases -SQLServer SQL01 -Credential $Credential
 ```
-## Continued Learning Credential Management
+# Continued Learning Credential Management
 
 
 Creating and storing credential objects can be a pain, to help maintain your PowerShell credentials I recommend checking out the following PowerShell module and blog post.
@@ -315,14 +315,14 @@ _Other solutions_
 
 [Vault Project](https://www.vaultproject.io/)
 
-## Sources
+# Sources
 
 PowerShell.Org: [using-credential-param-as-optional](https://powershell.org/forums/topic/using-credential-param-as-optional/)
 
 [powershell-how-to-create-a-pscredential-object](https://blogs.msdn.microsoft.com/koteshb/2010/02/12/powershell-how-to-create-a-pscredential-object/)
 
 
-### Shout Out
+# Shout Out
 
 I want to give a shout out to [Joel Bennett](https://twitter.com/Jaykul). He was kind enough to review this blog post and provide some really great technical insights. With his help,
 I learned as much as you did, if not more. Teaching is the best way to learn after all. Thanks, Joel! 
