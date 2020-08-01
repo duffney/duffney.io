@@ -15,7 +15,7 @@ categories: ["how-to"]
 
 Ansible is commonly used to connect to other systems and to connect to those other systems you'll have to authenticate. However, you don't want to store your passwords in your ansible playbooks or group_vars files. This blog post covers how to use ansible valut to encrypt the values of variables stored under the group_vars directory in your ansible repos. I'll start by showing an example of a clear text password in my ansible repo and walk through the process of encrypting it with ansible valut.
 
-## Clear Text Password Example
+# Clear Text Password Example
 
 In the image below is my current ansible repo layout. I have a group_vars folder with one file in it called win.yml. I also have a roles directory and a single role defined called common with a main.yml file in the tasks folder. Beyond that I have one inventory file and one playbook. The only file that matters at the moment is the win.yml. This stores all the variables for my win group. Win is short for Windows if you're wondering. Inside this file are a few variables that allow ansible to connect to remote windows clients via winrm. It defines the user name with ansible_user and the password for the winrm user with ansible_password. It also defines the winrm port as 5985 and the connection to be winrm. However, the problem with this file is my ansible_password is clear text. That's what we'll be working to change.
 
@@ -29,9 +29,9 @@ ansible -m debug -a 'var=hostvars[inventory_hostname]' -i /vagrant/inventory.yml
 
 ![ansibleDebugOutput](/img/posts/secure-group-variables-with-ansible-vault/ansibleDebugOutput.png "unsecuansibleDebugOutputreVarValue")
 
-## Putting Sensitive Variables into Ansible Vault
+# Putting Sensitive Variables into Ansible Vault
 
-### Create Directory Structure
+## Create Directory Structure
 
 Before we can encrypt the sensitive variable value we have to renme and move the files in group_vars around a bit. First we'll rename web.yml to vars. Then we'll create a directory under group_vars called win and move vars inside that new folder.
 
@@ -41,7 +41,7 @@ mkdir group_vars/win
 mv group_vars/vars group_vars/win/
 ```
 
-### Remove Sensitive Variables
+## Remove Sensitive Variables
 
 Next we will remove the sensitive password from the vars file. Open the vile with nano or vi and remove the ansible_password line.
 
@@ -57,7 +57,7 @@ ansible_port: 5985
 ansible_connection: winrm
 ```
 
-### Create Vault-Encrypted File for Secure Values
+## Create Vault-Encrypted File for Secure Values
 
 Next, we'll create a vault-encrypted file within the win directory to store all of our encrypted values. To do that use the ansible-vault create command. Name the file vault.
 
@@ -77,7 +77,7 @@ The directory structure should now look like this. To compare use the three comm
 
 ![tree](/img/posts/secure-group-variables-with-ansible-vault/tree.png "tree")
 
-### Referencing Vault Variables from Unencrypted Variables
+## Referencing Vault Variables from Unencrypted Variables
 
 We could use the variables as they are right now with all the unsecure variables being in the vars file and all the secure variables being in the vault file. However, this does make it difficult to keep track of the variables. That's why I'll be referring the variables in the vault file inside the vars file. To do that open the vars file and make the following changes. It's not necessary to add a comment section separated the non-sensitive and sensitive variables, but it does make it clear which vars are coming from the vault file.
 
@@ -97,7 +97,7 @@ ansible_password: "{{ vault_ansible_password }}"
 ```
 
 
-### Verify the Password is Encrypted
+## Verify the Password is Encrypted
 
 At this point, we're done. To verify the password is no longer shown in clear text we can run the ansible debug command again.
 
@@ -111,11 +111,11 @@ Notice that when you run this command now it fails. This is because it uses encr
 
 As you can see the value for ansible_password is now the secure variable in vault not the clear text password.
 
-## Conclusion
+# Conclusion
 
 Variables can be sensitive and non-sensitive, but having them in different places reduces visibility. Putting sensitive values in a vault protected file is a must, but you can also include them in normal variable files to improve visibility.
 
-### Sources
+## Sources
 
 [How To Use Vault to Protect Sensitive Ansible Data](https://www.digitalocean.com/community/tutorials/how-to-use-vault-to-protect-sensitive-ansible-data-on-ubuntu-16-04)
 

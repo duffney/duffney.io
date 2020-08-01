@@ -17,7 +17,7 @@ I've been using Ansible to manage a Windows environment for a little over a year
 
 Skilling up with Ansible has been somewhat difficult because I heavily lean on PowerShell when I need to do something quickly. What I've discovered is that by not taking those as opportunities to learn more Ansible I was slowing down my acquisition of Ansible knowledge. After realizing that I put some thought into how I could use Ansible more like I use PowerShell. Which made it easier for me to gravitate toward writing a playbook instead of writing a script. Using the method below I've started to shift my default behavior and have begun to enjoy learning Ansible a lot more.
 
-## Target All, All the Time
+# Target All, All the Time
 
 Ansible has the concept of groups. Those groups are defined in a host or inventory file. As the name implies groups are used to... well group machines together. Typically by type or function. For example, webserver or database. Being a PowerShell user, I've never really had to worry about an inventory per say or groups. I either knew the host names or the host name patterns and specified them or converted them to an array to be used with `Invoke-Command` or other cmdlets. Having to maintain an inventory for my purposes here was cumbersome and for that reason I default to using the `all` group in my playbooks. Unless I know the specific host names for the playbook I just leave the hosts section of the playbook set to `all` as shown below.
 
@@ -27,7 +27,7 @@ Ansible has the concept of groups. Those groups are defined in a host or invento
 ```
 
 
-## Define Connection Variables
+# Define Connection Variables
 
  Because Ansible was developed to manage Linux systems first it's no surprise that it's default is to connect with ssh on port 22. That's a problem for those of us who manage Windows systems. Luckily it's a problem easily solved by defining some Ansible variables. There are A LOT of places you can define Ansible variables and this is one thing that tripped me up for awhile. Having these variables defined in a hostfile or group_vars location made Ansible seem to heavy. I wanted something light weight where I could write out a few tasks and target the systems I needed to without having to parse a hostfile or figure out which group had the correct variables. The solution to this problem is pretty simple. Just define the variables at the top of the playbook. Ansible offers several authentication options, which you can read more about on the [Windows Remote Management Authentication Options](https://docs.ansible.com/ansible/latest/user_guide/windows_winrm.html#authentication-options) wiki page. In this example, I'm using ntlm over WinRM with http. Previous to the variable `ansible_winrm_message_encryption`, you'd have to generate a self-signed certificate in order to setup a Windows host. Now, you don't have to worry about that. By specifiying `ansible_winrm_message_encryption: always` Ansible will enable message encryption and WinRM will be happy. You have a few different options for available and you can learn about about in the [Setting Up a Windows Host](https://docs.ansible.com/ansible/latest/user_guide/windows_setup.html#setting-up-a-windows-host) wiki page. Special thanks to [Jeremy Murrah](https://twitter.com/JeremyMurrah) for pointing out the ansible_winrm_message_encryption [option to me](https://twitter.com/JeremyMurrah/status/1166783597065506821?s=20)!
 
@@ -43,7 +43,7 @@ Ansible has the concept of groups. Those groups are defined in a host or invento
     ansible_winrm_message_encryption: always
 ```
 
-## Adding Tasks
+# Adding Tasks
 
 Now the fun begins! Tasks in Ansible are what do things. Tasks leverage Ansible modules to perform actions. There's an impressive amount of Ansible modules available for Windows. For a full list check out the [Windows modules index](https://docs.ansible.com/ansible/latest/modules/list_of_windows_modules.html#windows-modules). It is with these Ansible modules the real benefit of using Ansible starts to reveal itself. Instead of having to develop and maintain your own scripts, functions, modules or even DSC resources you can now simply leverage the collective contributions made to Ansible. Each module is capable of performing idempotent actions on a target machine. The other massive benefit of using Ansible is the tooling it provides. Anyone who's used DSC quickly realizes there is a set of functionality that doesn't exist. Functionality that is needed to orchestrate the configurations and different actions required to reach your desired state. Ansible fills that gap quite nicely.
 
@@ -68,7 +68,7 @@ Below I've added a task to my playbook named _install dotnet core iis hosting mo
       state: present
 ```
 
-## Executing Playbooks without a Hosts File or Inventory
+# Executing Playbooks without a Hosts File or Inventory
 
 At this point, I have setup my Windows machines to talk to Ansible and I have written a playbook. Next, is to execute the playbook. As I previously mentioned, for this workflow I didn't want to maintain a hosts or inventory file. So, what do I do? Ansible needs that in order to target machines. If you just pass hosts names to it like this `--limit wintest01` it will throw an error complaining about not being able to parse a hosts file. Using some Google foo, I discovered this neat little snippet on GitHub [run-ansible-with-any-host-without-inventory](https://gist.github.com/lilongen/ebc11f69ae2ba48971c77527d5c02fab). TL:DR is by simply adding a `,` after the host names passed to the `-i` parameter you can bypass Ansible's default behavior of attempting to parse the value provided to the parameter.
 
@@ -77,7 +77,7 @@ ansible-playbook dotnet-core-windows-server-hosting.yaml -i wintest01.domain.com
 ```
 
 
-## Am I Ansibling Wrong?
+# Am I Ansibling Wrong?
 
 Probably, but it's a worthflow that's light enough that I'm more inclined to write a playbook than I am to write a script. 
 

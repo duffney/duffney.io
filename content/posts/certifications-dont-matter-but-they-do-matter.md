@@ -78,7 +78,7 @@ Follow me on [Twitter](https://twitter.com/joshduffney), where all my ideas star
 * [AZ-103 Study Guide 2020](http://duffney.io/AZ103-StudyGuide)
 
 
-## Using Ansible with Azure
+# Using Ansible with Azure
 
 * [Connecting to Azure with Ansible](https://dev.to/cloudskills/connecting-to-azure-with-ansible-22g2)
 * [Deploying Resources to Azure with Ansible](https://dev.to/cloudskills/deploying-resources-to-azure-with-ansible-1pon)
@@ -88,7 +88,7 @@ Follow me on [Twitter](https://twitter.com/joshduffney), where all my ideas star
 
 
 
-## Azure DevOps Certification Bootcamp On-Demand
+# Azure DevOps Certification Bootcamp On-Demand
 
 Here's Everything You'll Get in this DevOps Bootcamp:
 

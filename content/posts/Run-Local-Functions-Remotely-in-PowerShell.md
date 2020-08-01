@@ -18,7 +18,7 @@ Have you ever had functions loaded into your local PowerShell session and needed
 The typical solution to this problem is to copy the code to the remote system and then load the functions on the remote system to use them. What if I told youit is possible to run functions you have stored on your local machine and execute them remotely with Invoke-Command? This post will teach
 you how to do this.
 
-## Execute Local Functions Remotely
+# Execute Local Functions Remotely
 
 To demonstrate how to do this, I'll use a famous Hell-World example. I have written an extremely simple function that writes
 "Hello, World!" to the console. It is called MyFunction and has no parameters. I've loaded to into my local PowerShell session
@@ -39,7 +39,7 @@ Invoke-Command -ComputerName DC1 `
 ![MyFunction](/img/posts/Run-Local-Functions-Remotely-in-PowerShell/MyFunction.gif "MyFunction")
 
 
-## Using Parameters
+# Using Parameters
 
 While the above example works, most functions aren't that simple. Most require several parameters and how do you pass those
 parameters to the function running remotely? To illustrate, I've written another simple function called Get-NetConfig. Provided
@@ -74,7 +74,7 @@ Select-Object NodeName,IPaddress,MacAddress,DNS
 ![Get-NetConfig](/img/posts/Run-Local-Functions-Remotely-in-PowerShell/Get-NetConfig.gif "Get-NetConfig")
 
 
-## Changing Parameter Order
+# Changing Parameter Order
 
 Often you do not specify the parameters in the order they are listed in the function. This is a problem,
 because executing function remotely requires they be in the exact same order. This means that if I provided

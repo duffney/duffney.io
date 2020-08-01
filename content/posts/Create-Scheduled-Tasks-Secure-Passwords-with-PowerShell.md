@@ -20,7 +20,7 @@ This forced me to store my service account password as clear text, which made me
 did not allow a credential object to be passed to it. In this post you'll learn how to extract the password from a PS Credential object.
 I'll store those properties in variables and then provide them to the Register-ScheduledTask cmdlet.
 
-## Create the Action
+# Create the Action
 
 The below section of code creates the trigger for the ScheduledTask, I'll use this later when I create the ScheduledTask. It simply calls the script named
 PowerShellscript.ps1 from C:\script and execute it. 
@@ -31,7 +31,7 @@ $Action = New-ScheduledTaskAction -Execute 'C:\Windows\System32\WindowsPowerShel
 ```
 
 
-## Define the Trigger
+# Define the Trigger
 
 Next I'm defining the trigger and storing it into a variable called $Trigger. I'm having it run upon startup, but delaying it 5 minutes
 after the machine is online.
@@ -40,7 +40,7 @@ after the machine is online.
 $Trigger = New-ScheduledTaskTrigger -RandomDelay (New-TimeSpan -Minutes 5) -AtStartup
 ```
 
-## Configure the Settings
+# Configure the Settings
 
 This was the trickiest part, trying to determine which parameters matched the GUI settings. Below I'm telling the task to; not stop when the idle ends, 
 setting the restart interval to 1 minute, setting the reset count to 10 tries, starting when available, and removing the idle timeout option. $Settings.ExecutionTimeLimit = "PT0S"
@@ -51,7 +51,7 @@ $Settings = New-ScheduledTaskSettingsSet -DontStopOnIdleEnd -RestartInterval (Ne
 $Settings.ExecutionTimeLimit = "PT0S"
 ```
 
-## New PS Credential Object
+# New PS Credential Object
 
 Now I have to create a PS Credential object that I can extract out the password from. This was the fun part as I hadn't dealt with this to much before.
 Mainly because most cmdlets allow for encrypted credentials to be passed to them... at any rate. Lines 1-3 create the PS credential object and line 4 creates
@@ -65,7 +65,7 @@ $Credentials = New-Object System.Management.Automation.PSCredential -ArgumentLis
 $Password = $Credentials.GetNetworkCredential().Password 
 ```
 
-## Register the ScheduledTask
+# Register the ScheduledTask
 
 Lastly I have to create the ScheduledTask and then register it. If you just create it, it will only be stored in memory. Registering it is what adds it to the task
 scheduler. 
@@ -75,7 +75,7 @@ $Task = New-ScheduledTask -Action $Action -Trigger $Trigger -Settings $Settings
 $Task | Register-ScheduledTask -TaskName 'ScheduledTaskName' -User "svc_account" -Password $Password
 ```
 
-## Complete script
+# Complete script
 
 
 ```powershell
@@ -97,7 +97,7 @@ $Task | Register-ScheduledTask -TaskName 'ScheduledTaskName' -User "svc_account"
 ```
 
 
-## Sources
+# Sources
 [How To Build Scheduled Tasks In PowerShell](http://www.tomsitpro.com/articles/powershell-build-scheduled-tasks,2-832.html)
 
 

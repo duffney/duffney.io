@@ -13,14 +13,14 @@ tags: ["PowerShell","regex","regular expression"]
 categories: ["how-to"]
 ---
 
-## Introduction
+# Introduction
 
 In this blog post you'll learn severals ways to use regular expression from within PowerShell. You've most likely used some of these
 techniques before. Such as the *-match* operator or the *select-string* cmdlet, but probably weren't aware you were using regular expression.
 This post will not teach you how to craft complex regular expressions. Instead it focuses on how to use them in PowerShell to find matches, replace
 text, and to split on matches.
 
-## -match Operator
+# -match Operator
 
 The -match operator matches a string with regular expression. It returns a true or false statement indicating whether or not a match was found. Then it
 stores all the matches found in a variable called $matches. A simple example of this is below, I'm matching the word Administrator from a distinguished name
@@ -33,7 +33,7 @@ from Active Directory. This example might not seem like it's using regular expre
 ![matches](/img/posts/Practical-Guide-for-Using-Regex-in-PowerShell/matches.gif "matches")
 
 
-## -match Operator with metacharacters
+# -match Operator with metacharacters
 Let's make it a little more regex looking by replacing the literal characters *Administrator* with some regex metacharacters and a subexpression. I'll use the regex
 expression *CN=(\w+)*. The C and N are still literal characters matching a capital C and a capital N, but \w is a metacharacters that matches any word character. The + sign is
 another metacharacters that means to match one or more times. The parenthesis are used to capture the match found by \w+, in this example Administrator. The benefit
@@ -45,7 +45,7 @@ of using metacharacters is it makes the expression more dynamic just like parame
 
 ![matchesmetachars](/img/posts/Practical-Guide-for-Using-Regex-in-PowerShell/matchesmetachars.gif "matchesmetachars")
 
-## -notmatch and Where-Object
+# -notmatch and Where-Object
 The -match operator has a few different versions you should be aware of. By default PowerShell is case-insensitive so there is a case-sensitive version of the -match
 operator -cmatch. There are opposites of both of these operators -notmatch and -cnotmatch. I won't cover all of these variants, but it's worth taking a look at the
 -notmatch operator. Sometimes it's easier to say what you do not want than what you do want. The below example demonstrates this by getting a list of services where the name 
@@ -57,7 +57,7 @@ Get-Service | where Name -NotMatch '\d'
 
 ![notmatch](/img/posts/Practical-Guide-for-Using-Regex-in-PowerShell/notmatch.png "notmatch")
 
-## -replace Operator
+# -replace Operator
 
 Matching text is always the first part of using regular expression and it's useful, but most of the time you want to do something with that match. Using the same example
 as above I can use the -replace operator instead of -match to replace the entire string with what I wanted to match. The expression looks like this *'CN=(\w+).\*','$1'*.
@@ -72,7 +72,7 @@ this case 'Administrator'.
 
 ![replace](/img/posts/Practical-Guide-for-Using-Regex-in-PowerShell/replace.png "replace")
 
-## -split Operator
+# -split Operator
 
 Sometimes you don't want to replace any text from a match but rather simply split it and use both parts to accomplish a given task. That's where the -split operator can come in handy.
 I'll use an example of splitting a users's UPN into two sections the first will contain the user name and the second will contain the domain name. I'll use that information to query the user
@@ -84,7 +84,7 @@ $split = 'ejohnson@wef.com' -split '@'
 Get-ADUser -Identify $split[0] -server $split[1]
 ```
 
-## Select-String cmdlet
+# Select-String cmdlet
 
 Select-String searches for text and text patterns in either a string or a set of files. I use it mostly for looking through scripts I've written to identify which scripts
 contain keywords I'm looking for. For example I could use it to search a folder for all scripts that are using Active Directory cmdlets with the verbs Get and Set. To do that, I 
@@ -97,7 +97,7 @@ Select-String -Pattern '[GS]et-AD\w+' -Path *.ps1 -List
 
 ![selectstring](/img/posts/Practical-Guide-for-Using-Regex-in-PowerShell/selectstring.png "selectstring")
 
-## Switch Statements
+# Switch Statements
 
 Another way to use regex in PowerShell is within a switch statement. In the below example I'm using regular expression to validate user names in Active Directory. There are
 three statements one validates service account names, another validates admin accounts and the last one identifies invalid characters. You could perhaps take this logic and 
@@ -115,7 +115,7 @@ foreach ($UserName in $UserNames) {
 }
 ```
 
-## Regex Object Matching
+# Regex Object Matching
 
 So far I've been using operators, cmdlets and statements that handle regex in an integrated manner. This means it has been hiding much of the regular expression engine from us.
 I mention this because the regex object, which I'll cover next is not integrated. It is referred to as procedural and object-oriented. If you have experience with other programing
@@ -145,7 +145,7 @@ $rx.Match($DN)
 
 ![regexmatch](/img/posts/Practical-Guide-for-Using-Regex-in-PowerShell/regexmatch.png "regexmatch")
 
-## Regex Object Replace
+# Regex Object Replace
 
 At this point, I've successfully matched the last half of the distinguished name which contains the domain name. However, that is stored within a capture group $1. It also isn't formatted correctly. It should be wef.com, not
 wef,DC=com. So I really have two problems to solve. First, replace the entire distinguished name with $1. Secondly, I need to replace *,DC=* with *.* to make wef.com. To accomplish this, I'm using both the regex replace method
@@ -159,7 +159,7 @@ $rx.Replace($DN,'$1') -replace ',DC=','.'
 
 ![regexreplace](/img/posts/Practical-Guide-for-Using-Regex-in-PowerShell/regexreplace.png "regexreplace")
 
-## Regex Object Split
+# Regex Object Split
 
 The regex object also has a split method that can be used to, well split text where a regular expression matches. Previously, I've been creating regex objects and storing them in variables.
 You don't have to do that if you are not going to reuse the expression. Below is an example that takes a URL and split off the HTTP or HTTPS prefix, leaving just the server name and path.
@@ -170,7 +170,7 @@ You don't have to do that if you are not going to reuse the expression. Below is
 
 ![regexsplit](/img/posts/Practical-Guide-for-Using-Regex-in-PowerShell/regexsplit.png "regexsplit")
 
-## Sources
+# Sources
 
 [Ultimate PowerShell Prompt Customization and Git Setup Guide](https://hodgkins.io/ultimate-powershell-prompt-and-git-setup)
 
@@ -178,7 +178,7 @@ You don't have to do that if you are not going to reuse the expression. Below is
 
 [PowerShell in Depth Chapter 13](https://www.amazon.com/PowerShell-Depth-Don-Jones/dp/1617292184/ref=sr_1_1?s=books&ie=UTF8&qid=1474652757&sr=1-1&keywords=powershell+in+depth)
 
-### Pluralsight Course
+## Pluralsight Course
 
 If you want to learn more about regular expression, check out my Pluralsight course titled [Introduction to Regular Expression (Regex)](https://app.pluralsight.com/library/courses/regular-expression-introduction/table-of-contents).
 

@@ -18,7 +18,7 @@ _Written on Ubuntu with PowerShellCore._
 Pester is a PowerShell behavior-driven development (BDD) style testing framework. But, really all you need to know about it before getting started, is that it's a testing framework and it can be used to automate the testing of your PowerShell code. You might think to yourself well what's the point of that? I already wrote my PowerShell function, all I need to do now is run it and see if it does what I want. That's called testing the code and is exactly what Pester can do for you. To put it in perspective a little, you probably learned PowerShell so that you could automate and have the computer do things for you. Why not learn Pester and have the computer do the testing for you as well?
 
 
-## Installing Pester
+# Installing Pester
 
 
 If you're running Windows 10 or Windows Server 2016, you already have a copy of the Pester PowerShell module. However, like all modules and software for that matter updates are released so you'll want to grab the latest versions. To do that use the following command. The current version is 4.0.5, at least at the time of writing this blog post.
@@ -29,7 +29,7 @@ Find-Module pester -Repository psgallery | Install-Module
 ```
 
 
-## Creating Pester Tests Files
+# Creating Pester Tests Files
 
 
 Now that you've installed the module it's time to create the Pester test files. Pester has a cmdlet called 'New-Fixture'. This cmdlet generates a function PowerShell script and another PowerShell file that contains the tests. For this blog post, I'll be creating a new function called New-PesterLab. To create the PowerShell script and its accompanying  test use the following command.
@@ -49,7 +49,7 @@ _sidenote: You don't have to use the New-Fixture cmdlet, if you already have a f
 ![NewFixture](/img/posts/getting-started-with-pester/NewFixture.jpg "NewFixture")
 
 
-## Writing the Function
+# Writing the Function
 
 
 Next, open the `New-PesterLab.ps1` update the code to what is shown below. The `New-PesterLab` function now accepts two parameters $Path and $Name. These two parameters are used to; create a folder, create a file and set the content of the new file. It's a really simple function, but that will make it easier to understand how to write pester tests for it.
@@ -64,7 +64,7 @@ function New-PesterLab ($Path,$Name) {
 ```
 
 
-## Introduction to Pester Scripts
+# Introduction to Pester Scripts
 
 Now that we have a function to test, it's time to write the test, but before that let's take a look at the new pester test we created. After you open the `New-PesterLab.Tests.ps1` you'll notice it already has some code in it. The first three lines might look confusing to you so let's take a closer look at what it's doing.
 
@@ -100,7 +100,7 @@ Line 5 starts with a Describe block, this is a command that comes from the Peste
 In side that Describe block is another Pester command It. The It commands are used to test your code and the Describe is more of a container to hold all the tests. The It block is also taking a positional parameter of Name with the value `does something useful` and then a script block. Inside that script block is the actual test logic. In this case it is testing to see if `$true` is `$false`. The actual code for this is `$true | should be $false`. Should is another pester command that defines an assertion. Just think of assertion as test for now. There are several options available with the should operator. `Be` as seen in this example is just one of them. Be compares one object to another for equality and throws and error if they are not the same. For more information on the Should operator checkout the [Pester wiki](https://github.com/pester/Pester/wiki/Should).
 
 
-## Writing Pester Tests
+# Writing Pester Tests
 
 
 Now, it's time to actually write some tests! But... what do we test? Well, what would you test if you were running this function and testing manually? Looking back at the code it does three things; creates a folder, creates a .config file and sets the value of that config file to a known value. These are the three things we want to test. Let's start with testing the creation of the new directory.
@@ -154,7 +154,7 @@ Describe "New-PesterLab" {
 ```
 
 
-## Running Pester Tests
+# Running Pester Tests
 
 At this point you have a function and a Pester test. It's now time to run the Pester tests. The command to execute Pester tests is `Invoke-Pester`. You can learn more about this cmdlet by reading the help file `Help Invoke-Pester`. After reading the help you'll notice the first parameter is Script. The script parameter accepts a single script or multiple scripts. Script of course is referring to the Pester test script not your function. To run Pester against our newly created scripts issue the following command.
 

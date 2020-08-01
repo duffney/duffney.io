@@ -23,7 +23,7 @@ I've seen tweets like this before and have even heard compelling stories about h
 
 I'm not writing this to toot my own horn, but to show you that investing in PowerShell is both rewarding and worth your time and effort. I'd also like to use this as an opportunity to recognize all of those who have helped me along the way.
 
-## The Math
+# The Math
 
 The image below is a simple line graph where I plotted my starting salary from each job in my career on the Y axis and then started plotting my years of PowerShell experience on the X axis.
 As you can see a trend emerged; there were of course several factors that feed into this, but one very powerful constant - PowerShell! Doing the math, my PowerShell multiplier is currently at
@@ -35,7 +35,7 @@ PowerShell success stories.
   <img width="600" height="360" src="/img/posts/doubling-my-salary-a-powershell-story/salary.png">
 </p>
 
-## The Beginning
+# The Beginning
 
 Before I begin, let me just say I started in IT with the mindset that I don't want to code or program. I told myself I didn't want to stare at a screen of text all day and hack away. Well, turns out that’s what I LOVE doing! Wish I had gone to school for computer science... anyway on with the story. 
 
@@ -52,7 +52,7 @@ Within a few hours I had a functioning script called
 
 ![simplediskspacereport](/img/posts/doubling-my-salary-a-powershell-story/simplediskspacereport.png "simplediskspacereport")
 
-## Becoming a Scripter
+# Becoming a Scripter
 
 It's worth mentioning that at this point in the story, I wasn't quite sold on the whole sys admin scripter thing. At the time I dreamed of becoming a CCIE and was studying for my CCNA. Man, was that pain in the A$$. 
 
@@ -66,7 +66,7 @@ I used PowerShell for everything I could to automate SCCM driver imports, applic
 
 ![sccmprojects](/img/posts/doubling-my-salary-a-powershell-story/sccmprojects.png "sccmprojects")
 
-## Advocating PowerShell
+# Advocating PowerShell
 
 After honing my PowerShell skills I wanted to give back. I began advocating and teaching PowerShell to practically anyone who would listen to me. I started setting up meetings with the service desk and desktop support teams to help them learn PowerShell. I also started presenting at the local user group I was attending. Like most, I had a fear of public speaking, but I didn't let that stop me. _“Everything you want is on the other side of fear.” --Jack Canfield_.
 It was at this point that I realized this is what I want to do with my career, not networking, even though I had just passed my CCNA 6 months earlier...  
@@ -77,7 +77,7 @@ Luckily, for me his opinion carried enough weight to get me the job. This was tr
 
 ![presenting](/img/posts/doubling-my-salary-a-powershell-story/presenting.png "presenting")
 
-## Embracing DevOps
+# Embracing DevOps
 
 Just before I started this new job, I had just finished a book called [The Phoenix Project](https://www.amazon.com/Phoenix-Project-DevOps-Helping-Business/dp/0988262592). This book was the start of a 2 year journey of understanding and embracing DevOps. 
 
@@ -99,7 +99,7 @@ After about 18 months or so of research and experimentation I felt like I had a 
 
 In my mind, my next step would be to become a DevOps Engineer where I could continue to sharpen my PowerShell skills, but also start to become a true developer. My end goal is to basically to become an infrastructure developer working with configuration management, mainly DSC.
 
-## I'm DevOps? Game Over?
+# I'm DevOps? Game Over?
 
 I very recently accepted an opportunity to join the DevOps team at Paylocity! My official title is DevOps Engineer, so game over right? I made it, I'm DevOps. Well, as it turns out there is a lot more to this DevOps thing than meets the eye. As always with tech, there is a ton of new stuff to learn so I've got a long way to go. However, I think I'm on the right path. I've switched roles a little bit, the DevOps team I'm on deals mostly with the deployments of the company's applications. I'm actually within the Development department, which is very weird for me, I've only been in IT Operations prior to this. It's different, but good. Day 3 of the job and I was assigned a project to automate some SQL data masking using a [WSDL](https://en.wikipedia.org/wiki/Web_Services_Description_Language) with horrible documenation. I had never done that before so I love that I'm already being challenged to learn new stuff.
 
@@ -110,7 +110,7 @@ I very recently accepted an opportunity to join the DevOps team at Paylocity! My
 
 So, now you're caught up with my PowerShell story. I hope it was an enjoyable read, but more than that I hope it has given you some insight into how learning PowerShell has changed my career for the better. When I started in IT I never thought I would end up writing code all day and enjoying it so much. [Jeffrey Snover](https://twitter.com/jsnover) often talks about how PowerShell makes your work fun again, that's exactly what PowerShell has done for me. Work is no longer work, I don't dread getting up in the morning and getting to work. It's actually quite the opposite, I'm ready at 5:00am sometimes to start coding because I dreamt of something cool I could do in PowerShell.
 
-### Credits
+## Credits
 
 ![credits](/img/posts/doubling-my-salary-a-powershell-story/credits.gif "credits")
 
