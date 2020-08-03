@@ -58,7 +58,7 @@ It's worth mentioning that at this point in the story, I wasn't quite sold on th
 
 I started becoming a scripter when I worked on the service desk for a large enterprise. I was hired on as tier 2 support for network, Windows server and Citrix. I got a wide variety of requests, which I loved. It exposed me to a lot of different technologies and at scale. The tickets I didn't enjoy at first were the "Hey, we need these 300 computer objects disabled" or "please reclaim ownership of 6000 Citrix profiles". Almost everyone dreaded these tickets because they were so time consuming and mundane. 
 
-ong story short, another guy on my team and I started using PowerShell to complete these tickets. At first everyone thought we were God's of efficiency and then we became known as the scripters.
+Long story short, another guy on my team and I started using PowerShell to complete these tickets. At first everyone thought we were God's of efficiency and then we became known as the scripters.
 
 I was only at the service desk for about 6 months before I accepted a position within the company to become their System Center Configuration Manager admin \ engineer. I didn't know it at the time, but this was a turning point in my career. I spent the next year building up their application store within SCCM and revamping their operating system deployment. Since my manager and I were the only two SCCM admins, automating wasn't an option, it was a necessity.
 
