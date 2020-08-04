@@ -18,7 +18,7 @@ I recently passed the AZ-103 Microsoft Azure Administrator Associate. I studied 
 I’d blindly click around in the portal before finding information for people, but that’s about it. Studying for this exam was a lot of fun and I learned a ton. It is something I wish I had done two years ago. If you have a good background in systems administration, all the learning required for this exam is Azure focused. It does assume you have a good systems administration foundation. For example, you’re expected to understand DNS and how subnetting works. 
 
 
-## Commit & Find Study Material
+# Commit & Find Study Material
 
 I have a lot of people that work with Azure in my social networks, so I asked a few questions. I first wanted to gauge the difficulty of the exam. Basically I wanted to know if this was anything like the CCNA. 
 
@@ -33,7 +33,7 @@ The answer was a stress relieving, no. I then began to ask what they thought was
 
 ---
 
-## Design a Study Strategy
+# Design a Study Strategy
 
 At this point I had the exam scheduled and I had training material. My first goal was to just get through as much per day as I could bear and hope I made it through the training material by the time the exam came along. This strategy worked for about two days and I already felt like giving up. As you’d expect, day one was something like four hours of study and on day two I got through maybe thirty minutes. I had already burned myself out. This was a poor strategy. I never knew if I was going to make it through the training and I never felt like I studied enough even if I studied for four hours. I needed a better strategy.
 
@@ -52,7 +52,7 @@ Example: 34 - 16 = 18 days
 
 ---
 
-### Study Routine
+## Study Routine
 
 I knew what to do and for how long, but I still ran into problems with execution. I’d try to study for an hour in the morning after the gym and my son would wake up early and want to play or have breakfast. I’d try to study over my lunch break and I’d get pulled into something at work or would need to help out at home. I was still getting some studying done, but getting interrupted meant I was not absorbing as much as I could. There was a lot of context switching and that hour I needed prior, turned into an hour and a half to two hours just to get the labs set back up. I also realized that it took longer to get through the labs than estimated. I needed around two hours of study per day, not just one. Where was I going to find this time?
 
@@ -74,7 +74,7 @@ _Questions to ask yourself:_
 
 ---
 
-### Find Gaps & Readjust
+## Find Gaps & Readjust
 
 I’ll start by answering the question “Why bother with practice tests?”. It’s a fair question, but to me, opting out of practice tests is somewhat like reading all the chapters of a math book and not doing the exercises or worksheets before you take the math test. You might have the knowledge, but are not prepared to be asked about it. Practice tests provide more than just testing your knowledge, they teach you how to think through questions and problems. They are also great at finding the gaps in your knowledge. 
 
@@ -102,7 +102,7 @@ After I completed a couple learning modules with Nick Colyer’s AZ-103 course, 
 
 ---
 
-### The Week Of
+## The Week Of
 
 All I did the week of the exam was take practice tests. The first thing to realize about practice tests is they are only a valid assessment of your skills on the first attempt, and I only had five. I also knew I could only retain so much from them per day. Practice tests have a much higher cognitive demand than video training or hands-on labs. 
 
@@ -135,7 +135,7 @@ The day of the exam, I decided to do something radical, nothing. I had my exam s
 
 ---
 
-## Suggested Study Schedule & Resources
+# Suggested Study Schedule & Resources
 
 Below is my suggested study schedule. If you bothered to read the blog post up to this point you’ll notice that this is different that what I actually did. The materials are the same but the order is different. In retrospect, this is how I would have prepared for the exam. Feel free to change the order to fit your learning style or to mix video training with labs.
 
