@@ -7,6 +7,8 @@ type:
 - post
 - posts
 title: Detaching from Distraction
+aliases:
+- /DetachingFromDistraction
 tags: ["deep-work","focus","mental-health","digital-minimalism"]
 categories: ["essays"]
 ---
