@@ -8,9 +8,9 @@ toc: true
 type: post
 type: posts
 title: Add Credentials To PowerShell Functions
-url: "/AddCredentialsToPowerShellFunctions"
-#aliases: 
-#- /AddCredentialsToPowerShellFunctions
+#url: "/AddCredentialsToPowerShellFunctions"
+aliases: 
+- /AddCredentialsToPowerShellFunctions
 tags: ["PowerShell","Credentials"]
 categories: ["how-to"]
 ---
