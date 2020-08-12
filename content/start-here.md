@@ -35,7 +35,7 @@ My blog is a collection of my work, curated resources, and ideas. Ideas I've use
 
 I've documented my journey from sysadmin to SRE in a series of posts. [Doubling My Salary a PowerShell Story](/doubling-my-salary-a-powershell-story/), [Becoming a Craftsman](/becoming-a-craftsman), [What Matters Beyond the Salary](/what-matters-beyond-the-salary), and [You're an Engineer be an Engineer](/youre-an-engineer-be-an-engineer).
 
-Technology has given me a career, not a job. I love what I do, but there's a catch. It's nearly impossible to avoid the clutches of an always-on, always connected mentality. Falling pray to that mentality has led me to burnout. 
+Technology has given me a career, not a job. I love what I do, but there's a catch. It's nearly impossible to avoid the clutches of an always-on, always connected mentality. Falling prey to that mentality has led me to burnout. 
 
 To combat it, I focus on deep, meaningful work and practice digital minialism in order to [detach from distraction](/detaching-from-distraction) and live a life empowered by technology [not consumed](/the-digital-declutter) by it.
 
