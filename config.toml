@@ -100,3 +100,8 @@ disqusShortname = "duffney"
     identifier = "links"
     name       = "links"
     url        = "/links"
+
+  [[menu.main]]
+    identifier = "my work"
+    name       = "my work"
+    url        = "/my-work"
