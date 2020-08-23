@@ -14,14 +14,14 @@ title: links
 * [become Ansible](https://becomeansible.com/)
 
 
-## Pluralsight Courses
+## [Pluralsight Courses](#pluralsight-courses)
 
 * [Debugging Windows PowerShell in VS Code](https://www.pluralsight.com/courses/debugging-powershell-vs-code)
 * [Orchestration and Automation: The Big Picture](https://www.pluralsight.com/courses/orchestration-automation-big-picture)
 * [Introduction to Regular Expression (Regex)](https://www.pluralsight.com/courses/regular-expression-introduction)
 * [Practical Desired State Configuration (DSC)](https://www.pluralsight.com/courses/practical-desired-state-configuration)
 
-## Podcast Appearances
+## [Podcast Appearances](#podcast-apperances)
 
 |Episode|Podcast|
 |:---|:---:|
@@ -38,7 +38,7 @@ title: links
 |[A Day in the life of an SRE with Josh Duffney](https://itr-it-reality.zencast.website/episodes/23)|IT Reality|
 
 
-## Reading List
+## [Reading List](#reading-list)
 
 |Book Title |Category|Review|
 |---|:---:|:--:|
