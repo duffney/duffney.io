@@ -47,15 +47,23 @@
 ```
 > You can only sell results, not ideas.
 ```
+
 ---
+
 > You avoid offline and away status because responsiveness is rewarded above performance.
+
 ---
+
 > People Don’t Just Notice You. Your work and potential will go mostly unnoticed unless you learn to promote yourself.
 
 ```
 > Humble enough to avoid arrogance. Confident enough to influence.
 ```
+
 ---
+
 > Ideas require preparation for intellectual battle. Never reveal them until you can engage, defend, and maneuver.
+
 ---
+
 > Use the experiences of others to influence your decisions without making them for you. Their trials might be your triumph.
