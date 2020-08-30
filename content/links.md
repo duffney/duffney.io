@@ -7,12 +7,25 @@ toc: true
 type: post
 type: posts
 title: links
+show_comments: false
 ---
 
-## Self-Published book(s)
+## [Reading List](#reading-list)
 
-* [become Ansible](https://becomeansible.com/)
-
+|Book Title |Category|Review|
+|---|:---:|:--:|
+|[The Phoenix Project](https://www.amazon.com/Phoenix-Project-DevOps-Helping-Business/dp/0988262592)|DevOps|_TODO_|
+|[Practice of Cloud System Administration](https://www.amazon.com/Practice-Cloud-System-Administ%20ration-Practices/dp/032194318X)|DevOp|_ADDLINK_|
+|[Team Topologies](https://www.amazon.com/Team-Topologies-Organizing-Business-Technology/dp/1942788819)|DevOps|_TODO_|
+|[Making Work Visible](https://www.amazon.com/Making-Work-Visible-Exposing-Optimize/dp/1942788150)|DevOps|_TODO_|
+|[The Shallows](https://www.amazon.com/dp/0393357821/ref=cm_sw_em_r_mt_dp_U_zXWeFbVSVGWB9)|Mindset|_TODO_|
+|[Deep Work](https://www.amazon.com/Deep-Work-Focused-Success-Distracted/dp/1455586692)|Productivity|_TODO_|
+|[Digital Minimalism](https://www.amazon.com/Digital-Minimalism-Choosing-Focused-Noisy/dp/0525536515)|Productivity|_TODO_|
+|[Atomic Habits](https://www.amazon.com/Atomic-Habits-Proven-Build-Break/dp/0735211299)|Psychology?|_TODO_|
+|[The ONE Thing](https://www.amazon.com/ONE-Thing-Surprisingly-Extraordinary-Results/dp/1885167776)|Psychology|_TODO_|
+|[Authority](https://nathanbarry.com/authority/)|Creators|_TODO_|
+|[Instructional Design for Mortals](https://www.amazon.com/Instructional-Design-Mortals-Creating-Learning/dp/1983165867)|Writing|_TODO_|
+|[Ansible for DevOps](https://leanpub.com/ansible-for-devops)|Technology|_ADDLINK_|
 
 ## [Pluralsight Courses](#pluralsight-courses)
 
@@ -36,25 +49,3 @@ title: links
 |[IT Burnout. Let's help each other avoid it](https://itr-it-reality.zencast.website/episodes/29)|IT Reality|
 |[Career Goals don’t matter but they Absolutely do matter](https://itr-it-reality.zencast.website/episodes/28)|IT Reality|
 |[A Day in the life of an SRE with Josh Duffney](https://itr-it-reality.zencast.website/episodes/23)|IT Reality|
-
-
-## [Reading List](#reading-list)
-
-|Book Title |Category|Review|
-|---|:---:|:--:|
-|[The Phoenix Project](https://www.amazon.com/Phoenix-Project-DevOps-Helping-Business/dp/0988262592)|DevOps|_TODO_|
-|[Practice of Cloud System Administration](https://www.amazon.com/Practice-Cloud-System-Administ%20ration-Practices/dp/032194318X)|DevOp|_ADDLINK_|
-|[Team Topologies](https://www.amazon.com/Team-Topologies-Organizing-Business-Technology/dp/1942788819)|DevOps|_TODO_|
-|[Making Work Visible](https://www.amazon.com/Making-Work-Visible-Exposing-Optimize/dp/1942788150)|DevOps|_TODO_|
-|[The Shallows](https://www.amazon.com/dp/0393357821/ref=cm_sw_em_r_mt_dp_U_zXWeFbVSVGWB9)|Mindset|_TODO_|
-|[Deep Work](https://www.amazon.com/Deep-Work-Focused-Success-Distracted/dp/1455586692)|Productivity|_TODO_|
-|[Digital Minimalism](https://www.amazon.com/Digital-Minimalism-Choosing-Focused-Noisy/dp/0525536515)|Productivity|_TODO_|
-|[Atomic Habits](https://www.amazon.com/Atomic-Habits-Proven-Build-Break/dp/0735211299)|Psychology?|_TODO_|
-|[The ONE Thing](https://www.amazon.com/ONE-Thing-Surprisingly-Extraordinary-Results/dp/1885167776)|Psychology|_TODO_|
-|[Authority](https://nathanbarry.com/authority/)|Creators|_TODO_|
-|[Instructional Design for Mortals](https://www.amazon.com/Instructional-Design-Mortals-Creating-Learning/dp/1983165867)|Writing|_TODO_|
-|[Ansible for DevOps](https://leanpub.com/ansible-for-devops)|Technology|_ADDLINK_|
-
-
-
-

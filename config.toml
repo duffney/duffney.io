@@ -102,6 +102,6 @@ disqusShortname = "duffney"
     url        = "/links"
 
   [[menu.main]]
-    identifier = "newsletter"
-    name       = "newsletter"
-    url        = "https://newsletter.duffney.io/"
+    identifier = "products"
+    name       = "products"
+    url        = "https://gumroad.com/joshduffney/"
