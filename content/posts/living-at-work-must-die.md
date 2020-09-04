@@ -9,7 +9,8 @@ type:
 title: Living at work must die
 tags: ["deep-work","remote-work"]
 categories: ["essays"]
-
+aliases:
+ - "drafts/living-at-work-must-die"
 
 ---
 
