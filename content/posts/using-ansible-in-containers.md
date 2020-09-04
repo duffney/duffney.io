@@ -3,12 +3,14 @@ author:
   name: "Josh Duffney"
 date: 2020-08-11
 lastmod: 2020-08-11
-linktitle: Using Ansible in Containers
+linktitle: Containers for Ansible Development 
 toc: true
 type: post
 type: posts
-title: Using Ansible in Containers
+title: Containers for Ansible Development 
 tags: ["ansible","containers","devops","github-actions"]
+aliases:
+ - "/using-ansible-in-containers"
 categories: ["how-to"]
 ---
 
@@ -23,6 +25,8 @@ Ansible is an open-source configuration management and application-deployment to
 Ansible is ideal for containers. It's ideal because begin agentless and not requiring a complicated install make Ansible extremely portable. And portability is what containers are all about.
 
 In this post, you will learn how to; build a Dockerfile defining your Ansible environment, run Ansible in a container interactively and non-interactively, version your Ansible environment with tags, and to deploy Ansible using GitHub actions. By the end of this post, you will have learned how to build, run, and deploy a production-ready container.
+
+**_Watch the PSPowerHour Episode 7 - Ansible and containers [livestream](https://www.youtube.com/watch?v=nGHK_Nh8H_I&feature=youtu.be)_**
 
 ## Prerequisites
 
