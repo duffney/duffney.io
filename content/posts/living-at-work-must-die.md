@@ -1,7 +1,7 @@
 ---
 author:
   name: "Josh Duffney"
-date: 2020-08-25
+date: 2020-09-04
 linktitle: Living at work must die
 type:
 - post
