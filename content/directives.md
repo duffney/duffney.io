@@ -68,3 +68,7 @@
 ---
 
 > Use the experiences of others to influence your decisions without making them for you. Their trials might be your triumph.
+
+---
+
+> Wisdom is acquired by reflecting on the application of knowledge. The application of knowledge is your experience.

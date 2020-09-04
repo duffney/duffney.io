@@ -22,7 +22,7 @@ Ansible is an open-source configuration management and application-deployment to
 
 Ansible is ideal for containers. It's ideal because begin agentless and not requiring a complicated install make Ansible extremely portable. And portability is what containers are all about.
 
-In this post, you will learn how to; build a Dockerfile defining your Ansible environment, run Ansible in a container interactively and non-interactively, version your Ansible environment with tags, and to deploy Ansible using GitHub actions. By the end of this post, you will have learned how to build, run, and deploy a production-ready container. 
+In this post, you will learn how to; build a Dockerfile defining your Ansible environment, run Ansible in a container interactively and non-interactively, version your Ansible environment with tags, and to deploy Ansible using GitHub actions. By the end of this post, you will have learned how to build, run, and deploy a production-ready container.
 
 ## Prerequisites
 
