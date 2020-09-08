@@ -20,11 +20,18 @@ Containers aren't just for developers. But without a web application what do you
 
 You can't look at more than two job postings without seeing containers or Kubernetes listed at least five times. When something becomes as popular as containers you have two choices. You can either ignore it or learn it. In this post, you'll dive into learning it.
 
-Ansible is an open-source configuration management and application-deployment tool. Enabling you to define your infrastructure as code. Ansible runs on many Unix-like systems and can configure both Linux and Microsoft Windows. What separates Ansible is it's agentless. Instead of relying on an installed agent, Ansible uses remote protocols to connect to its targets.
+Ansible is an open-source configuration management and application-deployment tool. Ansible enables you to define your infrastructure as code, and runs equally well on Linux and Windows. Ansible is ideal for containers, which can also run on Linux and Windows systems. 
 
-Ansible is ideal for containers. It's ideal because begin agentless and not requiring a complicated install make Ansible extremely portable. And portability is what containers are all about.
+What makes Ansible ideal is it's agentless. Instead of requiring a software agent to be installed and configured before it can be useful (as some Ansible alternatives do), Ansible uses native, remote protocols (like SSH and [WinRM](https://docs.ansible.com/ansible/latest/user_guide/windows_winrm.html)) to connect to managed nodes. This means it's easily portable, and portability is what containers are all about.
 
-In this post, you will learn how to; build a Dockerfile defining your Ansible environment, run Ansible in a container interactively and non-interactively, version your Ansible environment with tags, and to deploy Ansible using GitHub actions. By the end of this post, you will have learned how to build, run, and deploy a production-ready container.
+In this post, you will learn how to:
+
+1. Build a Dockerfile defining your Ansible environment
+2. Run Ansible in a container interactively and non-interactively
+3. Version your Ansible environment with tags
+4. To deploy Ansible using GitHub actions.
+
+By the end of this post, you will have learned how to build, run, and deploy a production-ready container.
 
 **_Watch the PSPowerHour Episode 7 - Ansible and containers [livestream](https://www.youtube.com/watch?v=nGHK_Nh8H_I&feature=youtu.be)_**
 
@@ -32,14 +39,14 @@ In this post, you will learn how to; build a Dockerfile defining your Ansible en
 
 To complete this tutorial, you will need:
 
-- Docker Desktop Installed on your local machine. You can install Docker Desktop for Mac or Windows by following the steps on the [Docker Desktop](https://www.docker.com/products/docker-desktop) website.
-- GitHub account existing or newly created. You can create an account by going to [github.com/join](https://github.com/join)
+- Docker Desktop installed on your local machine. You can install Docker Desktop for Mac or Windows by following the steps on the [Docker Desktop](https://www.docker.com/products/docker-desktop) website.
+- GitHub account (either existing or newly created). You can create an account by going to [github.com/join](https://github.com/join)
 
 _Example repository, [ansible-in-containers](https://github.com/Duffney/ansible-in-containers)._
 
 ## Build an Ansible Container
 
-A Dockerfile is a text document that contains a sequence of commands. Those commands represent codified instructions that make up a Docker image. You can think of the Docker image as a virtual machine template. Just as virtual machines are created from a base template, Docker containers are created from Docker images. Before you can run a container you must first have an image. In order to create an image, you need a Dockerfile.
+Docker has become the most common style of container, because it's so easy to work with. It is built using a Dockerfile, which is just a special text document that contains a sequence of commands. Those commands represent codified instructions that make up a Docker (container) image. You can think of the Docker image as a virtual machine template. Just as virtual machines are created from a base template, Docker containers are created from Docker images. Before you can run a container you must first have an image. In order to create an image, you need a Dockerfile.
 
 ### Create a Dockerfile
 
