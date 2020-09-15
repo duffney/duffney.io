@@ -106,4 +106,12 @@ $Task | Register-ScheduledTask -TaskName 'ScheduledTaskName' -User "svc_account"
 
 [Scheduled Task via Powershell](http://powershell.com/cs/forums/t/20758.aspx)
 
-Follow me on [Twitter](https://twitter.com/joshduffney), where all my ideas start.
+<br>
+
+---
+
+Each week, I write an email sharing what I've learned. Learn what I learn in a concise letter sent to your inbox.
+
+Join 700+ subscribers and enter your email below.
+
+<script async data-uid="a1e537562f" src="https://unique-writer-1890.ck.page/a1e537562f/index.js"></script>

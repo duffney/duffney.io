@@ -36,4 +36,12 @@ cmd /c "`"C:\Program Files\Sophos\Endpoint Defense\SEDcli.exe`" -TPoff $tamperpa
 
 Contribution [Gabriel McColl](https://twitter.com/gabrielmccoll)
 
-Follow me on [Twitter](https://twitter.com/joshduffney), where all my ideas start.
+<br>
+
+---
+
+Each week, I write an email sharing what I've learned. Learn what I learn in a concise letter sent to your inbox.
+
+Join 700+ subscribers and enter your email below.
+
+<script async data-uid="a1e537562f" src="https://unique-writer-1890.ck.page/a1e537562f/index.js"></script>

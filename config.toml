@@ -105,3 +105,9 @@ disqusShortname = "duffney"
     identifier = "products"
     name       = "products"
     url        = "https://gumroad.com/joshduffney/"
+
+  [[menu.main]]
+    identifer = "newsletter"
+	name      = "newsletter"
+	url       = "/newsletter"
+

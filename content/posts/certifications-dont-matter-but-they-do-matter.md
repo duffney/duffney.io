@@ -8,6 +8,8 @@ type:
 - post
 - posts
 title: Certifications Don't Matter But They Absolutely Do Matter
+aliases: 
+- /certifications-dont-matter-but-they-do-matter
 tags: ["certifications","cloud","azure","career"]
 categories: ["essays"]
 ---

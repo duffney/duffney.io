@@ -327,4 +327,12 @@ PowerShell.Org: [using-credential-param-as-optional](https://powershell.org/foru
 I want to give a shout out to [Joel Bennett](https://twitter.com/Jaykul). He was kind enough to review this blog post and provide some really great technical insights. With his help,
 I learned as much as you did, if not more. Teaching is the best way to learn after all. Thanks, Joel! 
 
-Follow me on [Twitter](https://twitter.com/joshduffney), where all my ideas start.
+<br>
+
+---
+
+Each week, I write an email sharing what I've learned. Learn what I learn in a concise letter sent to your inbox.
+
+Join 700+ subscribers and enter your email below.
+
+<script async data-uid="a1e537562f" src="https://unique-writer-1890.ck.page/a1e537562f/index.js"></script>

@@ -166,4 +166,12 @@ Invoke-Pester -Script ./New-PesterLab.Tests.ps1
 
 You've now successfully written and execute a Pester test congrats! Even with this really simple example of creating folders and files Pester was able to save you some time. There is a lot more to Pester, but I hope this blog post opened your mind up to the realm of possibilities with Pester. 
 
-Follow me on [Twitter](https://twitter.com/joshduffney), where all my ideas start.
+<br>
+
+---
+
+Each week, I write an email sharing what I've learned. Learn what I learn in a concise letter sent to your inbox.
+
+Join 700+ subscribers and enter your email below.
+
+<script async data-uid="a1e537562f" src="https://unique-writer-1890.ck.page/a1e537562f/index.js"></script>

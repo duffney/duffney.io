@@ -182,4 +182,12 @@ You don't have to do that if you are not going to reuse the expression. Below is
 
 If you want to learn more about regular expression, check out my Pluralsight course titled [Introduction to Regular Expression (Regex)](https://app.pluralsight.com/library/courses/regular-expression-introduction/table-of-contents).
 
-Follow me on [Twitter](https://twitter.com/joshduffney), where all my ideas start.
+<br>
+
+---
+
+Each week, I write an email sharing what I've learned. Learn what I learn in a concise letter sent to your inbox.
+
+Join 700+ subscribers and enter your email below.
+
+<script async data-uid="a1e537562f" src="https://unique-writer-1890.ck.page/a1e537562f/index.js"></script>
