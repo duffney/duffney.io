@@ -4,7 +4,9 @@ You can't move forward without direction. And you won't progress without action.
 
 It's not about your time. It's about your attention. 
 
-Writing is thinking. And teaching is the best way to learn. So, I write a weekly email titled _Tuesday's thoughts_. Join me as I explore the depths of remote work. And turn a career into a calling. 
+Takes two minutes to read and leaves you thinking all day. Constrained by design. A single idea explored through three paragraphs and a single quote. Why? Because I value more than just your time. I value your attention.
+
+Topics include; self-leadership, technology, deep work, and remote work.
 
 <br>
 <p align="center">
