@@ -1,8 +1,6 @@
 # Tuesday's thoughts
 
-You can't move forward without direction. And you won't progress without action. 
-
-It's not about your time. It's about your attention. 
+Emails written to me and sent to you. Learn what I learn. 
 
 Takes two minutes to read and leaves you thinking all day. Constrained by design. A single idea explored through three paragraphs and a single quote. Why? Because I value more than just your time. I value your attention.
 
