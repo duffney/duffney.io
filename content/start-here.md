@@ -27,7 +27,6 @@ At my day job, I’m a Site Reliability Engineer [@StackOverflow](https://twitte
 
 I write a weekly email, Tuesday's Thoughts. Where I share how I stay in the driver's seat of my career. I only share the most valuable lessons I've learned, as I learn them.
 
-<br></br>
 Join over **700+ subscribers** and enter your email below.
 <script async data-uid="a1e537562f" src="https://unique-writer-1890.ck.page/a1e537562f/index.js"></script>
 
