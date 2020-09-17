@@ -1,10 +1,10 @@
 # Tuesday's thoughts
 
-Emails written to me and sent to you. Learn what I learn. 
+Emails written to me but sent to you. Learn what I learn. 
 
-Takes two minutes to read and leaves you thinking all day. Constrained by design. A single idea explored through three paragraphs and a single quote. Why? Because I value more than just your time. I value your attention.
+Takes two minutes to read. Constrained by design to a single idea explored through three paragraphs and a single quote. Why? Because I value more than just your time. I value your attention.
 
-Topics include; self-leadership, technology, deep work, and remote work.
+Topics include; self-leadership, technology, deep work, and digital minimalism. 
 
 <br>
 <p align="center">
