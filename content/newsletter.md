@@ -1,6 +1,6 @@
 # Tuesday's thoughts
 
-Emails written to me but sent to you. Learn what I learn. 
+Learn what I learn. 
 
 Takes two minutes to read. Constrained by design to a single idea explored through three paragraphs and a single quote. Why? Because I value more than just your time. I value your attention.
 
