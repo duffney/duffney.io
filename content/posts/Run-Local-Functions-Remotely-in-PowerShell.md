@@ -116,7 +116,7 @@ Select-Object NodeName,IPaddress,MacAddress,DNS
 
 ---
 
-Each week, I write an email sharing what I've learned. Learn what I learn in a concise letter sent to your inbox.
+I write a weekly email, Tuesday’s Thoughts where I share how I work in technology without being consumed by it.
 
 Join 700+ subscribers and enter your email below.
 

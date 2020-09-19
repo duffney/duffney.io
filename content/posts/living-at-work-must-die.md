@@ -48,9 +48,7 @@ The truth is, we don't know how to work remotely. Remote work has become the new
 
 ---
 
-Each week, I write an email sharing what I've learned. It’s not about your time. It’s about your attention.
-
-Level-up Your Learning
+I write a weekly email, Tuesday’s Thoughts where I share how I work in technology without being consumed by it.
 
 Join 700+ subscribers and enter your email below.
 
