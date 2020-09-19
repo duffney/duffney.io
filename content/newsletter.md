@@ -1,10 +1,10 @@
 # Tuesday's thoughts
 
-Learn what I learn. 
+I write a weekly email, Tuesday’s Thoughts. Where I share how I stay in the driver’s seat of my career. I only share the most valuable lessons I’ve learned, as I learn them. 
 
-Takes two minutes to read. Constrained by design to a single idea explored through three paragraphs and a single quote. Why? Because I value more than just your time. I value your attention.
+Each email takes two minutes to read. Constrained by design to a single idea explored through three paragraphs and a single quote. 
 
-$topics = [ career-leadership | technology | deep work | digital minimalism ]
+You can't move forward without direction. And you won't progress without action. It's not about your time, it's about your attention.
 
 <br>
 <p align="center">
