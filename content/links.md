@@ -10,42 +10,38 @@ title: links
 show_comments: false
 ---
 
-## [Reading List](#reading-list)
+## Reading Lists
 
-|Book Title |Category|Review|
-|---|:---:|:--:|
-|[The Phoenix Project](https://www.amazon.com/Phoenix-Project-DevOps-Helping-Business/dp/0988262592)|DevOps|_TODO_|
-|[Practice of Cloud System Administration](https://www.amazon.com/Practice-Cloud-System-Administ%20ration-Practices/dp/032194318X)|DevOp|_ADDLINK_|
-|[Team Topologies](https://www.amazon.com/Team-Topologies-Organizing-Business-Technology/dp/1942788819)|DevOps|_TODO_|
-|[Making Work Visible](https://www.amazon.com/Making-Work-Visible-Exposing-Optimize/dp/1942788150)|DevOps|_TODO_|
-|[The Shallows](https://www.amazon.com/dp/0393357821/ref=cm_sw_em_r_mt_dp_U_zXWeFbVSVGWB9)|Mindset|_TODO_|
-|[Deep Work](https://www.amazon.com/Deep-Work-Focused-Success-Distracted/dp/1455586692)|Productivity|_TODO_|
-|[Digital Minimalism](https://www.amazon.com/Digital-Minimalism-Choosing-Focused-Noisy/dp/0525536515)|Productivity|_TODO_|
-|[Atomic Habits](https://www.amazon.com/Atomic-Habits-Proven-Build-Break/dp/0735211299)|Psychology?|_TODO_|
-|[The ONE Thing](https://www.amazon.com/ONE-Thing-Surprisingly-Extraordinary-Results/dp/1885167776)|Psychology|_TODO_|
-|[Authority](https://nathanbarry.com/authority/)|Creators|_TODO_|
-|[Instructional Design for Mortals](https://www.amazon.com/Instructional-Design-Mortals-Creating-Learning/dp/1983165867)|Writing|_TODO_|
-|[Ansible for DevOps](https://leanpub.com/ansible-for-devops)|Technology|_ADDLINK_|
+### [The Mindset of DevOps](#mindset-of-devops)
 
-## [Pluralsight Courses](#pluralsight-courses)
+<iframe type="text/html" width="336" height="550" frameborder="0" allowfullscreen style="max-width:100%" src="https://read.amazon.com/kp/card?asin=B078Y98RG8&preview=inline&linkCode=kpe&ref_=cm_sw_r_kb_dp_kalBFb8NKNTFY" ></iframe>
 
-* [Debugging Windows PowerShell in VS Code](https://www.pluralsight.com/courses/debugging-powershell-vs-code)
-* [Orchestration and Automation: The Big Picture](https://www.pluralsight.com/courses/orchestration-automation-big-picture)
-* [Introduction to Regular Expression (Regex)](https://www.pluralsight.com/courses/regular-expression-introduction)
-* [Practical Desired State Configuration (DSC)](https://www.pluralsight.com/courses/practical-desired-state-configuration)
+<iframe type="text/html" width="336" height="550" frameborder="0" allowfullscreen style="max-width:100%" src="https://read.amazon.com/kp/card?asin=B076BYZ6VN&preview=inline&linkCode=kpe&ref_=cm_sw_r_kb_dp_CalBFbRZMVGS2" ></iframe>
 
-## [Podcast Appearances](#podcast-apperances)
+<iframe type="text/html" width="336" height="550" frameborder="0" allowfullscreen style="max-width:100%" src="https://read.amazon.com/kp/card?asin=B07NSF94PC&preview=inline&linkCode=kpe&ref_=cm_sw_r_kb_dp_CalBFbPF4FNZW" ></iframe>
 
-|Episode|Podcast|
-|:---|:---:|
-|[Debugging PowerShell #575](http://runasradio.com/Shows/Show/575)|RunAsRadio|
-|[Infrastructure as Code using Ansible #664](http://runasradio.com/Shows/Show/664)|RunAsRadio|
-|[017: How To Become a DevOps Engineer](https://cloudskills.fm/017)|CloudSkills|
-|[058: DevOps vs. SRE](https://cloudskills.fm/058)|CloudSkills|
-|[080: Do Certifications Really Matter?](https://cloudskills.fm/080)|CloudSkills|
-|[Episode 331 with Josh Duffney](https://powershell.org/2020/02/episode-331-powerscripting-podcast-josh-duffney/)|Powerscripting Podcast|
-|[Digital Minimalism](https://donjones.com/2020/07/21/listen-digital-minimalism/)|Perspectives in Tech|
-|[SAS 041 – Digital Declutter](https://sysadminshow.com/sas041/)|The SysAdmin Show|
-|[IT Burnout. Let's help each other avoid it](https://itr-it-reality.zencast.website/episodes/29)|IT Reality|
-|[Career Goals don’t matter but they Absolutely do matter](https://itr-it-reality.zencast.website/episodes/28)|IT Reality|
-|[A Day in the life of an SRE with Josh Duffney](https://itr-it-reality.zencast.website/episodes/23)|IT Reality|
+<iframe type="text/html" width="336" height="550" frameborder="0" allowfullscreen style="max-width:100%" src="https://read.amazon.com/kp/card?asin=B00N7N2CRQ&preview=inline&linkCode=kpe&ref_=cm_sw_r_kb_dp_2alBFbDPF7Z1Q" ></iframe>
+
+### [Five Books to Reclaim Focus](#five-books-for-focus)
+
+<iframe type="text/html" width="336" height="550" frameborder="0" allowfullscreen style="max-width:100%" src="https://read.amazon.com/kp/card?asin=B07WX1DFZW&preview=inline&linkCode=kpe&ref_=cm_sw_r_kb_dp_bZkBFb1CE2PNN" ></iframe>
+
+<iframe type="text/html" width="336" height="550" frameborder="0" allowfullscreen style="max-width:100%" src="https://read.amazon.com/kp/card?asin=B00X47ZVXM&preview=inline&linkCode=kpe&ref_=cm_sw_r_kb_dp_fYkBFbBV0PQ0P" ></iframe>
+
+<iframe type="text/html" width="336" height="550" frameborder="0" allowfullscreen style="max-width:100%" src="https://read.amazon.com/kp/card?asin=B07DBRBP7G&preview=inline&linkCode=kpe&ref_=cm_sw_r_kb_dp_dVkBFb77CFYNR" ></iframe>
+
+<iframe type="text/html" width="336" height="550" frameborder="0" allowfullscreen style="max-width:100%" src="https://read.amazon.com/kp/card?asin=B00C1BHQXK&preview=inline&linkCode=kpe&ref_=cm_sw_r_kb_dp_P0kBFb3665CW4" ></iframe>
+
+<iframe type="text/html" width="336" height="550" frameborder="0" allowfullscreen style="max-width:100%" src="https://read.amazon.com/kp/card?asin=B07D23CFGR&preview=inline&linkCode=kpe&ref_=cm_sw_r_kb_dp_k0kBFbTWG5W90" ></iframe>
+
+### [Foundational Books for Mindset](#foundational-books-for-mindset)
+
+<iframe type="text/html" width="336" height="550" frameborder="0" allowfullscreen style="max-width:100%" src="https://read.amazon.com/kp/card?asin=B000FCKPHG&preview=inline&linkCode=kpe&ref_=cm_sw_r_kb_dp_M9kBFb70B0W4B" ></iframe>
+
+<iframe type="text/html" width="336" height="550" frameborder="0" allowfullscreen style="max-width:100%" src="https://read.amazon.com/kp/card?asin=B010MH9V3W&preview=inline&linkCode=kpe&ref_=cm_sw_r_kb_dp_85kBFb1N3T10D" ></iframe>
+
+<iframe type="text/html" width="336" height="550" frameborder="0" allowfullscreen style="max-width:100%" src="https://read.amazon.com/kp/card?asin=B00AFPTSI0&preview=inline&linkCode=kpe&ref_=cm_sw_r_kb_dp_E5kBFbJHMAWB3" ></iframe>
+
+<iframe type="text/html" width="336" height="550" frameborder="0" allowfullscreen style="max-width:100%" src="https://read.amazon.com/kp/card?asin=B0739PYQSS&preview=inline&linkCode=kpe&ref_=cm_sw_r_kb_dp_14kBFbDQGK18Q" ></iframe>
+
+<iframe type="text/html" width="336" height="550" frameborder="0" allowfullscreen style="max-width:100%" src="https://read.amazon.com/kp/card?asin=B079Y51FC3&preview=inline&linkCode=kpe&ref_=cm_sw_r_kb_dp_i5kBFbBXK1DE5" ></iframe>
