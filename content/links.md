@@ -3,7 +3,7 @@ author:
   name: "Josh Duffney"
 date: 2020-08-14
 linktitle: links
-toc: true
+toc: false 
 type: post
 type: posts
 title: links
