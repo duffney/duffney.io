@@ -2,7 +2,7 @@
 author:
   name: "Josh Duffney"
 date: 2016-09-23
-linktitle: A Practical Guide for Using Regex in PowerShell
+linktitle: Using Regex in PowerShell
 type: post
 type: posts
 toc: true
