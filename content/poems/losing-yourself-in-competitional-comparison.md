@@ -2,12 +2,12 @@
 author:
   name: "Josh Duffney"
 date: 2020-09-30
-linktitle: Losing yourself in competitional comparison
+linktitle: Losing yourself in competitive comparison
 toc: false
 show_comments: true
 type: post
 type: posts
-title: Losing yourself in competitional comparison
+title: Losing yourself in competitive comparison
 categories: ["poem"]
 ---
 
