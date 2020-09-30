@@ -186,8 +186,14 @@ _Duration:_ ~5-8 hours
 
 _Time Commitment:_ ~2 hours per day
 
+<br>
+
 ---
 
-**Don’t be afraid to invest in your career.**
+<br>
 
-<script async data-uid="481686e31f" src="https://unique-writer-1890.ck.page/481686e31f/index.js"></script>
+<div align="center">
+<a href="https://twitter.com/joshduffney">Follow me on Twitter</a>
+
+<br>
+<br>

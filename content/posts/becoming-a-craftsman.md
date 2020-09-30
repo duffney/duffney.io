@@ -9,7 +9,7 @@ type: posts
 title: Becoming a Craftsman
 aliases: 
 - /PowerShell-Story-Continued-BecomingACraftsman
-tags: ["Career","Motivation","DevOps"]
+tags: ["Career","Motivation"]
 categories: ["essays"]
 ---
 
@@ -78,12 +78,15 @@ I also do a lot of things people would label me as crazy for. Such as putting bu
 ## Ending
 
 That’s it, that’s the past year of my life and what I’ve been up to. I hope you found some wisdom in the words that will help you along your journey. If not, I hope it was at least an enjoyable read. I also want to congratulate you for finishing the blog post, it’s longer than I expected it to be. It would be remiss of me to not give credit where it’s due. I’ve got to thank my boss Brett McCarty. If he hadn’t taken a chance on me I wouldn’t be where I am today. I would also like to thank my team. They are all very talented and each have unique interests and strengths. I don’t think I’ll ever stop learning from them. Lastly, but certainly not least, I have to thank the PowerShell community which has now expanded into the larger DevOps community. To everyone on Twitter, everyone in the DevOps Library community, and anyone else who has interacted with me through my courses and blog, I’m very grateful for the support, feedback, and advice. I would also like to thank my beautiful wife, whom without I would be lost.
+
 <br>
 
 ---
 
-I write a weekly email, Tuesday’s Thoughts where I share how I work in technology without being consumed by it.
+<br>
 
-Join 700+ subscribers and enter your email below.
+<div align="center">
+<a href="https://twitter.com/joshduffney">Follow me on Twitter</a>
 
-<script async data-uid="a1e537562f" src="https://unique-writer-1890.ck.page/a1e537562f/index.js"></script>
+<br>
+<br>

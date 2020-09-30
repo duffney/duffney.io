@@ -110,8 +110,10 @@ $Task | Register-ScheduledTask -TaskName 'ScheduledTaskName' -User "svc_account"
 
 ---
 
-I write a weekly email, Tuesday’s Thoughts where I share how I work in technology without being consumed by it.
+<br>
 
-Join 700+ subscribers and enter your email below.
+<div align="center">
+<a href="https://twitter.com/joshduffney">Follow me on Twitter</a>
 
-<script async data-uid="a1e537562f" src="https://unique-writer-1890.ck.page/a1e537562f/index.js"></script>
+<br>
+<br>

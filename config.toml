@@ -19,7 +19,7 @@ disqusShortname = "duffney"
   dateformNumTime = "2006-01-02 15:04 -0700"
 
   # Subtitle for home
-  homeSubtitle = "engineering focus in a distracted world"
+  homeSubtitle = "Building a business from for my career"
 
   # Set disableReadOtherPosts to true in order to hide the links to other posts.
   disableReadOtherPosts = false
@@ -64,6 +64,7 @@ disqusShortname = "duffney"
 
 [permalinks]
   posts = "/:title"
+  poems = "/:title"
 
   # Social icons
   [[params.social]]
@@ -97,6 +98,11 @@ disqusShortname = "duffney"
     weight = -100
 
   [[menu.main]]
+    identifier = "poems"
+    name       = "poems"
+    url        = "/poems"
+
+  [[menu.main]]
     identifier = "links"
     name       = "links"
     url        = "/links"
@@ -105,9 +111,3 @@ disqusShortname = "duffney"
     identifier = "products"
     name       = "products"
     url        = "https://gumroad.com/joshduffney/"
-
-  [[menu.main]]
-    identifer = "newsletter"
-	name      = "newsletter"
-	url       = "/newsletter"
-

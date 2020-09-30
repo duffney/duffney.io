@@ -179,3 +179,15 @@ _Special thanks to [Jeff Hicks](https://twitter.com/JeffHicks) for including me 
 |Dan Franciscus|@dan_franciscus|[https://winsysblog.com/](https://winsysblog.com/) |
 |Jeff Hicks|@jeffhicks| [https://jdhitsolutions.com/](https://jdhitsolutions.com/)|
 |Tommy Maynard|@thetommymaynard| [https://tommymaynard.com/](https://tommymaynard.com/) |
+
+<br>
+
+---
+
+<br>
+
+<div align="center">
+<a href="https://twitter.com/joshduffney">Follow me on Twitter</a>
+
+<br>
+<br>

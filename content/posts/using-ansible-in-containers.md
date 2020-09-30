@@ -664,4 +664,11 @@ You've now learned how to build, run, and deploy Ansible inside a Docker contain
 
 ---
 
-<script async data-uid="fc6ecb784a" src="https://unique-writer-1890.ck.page/fc6ecb784a/index.js"></script>
+<p align="center">
+
+<img src="/img/posts/using-ansible-in-containers/become-ansible.png">
+<script src="https://gumroad.com/js/gumroad.js"></script>
+<br></br>
+<a class="gumroad-button" href="https://gum.co/become-ansible" target="_blank">Buy the book</a>
+<br></br>
+</p>
