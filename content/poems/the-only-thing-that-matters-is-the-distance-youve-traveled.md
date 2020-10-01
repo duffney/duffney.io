@@ -38,7 +38,7 @@ Look upon others to adjust your sights, dreams, and ambitions. Compare only to w
 <div align="center">
 <a href="">Listen [coming soon]</a>
 :
-<a href="https://share.mailbrew.com/joshduffney/josh-duffney-poems-onRnZpkhcLiH">Mailbrew</a>
+<a href="https://share.mailbrew.com/joshduffney/josh-duffney-poems-onRnZpkhcLiH">Subscribe</a>
 :
 <a href="https://twitter.com/joshduffney">Follow</a>
 </div>

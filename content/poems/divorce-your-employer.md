@@ -42,7 +42,7 @@ Consistency are your deposits and growth is the interest you're rewarded with.
 <div align="center">
 <a href="">Listen [coming soon]</a>
 :
-<a href="https://share.mailbrew.com/joshduffney/josh-duffney-poems-onRnZpkhcLiH">Mailbrew</a>
+<a href="https://share.mailbrew.com/joshduffney/josh-duffney-poems-onRnZpkhcLiH">Subscribe</a>
 :
 <a href="https://twitter.com/joshduffney">Follow</a>
 </div>

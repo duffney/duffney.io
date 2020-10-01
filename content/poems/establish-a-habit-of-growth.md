@@ -28,7 +28,7 @@ What's missing is the habit of growth. A habit that ensures a daily investment i
 <div align="center">
 <a href="">Listen [coming soon]</a>
 :
-<a href="https://share.mailbrew.com/joshduffney/josh-duffney-poems-onRnZpkhcLiH">Mailbrew</a>
+<a href="https://share.mailbrew.com/joshduffney/josh-duffney-poems-onRnZpkhcLiH">Subscribe</a>
 :
 <a href="https://twitter.com/joshduffney">Follow</a>
 </div>

@@ -43,7 +43,7 @@ Your life is uncharted. Ditch your mapped out plans. Plan for tomorrow’s battl
 <div align="center">
 <a href="">Listen [coming soon]</a>
 :
-<a href="https://share.mailbrew.com/joshduffney/josh-duffney-poems-onRnZpkhcLiH">Mailbrew</a>
+<a href="https://share.mailbrew.com/joshduffney/josh-duffney-poems-onRnZpkhcLiH">Subscribe</a>
 :
 <a href="https://twitter.com/joshduffney">Follow</a>
 </div>

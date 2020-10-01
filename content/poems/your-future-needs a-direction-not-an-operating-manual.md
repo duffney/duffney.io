@@ -27,7 +27,7 @@ Then I found a cure. It turns out the future needs a direction, not an operating
 <div align="center">
 <a href="">Listen [coming soon]</a>
 :
-<a href="https://share.mailbrew.com/joshduffney/josh-duffney-poems-onRnZpkhcLiH">Mailbrew</a>
+<a href="https://share.mailbrew.com/joshduffney/josh-duffney-poems-onRnZpkhcLiH">Subscribe</a>
 :
 <a href="https://twitter.com/joshduffney">Follow</a>
 </div>
