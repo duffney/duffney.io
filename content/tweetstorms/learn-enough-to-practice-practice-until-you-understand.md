@@ -8,7 +8,7 @@ show_comments: true
 type: post
 type: posts
 title: Learn enough to practice, practice until you understand
-categories: ["poem"]
+categories: ["tweets"]
 ---
 
 Information is abundant. And the skills you must develop are moving targets. Combined, these facts make the perfect conditions for analysis paralysis. If you allow yourself to become overwhelmed, you become a blacksmith that never swings a hammer.
@@ -28,7 +28,7 @@ Skill acquisition has no shortcuts. But there is an optimal method, deliberate p
 <div align="center">
 <a href="">Listen [coming soon]</a>
 :
-<a href="https://share.mailbrew.com/joshduffney/josh-duffney-poems-onRnZpkhcLiH">Mailbrew</a>
+<a href="https://share.mailbrew.com/joshduffney/josh-duffney-twitter-digest-8iwj7ZGKXGjn">Mailbrew</a>
 :
 <a href="https://twitter.com/joshduffney">Follow</a>
 </div>

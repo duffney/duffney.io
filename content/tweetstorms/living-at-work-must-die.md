@@ -7,7 +7,7 @@ type:
 - post
 - posts
 title: Living at work must die
-categories: ["poem"]
+categories: ["tweets"]
 aliases:
  - "drafts/living-at-work-must-die"
  - "/living-at-work-must-die/"
@@ -38,7 +38,7 @@ Without those boundaries, maintaining availability is unrealistic. Not only is i
 <div align="center">
 <a href="">Listen [coming soon]</a>
 :
-<a href="https://share.mailbrew.com/joshduffney/josh-duffney-poems-onRnZpkhcLiH">Mailbrew</a>
+<a href="https://share.mailbrew.com/joshduffney/josh-duffney-twitter-digest-8iwj7ZGKXGjn">Mailbrew</a>
 :
 <a href="https://twitter.com/joshduffney">Follow</a>
 </div>

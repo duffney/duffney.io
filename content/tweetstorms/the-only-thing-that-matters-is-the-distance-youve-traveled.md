@@ -8,7 +8,7 @@ show_comments: true
 type: post
 type: posts
 title: The only thing that matters is the distance you’ve traveled
-categories: ["poem"]
+categories: ["tweets"]
 ---
 
 I spent my twenties sprinting towards ideals. 
@@ -38,7 +38,7 @@ Look upon others to adjust your sights, dreams, and ambitions. Compare only to w
 <div align="center">
 <a href="">Listen [coming soon]</a>
 :
-<a href="https://share.mailbrew.com/joshduffney/josh-duffney-poems-onRnZpkhcLiH">Mailbrew</a>
+<a href="https://share.mailbrew.com/joshduffney/josh-duffney-twitter-digest-8iwj7ZGKXGjn">Mailbrew</a>
 :
 <a href="https://twitter.com/joshduffney">Follow</a>
 </div>

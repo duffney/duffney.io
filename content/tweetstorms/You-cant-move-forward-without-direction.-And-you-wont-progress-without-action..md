@@ -8,7 +8,7 @@ show_comments: true
 type: post
 type: posts
 title: You can't move forward without direction. And you won't progress without action.
-categories: ["poem"]
+categories: ["tweets"]
 ---
 
 Life seems charted. 
@@ -43,7 +43,7 @@ Your life is uncharted. Ditch your mapped out plans. Plan for tomorrow’s battl
 <div align="center">
 <a href="">Listen [coming soon]</a>
 :
-<a href="https://share.mailbrew.com/joshduffney/josh-duffney-poems-onRnZpkhcLiH">Mailbrew</a>
+<a href="https://share.mailbrew.com/joshduffney/josh-duffney-twitter-digest-8iwj7ZGKXGjn">Mailbrew</a>
 :
 <a href="https://twitter.com/joshduffney">Follow</a>
 </div>

@@ -8,7 +8,7 @@ show_comments: true
 type: post
 type: posts
 title: Enjoy the process
-categories: ["poem"]
+categories: ["tweets"]
 ---
 
 Outcomes are empty. Each goal is simply a mile marker of life. Bringing only a moment of reward as you approach it in anticipation. Its reward quickly fades as you drive past and move on to the next thing. Goals, outcomes, and objectives serve a single purpose, to provide direction. That is their only utility.
@@ -28,7 +28,7 @@ But you're never really done learning are you? Skills can always improve and the
 <div align="center">
 <a href="">Listen [coming soon]</a>
 :
-<a href="https://share.mailbrew.com/joshduffney/josh-duffney-poems-onRnZpkhcLiH">Mailbrew</a>
+<a href="https://share.mailbrew.com/joshduffney/josh-duffney-twitter-digest-8iwj7ZGKXGjn">Mailbrew</a>
 :
 <a href="https://twitter.com/joshduffney">Follow</a>
 </div>
