@@ -64,7 +64,7 @@ disqusShortname = "duffney"
 
 [permalinks]
   posts = "/:title"
-  tweetstorms = "/:title"
+  poems = "/:title"
 
   # Social icons
   [[params.social]]
@@ -104,9 +104,9 @@ disqusShortname = "duffney"
     url        = "/links"
 
   [[menu.main]]
-    identifier = "tweetstorms"
-    name       = "tweetstorms"
-    url        = "/tweetstorms"
+    identifier = "poems"
+    name       = "poems"
+    url        = "/poems"
 
   [[menu.main]]
     identifier = "products"
