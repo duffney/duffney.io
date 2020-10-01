@@ -64,7 +64,6 @@ disqusShortname = "duffney"
 
 [permalinks]
   posts = "/:title"
-  poems = "/:title"
 
   # Social icons
   [[params.social]]
