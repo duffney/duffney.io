@@ -140,7 +140,7 @@ Azure
 [Microsoft Certified: Azure Administrator Associate](https://docs.microsoft.com/en-us/learn/certifications/azure-administrator)
 [Microsoft Certified: DevOps Engineer Expert](https://docs.microsoft.com/en-us/learn/certifications/devops-engineer)
 
-_I have a sysadmin background. And my recommendations reflect my background. I hold the AWS CCP, but then chose to pivot and go to Azure. I currently hold the AZ-103 & AZ-400._
+_I have a sysadmin background. And my recommendations reflect my background. I hold the AWS CCP, but then chose to pivot to Azure. I currently hold the AZ-103 & AZ-400._
 
 ### Community
 
