@@ -120,7 +120,7 @@ Terraform
 1. [Practice of Cloud System Administration, The: DevOps and SRE Practices for Web Services, Volume 2](https://www.amazon.com/Practice-Cloud-System-Administration-Practices/dp/032194318X)
 2. [Cloud Native Patterns](https://www.manning.com/books/cloud-native-patterns)
 
-### Skill up with Certs
+**Skill up with Certs**
 
 Certifications matter. Each major cloud vendor has made a tremendous investment in their certification tracks. It’s simple, they want you to be able to use their cloud. 
 
