@@ -30,7 +30,7 @@ I compete against myself. And no one else.
 <br>
 
 <div align="center">
-<a href="">Listen [coming soon]</a>
+<a href="https://soundcloud.com/joshduffney/losing-yourself-in-competitive-comparison?in=joshduffney/sets/letters">Listen</a>
 :
 <a href="https://gumroad.com/joshduffney/follow">Subscribe</a>
 :
@@ -38,5 +38,3 @@ I compete against myself. And no one else.
 </div>
 
 <br>
-
-{{< audio src="/audio/losingyourselfincompetitivecomparison-track.mp3" >}}
