@@ -8,7 +8,7 @@ show_comments: true
 type: post
 type: posts
 title: Enjoy the process
-categories: ["tweets"]
+categories: ["letters"]
 ---
 
 Outcomes are empty. Each goal is simply a mile marker of life. Bringing only a moment of reward as you approach it in anticipation. Its reward quickly fades as you drive past and move on to the next thing. Goals, outcomes, and objectives serve a single purpose, to provide direction. That is their only utility.

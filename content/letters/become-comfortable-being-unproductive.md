@@ -8,7 +8,7 @@ show_comments: true
 type: post
 type: posts
 title: Become comfortable being unproductive
-categories: ["tweets"]
+categories: ["letters"]
 draft: true
 ---
 

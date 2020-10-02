@@ -111,9 +111,9 @@ disqusShortname = "duffney"
     weight = 200
 
   [[menu.main]]
-    identifier = "poems"
-    name       = "poems"
-    url        = "/poems"
+    identifier = "letters"
+    name       = "letters"
+    url        = "/letters"
     weight = 300
 
   [[menu.main]]

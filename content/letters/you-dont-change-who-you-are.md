@@ -8,7 +8,7 @@ show_comments: true
 type: post
 type: posts
 title: You don't change who you are
-categories: ["tweets"]
+categories: ["letters"]
 ---
 
 You don't change who you are. You change how you react. 

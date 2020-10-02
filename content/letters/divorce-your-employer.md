@@ -8,7 +8,7 @@ show_comments: true
 type: post
 type: posts
 title: Divorce your employer
-categories: ["tweets"]
+categories: ["letters"]
 ---
 
 Your employer isn’t your success coach. 

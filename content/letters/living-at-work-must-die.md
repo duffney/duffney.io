@@ -7,7 +7,7 @@ type:
 - post
 - posts
 title: Living at work must die
-categories: ["tweets"]
+categories: ["letters"]
 aliases:
  - "drafts/living-at-work-must-die"
  - "/living-at-work-must-die/"
