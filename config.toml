@@ -19,7 +19,7 @@ disqusShortname = "duffney"
   dateformNumTime = "2006-01-02 15:04 -0700"
 
   # Subtitle for home
-  homeSubtitle = "Building a business for my career"
+  homeSubtitle = "Engineering focus while working remote"
 
   # Set disableReadOtherPosts to true in order to hide the links to other posts.
   disableReadOtherPosts = false
@@ -90,12 +90,6 @@ disqusShortname = "duffney"
     name       = "blog"
     url        = "/posts"
     weight = -200
-
-  [[menu.main]]
-    identifier = "business"
-    name       = "business"
-    url        = "/business"
-    
 
   [[menu.main]]
     identifier = "start here"
