@@ -26,11 +26,7 @@ But you're never really done learning are you? Skills can always improve and the
 <br>
 
 <div align="center">
-<a href="">Listen [coming soon]</a>
-:
-<a href="https://share.mailbrew.com/joshduffney/josh-duffney-poems-onRnZpkhcLiH">Subscribe</a>
-:
-<a href="https://twitter.com/joshduffney">Follow</a>
+<a href="https://share.mailbrew.com/joshduffney/josh-duffney-monthly-digest-EJ7KkacwQyPl">Subscribe</a>
 </div>
 
 <br>

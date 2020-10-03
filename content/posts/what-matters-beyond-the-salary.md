@@ -87,7 +87,7 @@ Where are you today? Have you reached your number? Do you even know what that nu
 <br>
 
 <div align="center">
-<a href="https://twitter.com/joshduffney">Follow me on Twitter</a>
+<a href="https://share.mailbrew.com/joshduffney/josh-duffney-monthly-digest-EJ7KkacwQyPl">Subscribe</a>
 
 <br>
 <br>

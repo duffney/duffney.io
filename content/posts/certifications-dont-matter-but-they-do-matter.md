@@ -76,7 +76,7 @@ If you feel stuck, overwhelmed, or confused by where you should invest your time
 <br>
 
 <div align="center">
-<a href="https://twitter.com/joshduffney">Follow me on Twitter</a>
+<a href="https://share.mailbrew.com/joshduffney/josh-duffney-monthly-digest-EJ7KkacwQyPl">Subscribe</a>
 
 <br>
 <br>

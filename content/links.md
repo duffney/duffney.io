@@ -167,3 +167,13 @@ More reading!
 * [Accelerate: The Science of Lean Software and DevOps: Building and Scaling High Performing Technology Organizations](https://www.amazon.com/Accelerate-Software-Performing-Technology-Organizations/dp/1942788339/ref=pd_lpo_14_t_1/)
 * [The DevOps Handbook: How to Create World-Class Agility, Reliability, and Security in Technology Organizations](https://www.amazon.com/DevOps-Handbook-World-Class-Reliability-Organizations/dp/1942788002/)
 * [Site Reliability Engineering: How Google Runs Production Systems](https://landing.google.com/sre/books/)
+
+---
+
+<br>
+
+<div align="center">
+<a href="https://share.mailbrew.com/joshduffney/josh-duffney-monthly-digest-EJ7KkacwQyPl">Subscribe</a>
+</div>
+
+<br>

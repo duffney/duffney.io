@@ -30,11 +30,7 @@ I compete against myself. And no one else.
 <br>
 
 <div align="center">
-<a href="https://soundcloud.com/joshduffney/losing-yourself-in-competitive-comparison?in=joshduffney/sets/letters">Listen</a>
-:
-<a href="https://gumroad.com/joshduffney/follow">Subscribe</a>
-:
-<a href="https://twitter.com/joshduffney">Follow</a>
+<a href="https://share.mailbrew.com/joshduffney/josh-duffney-monthly-digest-EJ7KkacwQyPl">Subscribe</a>
 </div>
 
 <br>
