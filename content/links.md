@@ -73,6 +73,7 @@ Contents
 <script src="https://gumroad.com/js/gumroad.js"></script>
 <a class="gumroad-button" href="https://gum.co/YEFhf" target="_blank">Pre-order the Course</a>
 </div>
+
 <br>
 
 ## Infrastructure Should be Code
