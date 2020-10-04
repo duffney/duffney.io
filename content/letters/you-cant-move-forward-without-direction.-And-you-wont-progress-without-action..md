@@ -23,7 +23,7 @@ You set goals to drive outcomes. And reduce risk by lowering your aim. Convincin
 
 Yes. It is a war. But, it is fought on an unknown battlefield against the unpredictable tragedies of life that await everyone. The only true casualty of this war is a life wasted waiting for outcomes. 
 
-You may plan like Napoleon but explore Columbus.
+You may plan like Napoleon but explore like Columbus.
 
 Action and direction are the connecting points of progress. 
 
