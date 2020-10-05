@@ -27,19 +27,19 @@ My blog is a collection of my work, curated resources, and ideas. Ideas I've use
 
 When I need to escape the attention economy I disappear from [Twitter](https://twitter.com/joshduffney). But I'm always writing. And have been for over 200 days straight.
 
-**Subscribe to my monthly mailbrew.**
+**Subscribe to my weekly mailbrew.**
 
 
 <div align="left">
-  <iframe
-      title="Subscribe to Josh Duffney - Monthly Digest"
-      src="https://app.mailbrew.com/joshduffney/josh-duffney-monthly-digest-EJ7KkacwQyPl/embed?user=false&accent=f75858&theme=dark&minimal=false&crisp=off"
-      width="75%"
-      height="20%"
-      style={{ borderRadius: "6px"}}
-      frameBorder="0"
-      scrolling="no"
-    ></iframe>
+<iframe
+  title="Subscribe to Josh Duffney - Weekly Digest"
+  src="https://app.mailbrew.com/joshduffney/josh-duffney-weekly-digest-EJ7KkacwQyPl/embed?user=true&accent=f75858&theme=dark&minimal=false&crisp=off"
+  width="70%"
+  height="20%"
+  style={{ borderRadius: "6px"}}
+  frameBorder="0"
+  scrolling="no"
+></iframe>
 </div>
 
 
