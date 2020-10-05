@@ -34,8 +34,8 @@ When I need to escape the attention economy I disappear from [Twitter](https://t
 <iframe
   title="Subscribe to Josh Duffney - Weekly Digest"
   src="https://app.mailbrew.com/joshduffney/josh-duffney-weekly-digest-EJ7KkacwQyPl/embed?user=true&accent=f75858&theme=dark&minimal=false&crisp=off"
-  width="70%"
-  height="20%"
+  width="360"
+  height="230"
   style={{ borderRadius: "6px"}}
   frameBorder="0"
   scrolling="no"
