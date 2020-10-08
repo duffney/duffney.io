@@ -170,7 +170,7 @@ You've now successfully written and execute a Pester test congrats! Even with th
 
 ---
 
-Learn how I broke the chains of imposter syndrome.
+7 Lessons you need to unlock your learning. 
 
 **Subscribe** to **the 4-hour engineer** email list.
 

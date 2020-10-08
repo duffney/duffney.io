@@ -73,7 +73,7 @@ If you feel stuck, overwhelmed, or confused by where you should invest your time
 
 ---
 
-Learn how I broke the chains of imposter syndrome.
+7 Lessons you need to unlock your learning. 
 
 **Subscribe** to **the 4-hour engineer** email list.
 

@@ -184,7 +184,7 @@ _Special thanks to [Jeff Hicks](https://twitter.com/JeffHicks) for including me 
 
 ---
 
-Learn how I broke the chains of imposter syndrome.
+7 Lessons you need to unlock your learning. 
 
 **Subscribe** to **the 4-hour engineer** email list.
 

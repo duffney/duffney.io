@@ -118,7 +118,7 @@ So, now you're caught up with my PowerShell story. I hope it was an enjoyable re
 
 ---
 
-Learn how I broke the chains of imposter syndrome.
+7 Lessons you need to unlock your learning. 
 
 **Subscribe** to **the 4-hour engineer** email list.
 

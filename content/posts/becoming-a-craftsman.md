@@ -83,7 +83,7 @@ That’s it, that’s the past year of my life and what I’ve been up to. I hop
 
 ---
 
-Learn how I broke the chains of imposter syndrome.
+7 Lessons you need to unlock your learning. 
 
 **Subscribe** to **the 4-hour engineer** email list.
 

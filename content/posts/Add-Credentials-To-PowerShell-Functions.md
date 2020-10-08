@@ -331,7 +331,7 @@ I learned as much as you did, if not more. Teaching is the best way to learn aft
 
 ---
 
-Learn how I broke the chains of imposter syndrome.
+7 Lessons you need to unlock your learning. 
 
 **Subscribe** to **the 4-hour engineer** email list.
 
