@@ -190,7 +190,7 @@ _Time Commitment:_ ~2 hours per day
 
 ---
 
-Learn how I broke the chains of imposter syndrome.
+7 lessons you need to unlock your learning. 
 
 **Subscribe** to **the 4-hour engineer** email list.
 

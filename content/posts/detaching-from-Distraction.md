@@ -68,6 +68,8 @@ If I'm not reading or writing, I'm thinking. People closest to me will say, ther
 
 If this provoked some questions, please ask them in the comments below. If you're already doing some of these things, I'd love to hear your story! I want to know what habits and routines you've establish to stay disconnected.
 
+_Read_ _**Next**_, [The Digital Declutter](https://duffney.io/the-digital-declutter/)
+
 <!--
 You can follow me on [Twitter](https://twitter.com/joshduffney) where I'll be sharing the journey.
 -->
