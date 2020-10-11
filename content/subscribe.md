@@ -1,9 +1,8 @@
 # the 4-hour engineer
 
-Learn how I broke the chains of imposter syndrome.
+Learn how I applied [Be the Master](https://donjones.com/be-the-master/) and took back the driver's seat of my career.
 
 > It's not about your time. It's about your attention.
-
 
 ```
 1. Establish a habit of growth
