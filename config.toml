@@ -105,9 +105,9 @@ disqusShortname = "duffney"
     weight = 200
 
   [[menu.main]]
-    identifier = "newsletter"
-    name       = "newsletter"
-    url        = "/newsletter"
+    identifier = "subscribe"
+    name       = "subscribe"
+    url        = "/subscribe"
     weight = 300
 
   [[menu.main]]
