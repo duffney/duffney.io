@@ -1,6 +1,6 @@
 # the 4-hour engineer
 
-Learn how I applied [Be the Master](https://donjones.com/be-the-master/) and took back the driver's seat of my career.
+Take back your learning and accelerate your career
 
 > It's not about your time. It's about your attention.
 
