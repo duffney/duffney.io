@@ -1,6 +1,6 @@
 # the 4-hour engineer
 
-Take back your learning and accelerate your career
+How to unlock your learning and accelerate your career
 
 > It's not about your time. It's about your attention.
 
