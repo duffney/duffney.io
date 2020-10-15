@@ -21,11 +21,11 @@ Welcome to my blog. I [write](/posts), present tech talks, and author courses ab
 One big idea - being in control and not controlled by technology - living  a life of presents in a digital world - how do you work in tech without becoming consumed by it - without becoming its consumer - living with technology without it consuming you
 --->
 
-Welcome to my blog. I [write](/posts), present, teach, and tweet about; Automation, DevOps, Cloud, and how I'm building a business from for my career.
+Welcome to my blog. I [write](/posts), present, [teach](https://app.pluralsight.com/profile/author/josh-duffney), and [tweet](https://twitter.com/joshduffney) about; Automation, DevOps, Cloud, and how I'm engineering focus by optimizing outputs while minimizing inputs.
 
 My blog is a collection of my work, curated resources, and ideas. Ideas I've used to improve my career, myself and my life. As you browse my digital home, you'll find content on; [PowerShell](/tags/powershell/), [Ansible](/tags/ansible), [Terraform](/tags/terraform), [DevOps](/tags/devops), [Career](/tags/career), [Cloud](/tags/cloud), and [digital minimalism](/tags/digital-minimalism).
 
-When I need to escape the attention economy I disappear from [Twitter](https://twitter.com/joshduffney). But I'm always writing. Join my email list for a look behind the scenes. 
+When I need to escape the attention economy I disappear from Twitter. But I'm always writing. Join my email list for a look behind the scenes. 
 
 **Subscribe** to **the 4-hour engineer** email list.
 

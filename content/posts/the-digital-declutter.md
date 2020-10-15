@@ -65,7 +65,7 @@ _Natalie was taken aback by the depth of the analogies I used in conversation. S
 
 **Reflection:** Being described as a deep thinker caught me by surprise. I've never really considered myself an intellectual of any kind. Which is what I think about when someone says you think deeply. I asked her to expand on what she meant by deep thinker and she replied with "You have a way of painting an elaborate picture to help me understand what it is you're saying." I thought about that statement for a while and it made me realize the importance of communication. That's not a revolutionary discovery, but it was for me. I had always thought "Well..I write code and other technical things, how important could communication be? I'm not a manager or in a "leadership" position." Which is true, I'm not a manager and do not ever plan to be one. However, what about when I have an idea and I want to influence others? That was my aha moment.
 
-# What's Improved and What's Changed
+## What's Improved and What's Changed
 
 * My ability to listen.
 * I'm more available for conversation.
@@ -74,7 +74,7 @@ _Natalie was taken aback by the depth of the analogies I used in conversation. S
 * Willpower to resist low quality leisure activities.
 * Mental space to think about larger questions
 
-## New Habits
+### New Habits
 
 * I wear a watch.
 * I carry a pocket notebook and pen as a replacement for my smartphone.
@@ -82,7 +82,7 @@ _Natalie was taken aback by the depth of the analogies I used in conversation. S
 * I go outside more. I often take walks midday or in the mornings after a workout.
 * I reflect on conversations and do weekly reviews of my work.
 
-# An Invitation
+## An Invitation
 
 I wrote his blog post almost a year ago and for one reason or another, never published it. After a gentle nudge from [Dan Wahlin](https://twitter.com/DanWahlin), I re-read this blog post and decided to publish it. After reading it and reflecting on it, I am grateful for how much of it has stuck with me. At the same time, I realized how much I miss the person I was at the end of that blissful 30 days. The pendulum has swung too far and it is time to push it back. Over the next 30 days, starting on 3-16-2020 I'll be doing another digital declutter. During the first digital declutter I cut out nearly all technology after work hours. This time around I will not be as hardcore, but without sacrifice there is no reward. Ironically, I'll be using social media and you as my accountability partners. This time around I will be documenting not only my thoughts and reflections, I will also be sharing the protocols and tactics I use. I invite you to join me in this digital declutter. Here is how you get started.
 
@@ -104,9 +104,17 @@ _Tip: Buy or pick up that book you've been wanting to read._
 
 ---
 
-7 Lessons you need to unlock your learning. 
-
-**Subscribe** to **the 4-hour engineer** email list.
-
-<style> .gumroad-follow-form-embed { zoom: 1; } .gumroad-follow-form-embed:before, .gumroad-follow-form-embed:after { display: table; line-height: 0; content: ""; } .gumroad-follow-form-embed:after { clear: both; } .gumroad-follow-form-embed * { margin: 0; border: 0; padding: 0; outline: 0; box-sizing: border-box !important; float: left !important; } .gumroad-follow-form-embed input { border-radius: 4px; border-top-right-radius: 0; border-bottom-right-radius: 0; font-family: -apple-system, ".SFNSDisplay-Regular", "Helvetica Neue", Helvetica, Arial, sans-serif; font-size: 15px; line-height: 20px; background: #fff; border: 1px solid #ddd; border-right: 0; color: #aaa; padding: 10px; box-shadow: inset 0 1px 0 rgba(0, 0, 0, 0.02); background-position: top right; background-repeat: no-repeat; text-rendering: optimizeLegibility; font-smoothing: antialiased; -webkit-appearance: none; -moz-appearance: caret; width: 50% !important; height: 40px !important; } .gumroad-follow-form-embed button { border-radius: 4px; border-top-left-radius: 0; border-bottom-left-radius: 0; box-shadow: 0 1px 1px rgba(0, 0, 0, 0.12); -webkit-transition: all .05s ease-in-out; transition: all .05s ease-in-out; display: inline-block; padding: 11px 15px 12px; cursor: pointer; color: #fff; font-size: 15px; line-height: 100%; font-family: -apple-system, ".SFNSDisplay-Regular", "Helvetica Neue", Helvetica, Arial, sans-serif; background: #36a9ae; border: 1px solid #31989d; filter: "progid:DXImageTransform.Microsoft.gradient(startColorstr=#5ccfd4, endColorstr=#329ca1, GradientType=0)"; background: -webkit-linear-gradient(#5ccfd4, #329ca1); background: linear-gradient(to bottom, #5ccfd4, #329ca1); height: 40px !important; width: 35% !important; } </style> <form action="https://gumroad.com/follow_from_embed_form" class="form gumroad-follow-form-embed" method="post"> <input name="seller_id" type="hidden" value="7807279384399"> <input name="email" placeholder="Your email address" type="email"> <button data-custom-highlight-color="" type="submit">Subscribe</button> </form>
 <br>
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Atomic Habits applied to your cell phone:<br><br>There is an attention slot machine in your pocket stealing your time. If you want it back give this a try.<br><br>🧵 👇</p>&mdash; Josh Duffney (@joshduffney) <a href="https://twitter.com/joshduffney/status/1316406046987096064?ref_src=twsrc%5Etfw">October 14, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+_Twitter is my journal. Follow me to see the rest of my story unfold._
+
+<a href="https://twitter.com/joshduffney?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-size="large" data-lang="en" data-show-count="false">Follow @joshduffney</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<br>
+<!--
+<a class="twitter-share-button"
+  href="https://twitter.com/intent/tweet">
+Tweet</a>
+-->
