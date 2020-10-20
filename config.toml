@@ -12,6 +12,11 @@ disableReadOtherPosts = true
 googleAnalytics = "UA-173628310-1"
 disqusShortname = "duffney"
 
+[taxonomies]
+  category = "categories"
+  series = "series"
+  tag = "tags"
+
 [params]
   dateform        = "Jan 2, 2006"
   dateformShort   = "Jan 2"

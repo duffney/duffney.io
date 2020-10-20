@@ -2,15 +2,16 @@
 author:
   name: "Josh Duffney"
 date: 2020-09-04
-linktitle: Living at work must die
+linktitle: Stop living at work
 type:
 - post
 - posts
-title: Living at work must die
+title: Stop living at work
 tags: ["deep-work","remote-work"]
 categories: ["essays"]
 aliases:
  - "drafts/living-at-work-must-die"
+ - "/living-at-work-must-die"
 
 ---
 
