@@ -47,8 +47,6 @@ As I research, learn, and experiment I’ll be sharing my thoughts, insights, an
 
 <br>
 
-
-<!DOCTYPE html>
 <html>
 <head>
 <style>
