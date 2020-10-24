@@ -28,7 +28,7 @@ Reintegration
 ```
 
 <p align="center">
-As I write my next book, I'll be sharing my thoughts, insights, and progress.
+As I write my next book I'll be sharing my thoughts, insights, and progress.
 <p>
 <!-- As I research, learn, and experiment I’ll be sharing my thoughts, insights, and progress. 
 I'll be sharing my thoughts, insight, and progress as I write my next book.
