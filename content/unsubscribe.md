@@ -25,7 +25,7 @@ Reintegration
 * Curate the push, pull by default
 * Returning to async 
 * Writing is your cache
-* Be reachable on your terms
+* Be reachable on your own terms
 ```
 
 <p align="center">
