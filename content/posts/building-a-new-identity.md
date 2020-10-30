@@ -7,7 +7,7 @@ type:
 - post
 - posts
 title: Building a New Identity
-tags: ["deep-work","remote-work","career"]
+tags: ["motivation","career"]
 categories: ["essays"]
 ---
 
