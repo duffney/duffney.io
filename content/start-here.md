@@ -21,9 +21,11 @@ Welcome to my blog. I [write](/posts), present tech talks, and author courses ab
 One big idea - being in control and not controlled by technology - living  a life of presents in a digital world - how do you work in tech without becoming consumed by it - without becoming its consumer - living with technology without it consuming you
 --->
 
-Welcome to my blog. I [write](/posts), present, [teach](https://app.pluralsight.com/profile/author/josh-duffney), and [tweet](https://twitter.com/joshduffney) about; Automation, DevOps, Cloud, and how I'm engineering focus by optimizing output while minimizing input.
+Welcome to my blog. I [write](/posts), [teach](https://app.pluralsight.com/profile/author/josh-duffney), and [tweet](https://twitter.com/joshduffney) about; Automation, DevOps, Cloud, and how I'm optimizing output while minimizing input. 
 
-My blog is a collection of my work, curated resources, and ideas. Ideas I've used to improve my career, myself and my life. As you browse my digital home, you'll find content on; [PowerShell](/tags/powershell/), [Ansible](/tags/ansible), [Terraform](/tags/terraform), [DevOps](/tags/devops), [Career](/tags/career), [Cloud](/tags/cloud), and [digital minimalism](/tags/digital-minimalism).
+I've chosen to [unsubscribe](/unsubscribe). Always-on is for databases, but not for me. I'm seeking higher productivity with less screen time.
+
+My blog is a collection of my work, curated resources, and ideas. Ideas I've used to improve my career, myself and my life. As you browse my digital home, you'll find content about; [PowerShell](/tags/powershell/), [Ansible](/tags/ansible), [Terraform](/tags/terraform), [DevOps](/tags/devops), [Career](/tags/career), [Cloud](/tags/cloud), [digital minimalism](/tags/digital-minimalism), and [deep work](/tags/deep-work).
 
 <br>
 

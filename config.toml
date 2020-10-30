@@ -104,11 +104,11 @@ disqusShortname = "duffney"
     url        = "/links"
     weight = 200
 
-  #[[menu.main]]
-  #  identifier = "unsubscribe"
-  #  name       = "unsubscribe"
-  #  url        = "/unsubscribe"
-  #  weight = 300
+  [[menu.main]]
+    identifier = "unsubscribe"
+    name       = "unsubscribe"
+    url        = "/unsubscribe"
+    weight = 300
 
   [[menu.main]]
     identifier = "products"

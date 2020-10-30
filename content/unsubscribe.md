@@ -3,11 +3,18 @@ date: "2020-10-26"
 slug: Unsubscribe
 ---
 
+<!-- ## [Unsubscribe]() -->
+
 <p align="center">
 <u>Unsubscribe</u>: Living in the Digital World Without Being Consumed by it 
+
+<br>
+<br>
+<img src="/img/cover3.png">
 </p>
 
-```
+
+<!-- ```
 Oversubscribed
 * Always-on is for databases, not for you
 * The attention slot machine in your pocket
@@ -25,8 +32,9 @@ Reintegration
 * Curate the push, pull by default
 * Returning to async 
 * Writing is your cache
+* Make your work visible
 * Be reachable on your own terms
-```
+``` -->
 
 <p align="center">
 <i>writing in progress</i>
@@ -34,11 +42,9 @@ Reintegration
 
 You need a kill switch. An andon cord. Some way to turn off the always-on chaos that’s been transplanted into the digital world. _Higher productivity is found in less screen time, not more._
 
-Attention matters more than time. And most people don’t realize that. How we work is changing and I’m rushing to the front lines to explore this new remote-first world.
+Attention matters more than time. And most people don’t realize that. How we work is changing.
 
 Without the walls of an office to confine our work, we're left defenseless without boundaries. It's time to stop living at work and learn to live in the digital world without being consumed by it.
-
-As I research, learn, and experiment I’ll be sharing my thoughts, insights, and progress.
 
 <!-- As I research, learn, and experiment I’ll be sharing my thoughts, insights, and progress. 
 I'll be sharing my thoughts, insight, and progress as I write my next book.
