@@ -9,6 +9,8 @@ type: posts
 title: Splatting Parameters Inside Advanced Functions
 tags: ["PowerShell","Splat"]
 categories: ["how-to"]
+aliases: 
+- /Splatting-Parameters-Within-AdvancedFunctions
 ---
 
 In Windows PowerShell terms, splatting is a way of bundling parameters to send to a command. 
