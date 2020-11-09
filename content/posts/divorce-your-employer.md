@@ -9,6 +9,7 @@ type: post
 type: posts
 title: Divorce your employer
 categories: ["letters"]
+series: ["Letters to Myself"]
 ---
 
 Your employer isn’t your success coach. 
