@@ -9,6 +9,7 @@ type: post
 type: posts
 title: You don't change who you are
 categories: ["letters"]
+series: ["Letters to Myself"]
 ---
 
 You don't change who you are. You change how you react. 

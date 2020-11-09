@@ -9,6 +9,7 @@ type: post
 type: posts
 title: The only thing that matters is the distance you’ve traveled
 categories: ["letters"]
+series: ["Letters to Myself"]
 ---
 
 I spent my twenties sprinting towards ideals. 

@@ -9,6 +9,7 @@ type: post
 type: posts
 title: You can't move forward without direction. And you won't progress without action.
 categories: ["letters"]
+series: ["Letters to Myself"]
 ---
 
 Life seems charted. 

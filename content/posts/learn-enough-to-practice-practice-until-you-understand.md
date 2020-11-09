@@ -9,6 +9,7 @@ type: post
 type: posts
 title: Learn enough to practice, practice until you understand
 categories: ["letters"]
+series: ["Letters to Myself"]
 ---
 
 Information is abundant. And the skills you must develop are moving targets. Combined, these facts make the perfect conditions for analysis paralysis. If you allow yourself to become overwhelmed, you become a blacksmith that never swings a hammer.

@@ -9,6 +9,7 @@ type: post
 type: posts
 title: Losing yourself in competitive comparison
 categories: ["letters"]
+series: ["Letters to Myself"]
 ---
 
 My mind has slipped.
