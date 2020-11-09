@@ -100,3 +100,13 @@ process {
 ## Complete Code
 
 {% gist 444c3dbfadf915326f074fa1e274f9a9 %}
+
+---
+
+<br>
+
+<div align="center">
+<a href="https://share.mailbrew.com/joshduffney/the-duffney-digest-8iwj7ZGKXGjn">Subscribe</a>
+</div>
+
+<br>

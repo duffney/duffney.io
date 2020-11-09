@@ -186,8 +186,10 @@ If you want to learn more about regular expression, check out my Pluralsight cou
 
 ---
 
-_Twitter is my journal. Follow me to see the rest of my story unfold._
-
-<a href="https://twitter.com/joshduffney?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-size="large" data-lang="en" data-show-count="false">Follow @joshduffney</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 <br>
 
+<div align="center">
+<a href="https://share.mailbrew.com/joshduffney/the-duffney-digest-8iwj7ZGKXGjn">Subscribe</a>
+</div>
+
+<br>

@@ -17,8 +17,6 @@ Fixating on outcomes forces you to be a passenger on this road trip of life. A p
 
 But you're never really done learning are you? Skills can always improve and there is always more to learn. You're playing an infinite game as if it were a finite game. Learn to enjoy the process instead of the outcome. Find work that in and of itself is the reward. To find such work, pause on your climb to who you want to be. And ask "Who am I?", dig deep enough that the reply is met with your own disbelief. Then build evidence of that version of you.
 
-> _“When you fall in love with the process rather than the product, you don’t have to wait to give yourself permission to be happy. You can be satisfied anytime your system is running.” ― James Clear, Atomic Habits_
-
 <br>
 
 ---
@@ -26,7 +24,7 @@ But you're never really done learning are you? Skills can always improve and the
 <br>
 
 <div align="center">
-<a href="https://share.mailbrew.com/joshduffney/josh-duffney-monthly-digest-EJ7KkacwQyPl">Subscribe</a>
+<a href="https://share.mailbrew.com/joshduffney/the-duffney-digest-8iwj7ZGKXGjn">Subscribe</a>
 </div>
 
 <br>

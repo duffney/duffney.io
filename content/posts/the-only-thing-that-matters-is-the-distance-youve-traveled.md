@@ -27,8 +27,6 @@ You miss the opportunity to learn from and benefit from the assistance of others
 
 Look upon others to adjust your sights, dreams, and ambitions. Compare only to who you were yesterday. They are the compass, you are the ship. The only thing that matters is the distance you’ve traveled.
 
-> _"You should be better than you are. But it's not because you're worse than other people. It's because you're not everything you should be." - Jordan B. Peterson, 12 Rules for Life_
-
 <br>
 
 ---
@@ -36,7 +34,7 @@ Look upon others to adjust your sights, dreams, and ambitions. Compare only to w
 <br>
 
 <div align="center">
-<a href="https://share.mailbrew.com/joshduffney/josh-duffney-monthly-digest-EJ7KkacwQyPl">Subscribe</a>
+<a href="https://share.mailbrew.com/joshduffney/the-duffney-digest-8iwj7ZGKXGjn">Subscribe</a>
 </div>
 
 <br>

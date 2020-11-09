@@ -19,7 +19,7 @@ Several weeks ago I got some feedback that caused me to pause and reflect. The t
 Had this feedback not come from him, someone I respect and knew had good intentions, I would have dismissed it. Even so, it wasn’t easy to digest. However, I couldn’t let my ego get the best of me. Such honest and candid feedback deserves some serious thought. This blog post is more or less my way of digesting that feedback.
 
 ## Maybe I’m a Printer?
-In a conversation with a coworker of mine, we discussed how we had forgotten where our value as engineers comes from. Jaigene articulated it like this “Our industry hires people for specific skills when they’re hired. Just like how you’d buy a new printer. Does the printer have the features I want? Does this person have the skills I want?” I somehow let that infect me and I started to ask myself, “am I a printer?” Jaigene painted a much more colorful picture than I did, but I felt the same way. I felt stuck and even worse, I felt I was being left behind and my value as an engineer was starting to depreciate. Over the past year or so I seem to have forgotten my value isn’t in what I know, but what I can know, how quickly I can learn it, and the solutions I create from that knowledge. A common trap individual contributors fall into is defining themselves by their job and letting their job shape their career. We are not our titles, we are not defined by the lines on our resumes. It is not our employers responsibility to give us the opportunity to add new lines to our resume, that’s our responsibility. 
+In a conversation with a coworker of mine, we discussed how we had forgotten where our value as engineers comes from. Jaigene articulated it like this “Our industry hires people for specific skills when they’re hired. Just like how you’d buy a new printer. Does the printer have the features I want? Does this person have the skills I want?” I somehow let that infect me and I started to ask myself, “am I a printer?” Jaigene painted a much more colorful picture than I did, but I felt the same way. I felt stuck and even worse, I felt I was being left behind and my value as an engineer was starting to depreciate. Over the past year or so I seem to have forgotten my value isn’t in what I know, but what I can know, how quickly I can learn it, and the solutions I create from that knowledge. A common trap individual contributors fall into is defining themselves by their job and letting their job shape their career. We are not our titles, we are not defined by the lines on our resumes. It is not our employer's responsibility to give us the opportunity to add new lines to our resume, that’s our responsibility. 
 
 ## Job != Career
 Is there really a difference between your job and career? I have worked in IT operations for the past ten years and I’ve progressed through the various titles over the years. But what separates them from one another? Looking back, it’s easy to see. The answer is the investment I continually made in my career. My career is what separates them and is what has allowed me to progress. This is something I’ve known and taken advantage of previously. So what happened? Why was I asking myself “Am I a printer?” After some reflection, the best explanation I have is; I became unintentional about my learning and allowed the constraints of my job to dictate what I learn. But why did I allow this to happen?
@@ -106,7 +106,10 @@ Influencers - Don Jones, Mike Pfeiffer
 
 ---
 
-_Twitter is my journal. Follow me to see the rest of my story unfold._
+<br>
 
-<a href="https://twitter.com/joshduffney?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-size="large" data-lang="en" data-show-count="false">Follow @joshduffney</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<div align="center">
+<a href="https://share.mailbrew.com/joshduffney/the-duffney-digest-8iwj7ZGKXGjn">Subscribe</a>
+</div>
+
 <br>

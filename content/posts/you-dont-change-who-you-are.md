@@ -27,11 +27,11 @@ I've learned to control my reactions to these menacing emotions. Letting them ou
 
 At the surface, these traits appear as defects. 
 
-But void of their negative affects they're powerful. Further more their a part of what makes me, me.
+But void of their negative effects they're powerful. Further more, their a part of what makes me, me.
 
-Through these defects I see the world differently than most. I feel more deeply than most. I'm sensitive? 
+Through these defects, I see the world differently than most. I feel more deeply than most. I'm sensitive? 
 
-My sensitivivty allows me to see what others are ignorant of. 
+My sensitivity allows me to see what others are ignorant of. 
 
 Beware of the binary identity. 
 
@@ -41,10 +41,11 @@ What you cast out as defects just might be your greatest assets.
 
 ---
 
+
 <br>
 
 <div align="center">
-<a href="https://share.mailbrew.com/joshduffney/josh-duffney-monthly-digest-EJ7KkacwQyPl">Subscribe</a>
+<a href="https://share.mailbrew.com/joshduffney/the-duffney-digest-8iwj7ZGKXGjn">Subscribe</a>
 </div>
 
 <br>

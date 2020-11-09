@@ -30,7 +30,7 @@ I compete against myself. And no one else.
 <br>
 
 <div align="center">
-<a href="https://share.mailbrew.com/joshduffney/josh-duffney-monthly-digest-EJ7KkacwQyPl">Subscribe</a>
+<a href="https://share.mailbrew.com/joshduffney/the-duffney-digest-8iwj7ZGKXGjn">Subscribe</a>
 </div>
 
 <br>

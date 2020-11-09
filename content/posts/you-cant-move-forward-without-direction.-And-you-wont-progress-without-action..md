@@ -31,8 +31,6 @@ Direction is required to ignite action. And action is required to fuel direction
 
 Your life is uncharted. Ditch your mapped out plans. Plan for tomorrow’s battle. Because the rest is unknown.
 
-> _"All direction comes from doing. In my case, consistent, imperfect action led me to stumble upon an idea that hasn’t failed yet. The only plan is to keep going until it does." - Jack Butcher: Therapy through design_
-
 
 <br>
 
@@ -41,7 +39,7 @@ Your life is uncharted. Ditch your mapped out plans. Plan for tomorrow’s battl
 <br>
 
 <div align="center">
-<a href="https://share.mailbrew.com/joshduffney/josh-duffney-monthly-digest-EJ7KkacwQyPl">Subscribe</a>
+<a href="https://share.mailbrew.com/joshduffney/the-duffney-digest-8iwj7ZGKXGjn">Subscribe</a>
 </div>
 
 <br>

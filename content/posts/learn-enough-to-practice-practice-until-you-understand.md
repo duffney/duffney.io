@@ -17,8 +17,6 @@ Learning is the first phase of skill acquisition. Read, watch, and listen until 
 
 Skill acquisition has no shortcuts. But there is an optimal method, deliberate practice. Cure analysis paralysis by developing selection criteria. Know what skills belong in your toolbelt and which do not. Once selected, make competence your only goal. Only after you've become competent can you determine if mastery is worth pursuing. Become comfortable being unproductive. Give yourself the freedom to experiment and learn.
 
-> _“The trouble comes when we confuse learning with skill acquisition. If you want to acquire a new skill, you must practice it in context. Learning enhances practice, but it doesn’t replace it. If performance matters, learning alone is never enough.” ― Josh Kaufman, The First 20 Hours_
-
 <br>
 
 ---
@@ -26,7 +24,7 @@ Skill acquisition has no shortcuts. But there is an optimal method, deliberate p
 <br>
 
 <div align="center">
-<a href="https://share.mailbrew.com/joshduffney/josh-duffney-monthly-digest-EJ7KkacwQyPl">Subscribe</a>
+<a href="https://share.mailbrew.com/joshduffney/the-duffney-digest-8iwj7ZGKXGjn">Subscribe</a>
 </div>
 
 <br>

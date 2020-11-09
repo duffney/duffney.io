@@ -17,8 +17,6 @@ Time. It’s such a finite resource. You know you can’t make more of it. So yo
 
 What's missing is the habit of growth. A habit that ensures a daily investment in your future self. You cannot make time. You can only take time. It's a matter of choice. As with money, you must pay yourself first. If you want enough time to pursue what's most important, schedule time with yourself. Establish a habit of growth and put the investment of your future self on autopay.
 
-> _“If you want better results, then forget about setting goals. Focus on your system instead.” ― James Clear, Atomic Habits_
-
 <br>
 
 ---
@@ -26,7 +24,7 @@ What's missing is the habit of growth. A habit that ensures a daily investment i
 <br>
 
 <div align="center">
-<a href="https://share.mailbrew.com/joshduffney/josh-duffney-monthly-digest-EJ7KkacwQyPl">Subscribe</a>
+<a href="https://share.mailbrew.com/joshduffney/the-duffney-digest-8iwj7ZGKXGjn">Subscribe</a>
 </div>
 
 <br>

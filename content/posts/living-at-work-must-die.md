@@ -49,8 +49,10 @@ The truth is, we don't know how to work remotely. Remote work has become the new
 
 ---
 
-_Twitter is my journal. Follow me to see the rest of my story unfold._
+<br>
 
-<a href="https://twitter.com/joshduffney?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-size="large" data-lang="en" data-show-count="false">Follow @joshduffney</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<div align="center">
+<a href="https://share.mailbrew.com/joshduffney/the-duffney-digest-8iwj7ZGKXGjn">Subscribe</a>
+</div>
 
 <br>

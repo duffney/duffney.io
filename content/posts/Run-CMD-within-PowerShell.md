@@ -42,9 +42,8 @@ Contribution [Gabriel McColl](https://twitter.com/gabrielmccoll)
 
 <br>
 
-
-
 <div align="center">
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Sysadmin to SRE with a single language, PowerShell<br><br>• Toil reduction (Automate boring things)<br>• Configuration Management (DSC + Ansible)<br>• Build tools (Psake)<br>• Automated Testing (Pester)<br>• Linting (PSScriptAnalyzer)<br>• Cloud automation (Yep, still PowerShell 😁)</p>&mdash; Josh Duffney (@joshduffney) <a href="https://twitter.com/joshduffney/status/1286324735308161024?ref_src=twsrc%5Etfw">July 23, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-<a href="https://twitter.com/joshduffney?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-size="large" data-lang="en" data-show-count="false">Follow @joshduffney</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<a href="https://share.mailbrew.com/joshduffney/the-duffney-digest-8iwj7ZGKXGjn">Subscribe</a>
 </div>
+
+<br>
