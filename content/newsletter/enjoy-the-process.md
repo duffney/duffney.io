@@ -2,21 +2,25 @@
 author:
   name: "Josh Duffney"
 date: 2020-09-08
-linktitle: Enjoy the process
+linktitle: Ship 30 for 30 - Optmize Output minimize input
 toc: false
 show_comments: true
 type: post
 type: posts
-title: Enjoy the process
+title: Ship 30 for 30 - Optmize Output minimize input
 categories: ["letters"]
 series: ["Letters to Myself"]
 ---
 
-Outcomes are empty. Each goal is simply a mile marker of life. Bringing only a moment of reward as you approach it in anticipation. Its reward quickly fades as you drive past and move on to the next thing. Goals, outcomes, and objectives serve a single purpose, to provide direction. That is their only utility.
+1. Pick a single topic, niche, or theme.
+2. For 30 days, you'll write an atomic on the topic. 
 
-Fixating on outcomes forces you to be a passenger on this road trip of life. A passenger forced into the trunk. All of your enjoyment is postponed until you arrive at the destination. And what a terrible and uncomfortable ride it would be. Learning is much the same. Outcome-based learning imposes suffering as you expend your willpower and grit through the trials. Until that faithful day that you've acquired the skills you seek.
-
-But you're never really done learning are you? Skills can always improve and there is always more to learn. You're playing an infinite game as if it were a finite game. Learn to enjoy the process instead of the outcome. Find work that in and of itself is the reward. To find such work, pause on your climb to who you want to be. And ask "Who am I?", dig deep enough that the reply is met with your own disbelief. Then build evidence of that version of you.
+```
+• Under 200 words
+• Must fit in a single screenshot
+• Must share it on Twitter. 
+```
+3. Build an evergreen asset that will serve as the foundation for any future writing you do.
 
 <br>
 
@@ -24,8 +28,23 @@ But you're never really done learning are you? Skills can always improve and the
 
 <br>
 
+<p align="center">
+<a href="https://share.mailbrew.com/joshduffney/the-duffney-digest-dsL8moSCOvCb">Subscribe</a> and enter your email below.
+</p>
+
 <div align="center">
-<a href="https://share.mailbrew.com/joshduffney/the-duffney-digest-8iwj7ZGKXGjn">Subscribe</a>
+
+<iframe
+  title="Subscribe to The Duffney Digest"
+  src="https://app.mailbrew.com/joshduffney/the-duffney-digest-dsL8moSCOvCb/embed?user=false&accent=000000&theme=light&minimal=true&crisp=off"
+  width="360"
+  height="40"
+  style={{ borderRadius: "6px"}}
+  frameBorder="0"
+  scrolling="no"
+></iframe>
+
+<br>
 </div>
 
 <br>
