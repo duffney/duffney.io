@@ -7,12 +7,9 @@ slug: Unsubscribe
 
 <p align="center">
 <u>Unsubscribe</u>: Living in the Digital World Without Being Consumed by it 
-
-<br>
-<br>
-<img src="/img/book-cover.png">
 </p>
 
+---
 
 <!-- ```
 Oversubscribed
@@ -35,10 +32,6 @@ Reintegration
 * Make your work visible
 * Be reachable on your own terms
 ``` -->
-
-<p align="center">
-<i>writing in progress</i>
-</p>
 
 You need a kill switch. An andon cord. Some way to turn off the always-on chaos that’s been transplanted into the digital world. _Higher productivity is found in less screen time, not more._
 
