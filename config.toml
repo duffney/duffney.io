@@ -19,7 +19,7 @@ disqusShortname = "duffney"
   dateformNumTime = "2006-01-02 15:04 -0700"
 
   # Subtitle for home
-  homeSubtitle = "Engineering focus. Optimize output. Minimize input."
+  homeSubtitle = "Optimize Output: minimize input."
 
   # Set disableReadOtherPosts to true in order to hide the links to other posts.
   disableReadOtherPosts = false
@@ -105,9 +105,9 @@ disqusShortname = "duffney"
     weight = 200
 
   [[menu.main]]
-    identifier = "unsubscribe"
-    name       = "unsubscribe"
-    url        = "/unsubscribe"
+    identifier = "newsletter"
+    name       = "newsletter"
+    url        = "/newsletter"
     weight = 300
 
   [[menu.main]]
