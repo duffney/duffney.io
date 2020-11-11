@@ -1,24 +1,27 @@
 ---
 author:
   name: "Josh Duffney"
-date: 2020-11-10
-linktitle: Tethered
+date: 2020-09-30
+linktitle: Losing yourself in comparison
 toc: false
 show_comments: true
 type: post
 type: posts
-title: Tethered
+title: Losing yourself in comparison
 categories: ["newsletter"]
 ---
 
-Tethered. A single word that describes my relationship with technology. It means to connect. But it also means to tie with 
-a rope or chain to restrict movement. And that’s what technology does to my mind. It connects and restricts me.
+My mind has slipped.
 
-Restrict, what an odd choice of words, don’t you think? Technology is often thought of as freeing us from the limitations 
-of the physical world. But what I’ve come to discover is that there is a cost associated with this connectedness. 
+I’m stuck again. Trapped in my mind. Fighting a battle that exists in another’s life. 
 
-Tethering your phone to your laptop puts more demand on your phone. And so does keeping your mind connected to the digital world. 
-It has a cost. Your payments are your productivity and happiness.
+I’ve lost my sight. My life plays before my eyes. Yet, I do not see it. I’m elsewhere. Planning, thinking. No, I’m wasting. 
+
+Wasting my time, my talents, and my life. 
+
+It calls me. My slumber awaits. I must reclaim my mind. Rediscover who I am. Who I want to be. 
+
+I compete against myself. And no one else.
 
 ---
 
