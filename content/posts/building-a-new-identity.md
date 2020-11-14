@@ -211,6 +211,28 @@ It looks like work to others but feels like play to me. I have awoken the playfu
 
 It’s time to start building the evidence for another new identity. The evidence of a writer.
 
+## What’s Next?
+
+Technology that once kept us connected now keeps us always-on. Without the walls and exit signs of a physical office we are left without the boundaries. Boundaries that kept our work confined to a set number of hours per day.
+
+People need a kill switch. An andon cord. Some way to turn off the always-on chaos that’s been transplanted into the digital world. _Higher productivity is found in less screen time, not more._
+
+Attention matters more than time. And most people don’t realize that.
+
+It’s said that you should write the book you want to read. Well, if that’s true what I most need is a way to **unsubscribe**.  And that’s the idea I’ll be exploring in my next book.
+
+As I learn to `live in the digital world without being consumed by it` I’ll be sharing my thoughts, insights, and progress.
+
+If you'd like to learn more, check out:
+
+> Read: [Detaching from Distraction](https://duffney.io/detaching-from-distraction/)
+>
+> Read: [The Digital Declutter](https://duffney.io/the-digital-declutter/)
+>
+> Listen to: [Perspectives in Tech: Digital minimalism](https://open.spotify.com/episode/4tnoHlCuhgWs1CJzCxiJ7W?si=J6mAIpZYS1-vUf74Ii9aSg)
+
+When I need to escape the attention economy I disappear from social media. But I’m always writing.
+
 ---
 
 <br></br>
