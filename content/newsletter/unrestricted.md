@@ -29,3 +29,16 @@ The `Mentions` tab on the other hand is a means of conversation. Sadly, out of t
 My `profile`. It's my profile's fault that I don't have 50k followers. So I obsess. Building an audience is a goal of mine, but this obsession must be dealt with.
 
 **Next**: _Refusing to be fed_, getting rid of the feed.
+
+
+<br>
+
+---
+
+<br>
+
+<div align="center">
+<a href="https://share.mailbrew.com/joshduffney/the-duffney-digest-YkdkmVElQDAP">Subscribe</a>
+</div>
+
+<br>
