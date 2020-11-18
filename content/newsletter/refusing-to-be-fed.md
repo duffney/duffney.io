@@ -2,12 +2,12 @@
 author:
   name: "Josh Duffney"
 date: 2020-11-18
-linktitle: Refusing to be red
+linktitle: Refusing to be fed
 toc: false
 show_comments: false
 type: post
 type: posts
-title: Refusing to be red
+title: Refusing to be fed
 tags: ["social-media","unsubscribe"]
 categories: ["newsletter"]
 ---
