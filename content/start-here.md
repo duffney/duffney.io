@@ -22,10 +22,10 @@ My blog is a collection of my work, curated resources, and ideas. Ideas I've use
 
 ---
 
-<div align="center">
+<!-- <div align="center">
 <p><i>When I need to escape the attention economy I disappear. But I'm always writing.</i></p>
 <p>
-<a href="https://share.mailbrew.com/joshduffney/the-duffney-digest-YkdkmVElQDAP">Subscribe</a> to my weekly brew.
+<a href="https://duffney.substack.com/">Subscribe</a> to my weekly brew.
 </p>
 <iframe
   title="Subscribe to The Duffney Digest"
@@ -36,7 +36,20 @@ My blog is a collection of my work, curated resources, and ideas. Ideas I've use
   frameBorder="0"
   scrolling="no"
 ></iframe>
-</div>
+</div> -->
+
+
+<div align="center">
+<p><i>When I need to escape the attention economy I disappear. But I'm always writing.</i></p>
+</div> 
+
+<br>
+
+<div align="center">
+<a href="https://duffney.substack.com/">Subscribe</a>
+</div> 
+
+<br>
 
 ---
 

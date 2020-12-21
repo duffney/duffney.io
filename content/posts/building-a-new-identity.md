@@ -238,7 +238,7 @@ When I need to escape the attention economy I disappear from social media. But I
 <br></br>
 
 <div align="center">
-<a href="https://share.mailbrew.com/joshduffney/the-duffney-digest-YkdkmVElQDAP">Subscribe</a>
+<a href="https://duffney.substack.com/">Subscribe</a>
 </div>
 
 <br></br>

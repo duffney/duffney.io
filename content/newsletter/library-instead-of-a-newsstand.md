@@ -31,7 +31,7 @@ Twitter is becoming less chaotic and more enjoyable.
 <br>
 
 <div align="center">
-<a href="https://share.mailbrew.com/joshduffney/the-duffney-digest-YkdkmVElQDAP">Subscribe</a>
+<a href="https://duffney.substack.com/">Subscribe</a>
 </div>
 
 <br>

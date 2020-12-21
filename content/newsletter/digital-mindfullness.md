@@ -14,7 +14,7 @@ categories: ["newsletter"]
 
 Mindfulness is focusing one’s awareness on the present moment. Digital is what our lives have become. To be **digitally mindful** is to be aware of the effects technology has on you.
 
-Technology pulls you out of the present moment. It transports you into a world of ones and zeros. Each decade life becomes more intertwined with technology. To the point at which you no longer view them as different worlds. You haven't noticed, but technology has pillaged your mental space.
+Technology pulls you out of the present moment. It transports you into a world of ones and zeros. With each decade life becomes more intertwined with technology. To the point at which you no longer view them as different worlds. You haven't noticed, but technology has pillaged your mental space.
  
 You protect those thirty-minute and one-hour blocks on your calendar. But what about the moments sprinkled throughout your days? _Where have the minutes that accumulate to hours gone?_
 
@@ -31,7 +31,7 @@ You protect your time, but not your **attention**. And that's their trojan horse
 <br>
 
 <div align="center">
-<a href="https://share.mailbrew.com/joshduffney/the-duffney-digest-YkdkmVElQDAP">Subscribe</a>
+<a href="https://duffney.substack.com/">Subscribe</a>
 </div>
 
 <br>

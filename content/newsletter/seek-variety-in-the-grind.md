@@ -25,7 +25,7 @@ That’s it, variation! Perhaps the answer lies within variety, variety in the g
 <br>
 
 <div align="center">
-<a href="https://share.mailbrew.com/joshduffney/the-duffney-digest-YkdkmVElQDAP">Subscribe</a>
+<a href="https://duffney.substack.com/">Subscribe</a>
 </div>
 
 <br>

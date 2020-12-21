@@ -38,7 +38,7 @@ My `profile`. It's my profile's fault that I don't have 50k followers. So I obse
 <br>
 
 <div align="center">
-<a href="https://share.mailbrew.com/joshduffney/the-duffney-digest-YkdkmVElQDAP">Subscribe</a>
+<a href="https://duffney.substack.com/">Subscribe</a>
 </div>
 
 <br>

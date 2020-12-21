@@ -37,7 +37,7 @@ Your life is uncharted. Ditch your mapped out plans. Plan for tomorrow’s battl
 <br>
 
 <div align="center">
-<a href="https://share.mailbrew.com/joshduffney/the-duffney-digest-YkdkmVElQDAP">Subscribe</a>
+<a href="https://duffney.substack.com/">Subscribe</a>
 </div>
 
 <br>

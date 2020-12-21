@@ -6,7 +6,7 @@
 |<i>  "It's not about your time. It's about your attention."</i> |
 </p>
 
-[Subscribe](https://share.mailbrew.com/joshduffney/the-duffney-digest-YkdkmVElQDAP)
+[Subscribe](https://duffney.substack.com/)
 
 
 <!-- <iframe
