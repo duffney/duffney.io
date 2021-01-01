@@ -21,15 +21,6 @@ For example, the cmdlet `New-ADUser` has a `-Credential` parameter, which you co
 
 This blog post walks you through the process of adding such functionality to your PowerShell functions. I also discuss how to get around common issues when working with _legacy_ cmdlets that don't support a credential object, but before we get started let's first talk about PSCredential objects and how to generate them.
 
----
-
-<div align="center">
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">From Sysadmin to &quot;DevOps&quot;<br><br>1. Automation language (PowerShell)<br>2. Source control (Git)<br>3. Release Engineering (TeamCity &amp; Octopus Deploy) <br>4. Infrastructure as Code (DSC, Ansible, and now Terraform)<br>5. Cloud (Azure &amp; AWS)<br><br>7 years of learning in 5 bullet points.</p>&mdash; Josh Duffney (@joshduffney) <a href="https://twitter.com/joshduffney/status/1270717407548473346?ref_src=twsrc%5Etfw">June 10, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-<a href="https://twitter.com/joshduffney?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-size="large" data-lang="en" data-show-count="false">Follow @joshduffney</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-</div>
-
----
-
 ## Creating Credential Object
 
 _PSCredential objects represent a set of security credentials, such as a user name and password._ [MSDN](https://msdn.microsoft.com/en-us/library/system.management.automation.pscredential(v=vs.85).aspx) The objects are then passed to the parameter of a function and used to execute the function as that user account in the credential object. There are a few ways that you can generate a credential object. The first and easiest method is by using the PowerShell cmdlet `Get-Credential`. You can simply execute `Get-Credential`, which will result in a username and password prompt. From there you could enter the _domainName\userName_ or you can call the cmdlet with some optional parameters.
