@@ -1,12 +1,4 @@
 
-<!---
-![displaypic30](/img/displaypic30.png)
-
-
-![displaypic30](/img/image.png)
-![displaypic30](/img/displaypic30-round1.png)
-
-
 --->
 
 ![displaypic30](/img/displaypic30.png)
