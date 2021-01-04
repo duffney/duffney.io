@@ -1,6 +1,3 @@
-
---->
-
 ![displaypic30](/img/displaypic30.png)
 
 ## Hi, I'm Josh Duffney
