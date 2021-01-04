@@ -49,33 +49,6 @@ Azure + PowerShell
 
 > _Long gone are the days of relying on shell history and file shares to store your code. You need something better. You need source control._
 
-**Get-Git: Learning Git with PowerShell**
-
-_Learn everything you need to know about Git to effectively source control your PowerShell._
-
-Contents
-
-```
-* Store Your Code in Source Control
-* Installing Git & Create a GitHub Account
-* Creating Repositories
-* Tracking, Committing, and Pushing
-* Avoid Clobbering with Branches
-* PR means Pull Request
-* Commit Messages Matter
-* Get-GitLog | Format-List
-* Make Your Prompt Pretty
-```
-
-
-<div align="center">
-<p>Should I create this? Pre-order if interested.</p>
-<script src="https://gumroad.com/js/gumroad.js"></script>
-<a class="gumroad-button" href="https://gum.co/YEFhf" target="_blank">Pre-order the Course</a>
-</div>
-
-<br>
-
 ## Infrastructure Should be Code
 
 ---
