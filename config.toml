@@ -24,7 +24,7 @@ disqusShortname = "duffney"
   # Set disableReadOtherPosts to true in order to hide the links to other posts.
   disableReadOtherPosts = false
 
-  # Enable sharing buttons, if you linke
+  # Enable sharing buttons, if you link
   enableSharingButtons = false
 
   # Metadata mostly used in document's head
@@ -111,6 +111,6 @@ disqusShortname = "duffney"
     weight = 300
 
   [[menu.main]]
-    identifier = "products"
-    name       = "products"
+    identifier = "books"
+    name       = "books"
     url        = "https://gumroad.com/joshduffney/"
