@@ -8,7 +8,7 @@ show_comments: false
 ---
 
 <div align="center">
-<i>Not Yet a Gumroad Bestseller</i>
+<i>Future Gumroad Bestseller</i>
 </div>
 
 <br>
