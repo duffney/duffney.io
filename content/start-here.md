@@ -4,16 +4,16 @@
 
 Welcome to my blog. I [write](/posts), [teach](https://app.pluralsight.com/profile/author/josh-duffney), and [tweet](https://twitter.com/joshduffney) about; _Technology, Self-improvement, and Productivity._ 
 
-At my day job, I’m a **Senior Content Developer** [@Microsoft](https://twitter.com/Microsoft) where I write a cache for [PowerShell](/tags/powershell/), [Ansible](/tags/ansible), [Terraform](/tags/terraform), [DevOps](/tags/devops), and [Azure](/tags/azure) on [docs.microsoft.com](https://docs.microsoft.com/en-us/). I've documented my decade long career in a series of blog posts.
+At my day job, I’m a **Senior Content Developer** [@Microsoft](https://twitter.com/Microsoft) where I write a cache for [PowerShell](/tags/powershell/), [Ansible](/tags/ansible), [Terraform](/tags/terraform), [DevOps](/tags/devops), and [Azure](/tags/azure) on [docs.microsoft.com](https://docs.microsoft.com/en-us/). I've documented my decade long career in a series of blog posts. Sharing both my professional and personal journey.
 
-**From Help-Desk to Microsoft**
-
-* [Doubling My Salary a PowerShell Story](/doubling-my-salary-a-powershell-story/)
-* [Becoming a Craftsman](/becoming-a-craftsman)
-* [What Matters Beyond the Salary](/what-matters-beyond-the-salary)
-* [You're an Engineer be an Engineer](/youre-an-engineer-be-an-engineer)
-* [Building a New Identity](https://duffney.io/building-a-new-identity/)
-* [Putting Down the Pager to Pick up the Pen](https://duffney.io/putting-down-the-pager-to-pick-up-the-pen/)
+|**From Help-Desk to Microsoft**|<img width=50/>|**Engineering-Focus**|
+|---	|---	|---	|
+|[Doubling My Salary a PowerShell Story](/doubling-my-salary-a-powershell-story/)|   	|[Detaching from Distraction](/detaching-from-distraction/)|
+|[Becoming a Craftsman](/becoming-a-craftsman)||[The Digital Declutter](/the-digital-declutter/)|
+|[What Matters Beyond the Salary](/what-matters-beyond-the-salary)|   	|[Attention Matters More than Time](/attention-matters-more-than-time/)|
+|[You're an Engineer be an Engineer](/youre-an-engineer-be-an-engineer)|   	|   	|
+|[Building a New Identity](https://duffney.io/building-a-new-identity/)|   	|   	|
+|[Putting Down the Pager to Pick up the Pen](https://duffney.io/putting-down-the-pager-to-pick-up-the-pen/)|   	|   	|
 
 ---
 
