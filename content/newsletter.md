@@ -1,8 +1,8 @@
 ### Duffney's Newsletter
 
-- Email that include 3 short reflections, 2 quotes from others, and 1 piece of immediately actionable advice.
+- Email that includes 3 reflections, 2 quotes, and 1 piece of immediately actionable advice.
   - _weekly_
-- Long-form articles on productivity, personal development, & technology
+- Long-form articles on productivity and self-improvement.
   - _once per month_
 - Discounts and offers on my books and products
   - _a few times per year_
