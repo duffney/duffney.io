@@ -42,8 +42,6 @@ To complete this tutorial, you will need:
 - Docker Desktop installed on your local machine. You can install Docker Desktop for Mac or Windows by following the steps on the [Docker Desktop](https://www.docker.com/products/docker-desktop) website.
 - GitHub account (either existing or newly created). You can create an account by going to [github.com/join](https://github.com/join)
 
-_Example repository, [ansible-in-containers](https://github.com/Duffney/ansible-in-containers)._
-
 ## Build an Ansible Container
 
 Docker has become the most common style of container, because it's so easy to work with. It is built using a Dockerfile, which is just a special text document that contains a sequence of commands. Those commands represent codified instructions that make up a Docker (container) image. You can think of the Docker image as a virtual machine template. Just as virtual machines are created from a base template, Docker containers are created from Docker images. Before you can run a container you must first have an image. In order to create an image, you need a Dockerfile.
