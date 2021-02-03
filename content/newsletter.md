@@ -1,13 +1,13 @@
 ### Duffney's Newsletter
 
-- Email that includes 3 reflections, 2 quotes, and 1 piece of actionable advice.
+- Email that includes 3 reflections, 2 quotes, and 1 actionable life hack.
   - _weekly_
 - Long-form articles on productivity and self-improvement.
   - _once per month_
 - Discounts and offers on my books and products
   - _a few times per year_
 
-Read previous issues, [here](https://duffney.substack.com/).
+Read previous issues, [here](https://duffney.substack.com/). 👈
 
 ---
 
