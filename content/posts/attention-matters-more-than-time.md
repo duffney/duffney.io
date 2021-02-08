@@ -99,7 +99,7 @@ We share a struggle, the modern struggle.
 
 An army of scientists & statisticians is against us. Protecting time is no longer enough.
 
-Time management will keep you on track. But it was developed before much of the struggle you and I now face existed. You must concern yourself with how to resist, mitigate, and remove distractions. 
+Time management will keep you on track. But it was developed before much of the struggle you and I now face existed. You must concern yourself with how to resist, mitigate, and remove distractions.
 
 Attention is the key to your freedom.
 
