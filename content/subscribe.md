@@ -1,3 +1,9 @@
+---
+url: "/subscribe"
+aliases: 
+- /newsletter
+---
+
 # Duffney's 1-1-1 Newsletter
 
 - Email that includes 1 reflection, 1 quotes, and 1 actionable idea.
