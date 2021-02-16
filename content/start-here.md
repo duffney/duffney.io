@@ -2,7 +2,7 @@
 
 ## Hi, I'm Josh Duffney
 
-Welcome to my blog. I [write](/posts), [teach](https://app.pluralsight.com/profile/author/josh-duffney), and [tweet](https://twitter.com/joshduffney) about; _Technology, Self-improvement, and Productivity._ 
+Welcome to my blog. I [write](/posts), [teach](https://app.pluralsight.com/profile/author/josh-duffney), and [tweet](https://twitter.com/joshduffney) about; _Technology, Self-improvement, and Digital Fitness._
 
 At my day job, I’m a **Senior Content Developer** [@Microsoft](https://twitter.com/Microsoft) where I write a cache for [PowerShell](/tags/powershell/), [Ansible](/tags/ansible), [Terraform](/tags/terraform), [DevOps](/tags/devops), and [Azure](/tags/azure) on [docs.microsoft.com](https://docs.microsoft.com/en-us/). I've documented my decade long career in a series of blog posts. Sharing both my professional and personal journey.
 
@@ -18,8 +18,8 @@ At my day job, I’m a **Senior Content Developer** [@Microsoft](https://twitter
 ---
 
 <div align="center">
-<p><i>"The most actionable newsletter to hit your inbox"</i></p>
-<p>Each message includes 3 short reflections, 2 quotes from others, and 1 piece of immediately actionable advice. </p>
+<p>"The Most Actionable Newsletter to <b>Hit</b> Your Inbox"</p>
+<p>Each email includes 1 reflection, 1 quote, and 1 actionable idea. </p>
 <iframe src="https://duffney.substack.com/embed" width="480" height="320" style="border:1px solid #EEE; background:white;" frameborder="0" scrolling="no"></iframe>
 <p><i>No spam. Just the best work I'm capable of.</i></p>
 </div>
