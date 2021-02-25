@@ -18,7 +18,7 @@ At my day job, I’m a **Senior Content Developer** [@Microsoft](https://twitter
 ---
 
 <div align="center">
-<p>"The Most Actionable Newsletter to <b>Hit</b> Your Inbox"</p>
+<p>"The Most <b>Actionable</b> Newsletter to Hit Your Inbox"</p>
 <p>Each email includes 1 reflection, 1 quote, and 1 actionable idea. </p>
 <iframe src="https://duffney.substack.com/embed" width="480" height="320" style="border:1px solid #EEE; background:white;" frameborder="0" scrolling="no"></iframe>
 <p><i>No spam. Just the best work I'm capable of.</i></p>

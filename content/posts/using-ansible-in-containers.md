@@ -75,7 +75,7 @@ RUN yum check-update; \
   pip3 install ansible
 ```
 
-Notice that all these commands are under a single `RUN` command. The reason is, each `RUN` command creates a layer for the container. It's much more efficient and best practice to use as few `RUN` commands as possible.
+> NOTICE: The docker file uses a single RUN command. That's because each command create a new layer, and it's more efficient to have a few layers as possible.
 
 *Dockerfile*
 
