@@ -13,7 +13,7 @@ aliases:
 - Discounts and offers on my books and products
   - _a few times per year_
 
-Read previous issues, [here](https://duffney.substack.com/). 👈
+Read the `:latest` issue, [here](https://duffney.substack.com/). 👈
 
 ---
 
