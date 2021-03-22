@@ -1,5 +1,5 @@
 ---
-url: "/1-1-1s"
+url: "/1-1-1"
 aliases: 
 - /newsletter
 - /subscribe
