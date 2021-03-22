@@ -1,7 +1,8 @@
 ---
-url: "/subscribe"
+url: "/1-1-1s"
 aliases: 
 - /newsletter
+- /subscribe
 ---
 
 # Duffney's 1-1-1 Newsletter
