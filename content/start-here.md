@@ -17,6 +17,8 @@ You can find me elsewhere on [Twitter](https://twitter.com/joshduffney).
 <div align="center">
 <a href="https://duffney.substack.com/">Subscribe</a>
 </div>
+<script async data-uid="a351fdec81" src="https://unique-writer-1890.ck.page/a351fdec81/index.js"></script>
+<br>
 
 ---
 
