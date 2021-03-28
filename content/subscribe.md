@@ -5,7 +5,7 @@ aliases:
 - /subscribe
 ---
 
-# Duffney's 1-1-1 Newsletter
+# The 1-1-1 Newsletter
 
 - Email that includes 1 reflection, 1 quotes, and 1 actionable idea.
   - _weekly_
