@@ -14,9 +14,7 @@ You can find me elsewhere on [Twitter](https://twitter.com/joshduffney).
 
 <br>
 
-<div align="center">
-<a data-formkit-toggle="e26e26304b" href="https://unique-writer-1890.ck.page/e26e26304b">Subscribe</a>
-</div>
+<script async data-uid="a1e537562f" src="https://unique-writer-1890.ck.page/a1e537562f/index.js"></script>
 
 <script async data-uid="a351fdec81" src="https://unique-writer-1890.ck.page/a351fdec81/index.js"></script>
 
@@ -40,3 +38,5 @@ You can find me elsewhere on [Twitter](https://twitter.com/joshduffney).
 |[You're an Engineer be an Engineer](/youre-an-engineer-be-an-engineer)|   	|   	|
 |[Building a New Identity](https://duffney.io/building-a-new-identity/)|   	|   	|
 |[Putting Down the Pager to Pick up the Pen](https://duffney.io/putting-down-the-pager-to-pick-up-the-pen/)|||
+
+<br>
