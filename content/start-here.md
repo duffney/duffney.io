@@ -12,6 +12,16 @@ You can find me elsewhere on [Twitter](https://twitter.com/joshduffney).
 
 ---
 
+<br>
+
+<div align="center">
+<a href="https://duffney.substack.com/">Subscribe</a>
+</div>
+
+---
+
+<br>
+
 <div align="center">
 <b>My Professional and Personal Journey</b>
 </div>
@@ -26,15 +36,3 @@ You can find me elsewhere on [Twitter](https://twitter.com/joshduffney).
 |[You're an Engineer be an Engineer](/youre-an-engineer-be-an-engineer)|   	|   	|
 |[Building a New Identity](https://duffney.io/building-a-new-identity/)|   	|   	|
 |[Putting Down the Pager to Pick up the Pen](https://duffney.io/putting-down-the-pager-to-pick-up-the-pen/)|||
-
-<br>
-
----
-
-<br>
-
-<div align="center">
-<a href="https://duffney.substack.com/">Subscribe</a>
-</div>
-
-<br>
