@@ -2,15 +2,17 @@
 
 ## 👋 Hi, I'm Josh Duffney
 
-Welcome to my blog, where I share my learnings as I journey through a career in technology.
+Welcome to my blog, where I share what I learn.
 
-I [write](/posts), host a [podcast](perspectivesintech.com), and [live-stream](https://www.twitch.tv/duffney) about optimizing learning, improving productivity, and exploiting remote-work to enjoy more of what life has to offer.
+I [write](/posts), host a [podcast](perspectivesintech.com), and [live-stream](https://www.twitch.tv/duffney) about optimizing **learning**, improving **productivity**, and exploiting **remote-work** to enjoy more of what life has to offer.
 
-At my day job, I’m a Senior Content Developer [@Microsoft](https://twitter.com/Microsoft) where I write on [docs.microsoft.com](https://docs.microsoft.com/en-us/) about using Ansible, Terraform, and PowerShell to implement DevOps practices.
+At my day job, I’m a Senior Content Developer [@Microsoft](https://twitter.com/Microsoft) where I write about using Ansible, Terraform, and PowerShell to implement DevOps practices.
 
 You can find me elsewhere on [Twitter](https://twitter.com/joshduffney).
 
 ---
+
+## My Professional and Personal Journey
 
 |**From Help-Desk to Microsoft**|<img width=50/>|**Engineering-Focus**|
 |---	|---	|---	|
@@ -19,10 +21,7 @@ You can find me elsewhere on [Twitter](https://twitter.com/joshduffney).
 |[What Matters Beyond the Salary](/what-matters-beyond-the-salary)|   	|[Attention Matters More than Time](/attention-matters-more-than-time/)|
 |[You're an Engineer be an Engineer](/youre-an-engineer-be-an-engineer)|   	|   	|
 |[Building a New Identity](https://duffney.io/building-a-new-identity/)|   	|   	|
-|[Putting Down the Pager to Pick up the Pen](https://duffney.io/putting-down-the-pager-to-pick-up-the-pen/)|   	|   	|
-
-
-☝️ My professional and personal journey documented in a series of blog posts.
+|[Putting Down the Pager to Pick up the Pen](https://duffney.io/putting-down-the-pager-to-pick-up-the-pen/)|||
 
 ---
 
