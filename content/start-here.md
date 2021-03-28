@@ -12,13 +12,9 @@ You can find me elsewhere on [Twitter](https://twitter.com/joshduffney).
 
 ---
 
-<br>
-
 <script async data-uid="a1e537562f" src="https://unique-writer-1890.ck.page/a1e537562f/index.js"></script>
 
 <script async data-uid="a351fdec81" src="https://unique-writer-1890.ck.page/a351fdec81/index.js"></script>
-
-<br>
 
 ---
 
