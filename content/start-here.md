@@ -12,7 +12,10 @@ You can find me elsewhere on [Twitter](https://twitter.com/joshduffney).
 
 ---
 
-## My Professional and Personal Journey
+<div align="center">
+<b>My Professional and Personal Journey</b>
+</div>
+
 
 |**From Help-Desk to Microsoft**|<img width=50/>|**Engineering-Focus**|
 |---	|---	|---	|
