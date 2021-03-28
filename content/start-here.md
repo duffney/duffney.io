@@ -16,6 +16,7 @@ You can find me elsewhere on [Twitter](https://twitter.com/joshduffney).
 <b>My Professional and Personal Journey</b>
 </div>
 
+<br>
 
 |**From Help-Desk to Microsoft**|<img width=50/>|**Engineering-Focus**|
 |---	|---	|---	|
@@ -25,6 +26,8 @@ You can find me elsewhere on [Twitter](https://twitter.com/joshduffney).
 |[You're an Engineer be an Engineer](/youre-an-engineer-be-an-engineer)|   	|   	|
 |[Building a New Identity](https://duffney.io/building-a-new-identity/)|   	|   	|
 |[Putting Down the Pager to Pick up the Pen](https://duffney.io/putting-down-the-pager-to-pick-up-the-pen/)|||
+
+<br>
 
 ---
 
