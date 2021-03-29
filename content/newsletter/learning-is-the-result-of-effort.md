@@ -23,6 +23,7 @@ Only through weaving knowledge together do you convert learning into understandi
 
 > “Anything worth doing is worth doing badly, so start by doing it badly.” — Jordan Peterson
 
+{{< youtube 0ZIgwua8FiU >}}
 
 ## Action
 
