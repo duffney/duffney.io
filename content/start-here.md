@@ -12,15 +12,17 @@ You can find me elsewhere on [Twitter](https://twitter.com/joshduffney).
 
 ---
 
+<div align="center">
+<b>Join my <b>1-1-1</b> Weekly newsletter</b>
+</div>
+
 <script async data-uid="a1e537562f" src="https://unique-writer-1890.ck.page/a1e537562f/index.js"></script>
 
 ---
 
 <br>
 
-<div align="center">
-<b>My Journey</b>
-</div>
+## My Journey
 
 <br>
 
