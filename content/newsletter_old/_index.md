@@ -2,6 +2,8 @@
 
 <!-- **Optimize Output**: minimize input -->
 
+![newsletter-heading](/img/newsletter-heading.png "1-1-1 newsletter")
+
 <p align="center">
 |<i>  "It's not about your time. It's about your attention."</i> |
 </p>
