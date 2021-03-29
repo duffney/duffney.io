@@ -4,7 +4,7 @@
 
 Welcome to my blog, where I share what I learn.
 
-I [write](/posts), host a [podcast](perspectivesintech.com), and [live-stream](https://www.twitch.tv/duffney) about optimizing **learning**, improving **productivity**, and exploiting **remote-work** to enjoy more of what life has to offer.
+I [write](/posts), host a [podcast](perspectivesintech.com), and [live-stream](https://www.twitch.tv/duffney) about optimizing **learning**, improving **productivity**, and exploiting **remote-work**.
 
 At my day job, I’m a Senior Content Developer [@Microsoft](https://twitter.com/Microsoft) where I write about using Ansible, Terraform, and PowerShell to implement DevOps practices.
 

@@ -1,12 +1,19 @@
-## Letters to Myself
+## The 1-1-1 Newsletter
+
+<!-- ## Letters to Myself; "It's not about your time. It's about your attention." -->
 
 <!-- **Optimize Output**: minimize input -->
 
 <p align="center">
-|<i>  "It's not about your time. It's about your attention."</i> |
+|<i> "The Most <b>Actionable</b> Newsletter to Hit Your Inbox"</i> |
+
+<br>
+
+<a data-formkit-toggle="54a75b4f75" href="https://unique-writer-1890.ck.page/54a75b4f75">Subscribe</a>
+
 </p>
 
-[Subscribe](https://duffney.substack.com/)
+
 
 
 <!-- <iframe
