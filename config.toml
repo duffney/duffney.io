@@ -101,7 +101,7 @@ disqusShortname = "duffney"
   [[menu.main]]
     identifier = "podcast"
     name       = "podcast"
-    url        = "perspectivesintech.com"
+    url        = "www.perspectivesintech.com"
     weight = 200
 
   [[menu.main]]
