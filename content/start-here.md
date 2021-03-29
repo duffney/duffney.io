@@ -12,16 +12,14 @@ You can find me elsewhere on [Twitter](https://twitter.com/joshduffney).
 
 ---
 
-<script async data-uid="a1e537562f" src="https://unique-writer-1890.ck.page/a1e537562f/index.js"></script>
-
-<script async data-uid="a351fdec81" src="https://unique-writer-1890.ck.page/a351fdec81/index.js"></script>
+<script async data-uid="1abf45f336" src="https://unique-writer-1890.ck.page/1abf45f336/index.js"></script>
 
 ---
 
 <br>
 
 <div align="center">
-<b>My Professional and Personal Journey</b>
+<b>My Journey</b>
 </div>
 
 <br>
