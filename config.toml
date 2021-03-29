@@ -93,7 +93,7 @@ disqusShortname = "duffney"
 
   [[menu.main]]
     identifier = "start here"
-    name = "start here"
+    name = "👉 start here"
     url = "/start-here/"
     weight = -300
 
