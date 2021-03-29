@@ -6,15 +6,9 @@
 
 <p align="center">
 |<i> "The Most <b>Actionable</b> Newsletter to Hit Your Inbox"</i> |
-
-<br>
-
-<a data-formkit-toggle="54a75b4f75" href="https://unique-writer-1890.ck.page/54a75b4f75">Subscribe</a>
-
 </p>
 
-
-
+<script async data-uid="a1e537562f" src="https://unique-writer-1890.ck.page/a1e537562f/index.js"></script>
 
 <!-- <iframe
   title="Subscribe to Optimize Output: minimize input"
