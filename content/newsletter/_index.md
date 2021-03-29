@@ -1,10 +1,3 @@
----
-url: "/1-1-1"
-aliases: 
-- /newsletter
-- /subscribe
----
-
 # The 1-1-1 Newsletter 🗞️
 
 <!-- ## Letters to Myself; "It's not about your time. It's about your attention." -->
