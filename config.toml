@@ -99,9 +99,9 @@ disqusShortname = "duffney"
 
 
   [[menu.main]]
-    identifier = "links"
-    name       = "links"
-    url        = "/links"
+    identifier = "podcast"
+    name       = "podcast"
+    url        = "perspectivesintech.com"
     weight = 200
 
   [[menu.main]]
