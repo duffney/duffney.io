@@ -1,8 +1,10 @@
-## The 1-1-1 Newsletter
+# The 1-1-1 Newsletter 🗞️
 
 <!-- ## Letters to Myself; "It's not about your time. It's about your attention." -->
 
 <!-- **Optimize Output**: minimize input -->
+
+<br>
 
 <p align="center">
 |<i> "The Most <b>Actionable</b> Newsletter to Hit Your Inbox"</i> |
