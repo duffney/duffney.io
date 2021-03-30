@@ -11,7 +11,9 @@ title: Learning is the result of effort, not consumption
 categories: ["newsletter"]
 ---
 
-## 1. Reflection
+## Reflection
+
+**1**.
 
 Understanding must always be the outcome of learning.
 
@@ -19,15 +21,27 @@ It feels productive to ingest information and unproductive to spend time digesti
 
 Only through weaving knowledge together do you convert learning into understanding.
 
-[Share ths on Twitter](https://ctt.ac/mku4c)
+<br>
 
-## 1. Quote
+<div align="center">
+<i><a href="https://ctt.ac/mku4c">Share this on Twitter</a></i>
+</div>
+
+---
+
+## Quote
+
+**1**.
 
 > _“Anything worth doing is worth doing badly, so start by doing it badly.” — Jordan Peterson_
 
-## 1. Action
+---
 
-**Counter your consumption with deliberate practice.**
+## Action
+
+**1**.
+
+Counter your consumption with deliberate practice.
 
 Over the course of a few days, tally up the number of hours you spend consuming information vs practicing.
 
