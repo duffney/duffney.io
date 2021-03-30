@@ -13,3 +13,46 @@ $RECYCLE.BIN/
 
 # OSX
 .DS_Store
+
+_site/
+*.clixml
+
+
+# dependencies
+node_modules/
+bower_components/
+
+
+#System Files
+.DS_Store/
+
+
+### Hugo ###
+# Generated files by hugo
+/public/
+/resources/_gen/assets
+
+
+# Executable may be added to repository
+hugo.exe
+hugo.darwin
+hugo.linux
+
+
+# Local Netlify folder
+.netlify
+act/
+
+
+*.clixml
+.DS_Store
+bin
+.cache
+*dontcommit*
+
+.env
+.envlist
+vendor/
+__*
+public/
+go.tar.gz

@@ -1,0 +1,147 @@
+###############################
+# PUBLISH/PUBLIC
+###############################
+[build]
+  #command = "git status --porcelain &&  git submodule update --init --recursive && GIT_COMMIT_SHA='git rev-parse --verify HEAD' && GIT_COMMIT_SHA_SHORT='git rev-parse --short HEAD' && hugo"
+  command = """
+sh -c "$(curl --location https://taskfile.dev/install.sh)" -- -d
+./bin/task init
+./bin/task build-public
+./bin/task algolia
+""" # -b $DEPLOY_PRIME_URL
+  publish = "public"
+
+[build.environment]
+  HUGO_ENABLEGITINFO = "true"
+  HUGO_BASEURL = "https://www.sheldonhull.com/"
+  HUGO_MINIFY = "true"
+  HUGO_DESTINATION = "public"
+  
+
+###############################
+# DEPLOY PREVIEWS
+###############################
+[context.deploy-preview]
+  command = """
+sh -c "$(curl --location https://taskfile.dev/install.sh)" -- -d
+./bin/task init
+./bin/task echo-debug
+./bin/task build
+"""
+publish = "preview"
+
+[context.deploy-preview.environment]
+  HUGO_GOOGLEANALYTICS = "dev"
+  HUGO_BASEURL = "/"
+  HUGO_ENABLEGITINFO = "true"
+  HUGO_DESTINATION = "preview"
+  
+###############################
+# BRANCH
+###############################
+[context.branch-deploy]
+  publish = "branch"
+  command = """
+sh -c "$(curl --location https://taskfile.dev/install.sh)" -- -d
+./bin/task init
+./bin/task echo-debug
+./bin/task build
+"""
+[context.branch-deploy.environment]
+  HUGO_GOOGLEANALYTICS = "dev"
+  HUGO_BASEURL = "/"
+  HUGO_ENABLEGITINFO = "true"
+  HUGO_DESTINATION = "branch"
+  
+# Redirects to keep jekyll based urls that some use like:
+#xmlUrl="https://www.sheldonhull.com/tags/tech/feed.xml"  should still be working, since hugo generates with index.xml
+
+
+[[redirects]]
+from = "/feed.xml"
+to = "/index.xml"
+status = 200
+force = true
+[[redirects]]
+from = "/feed"
+to = "/index.xml"
+status = 200
+force = true
+[[redirects]]
+from = "/*/feed.xml"
+to = "/:splat/index.xml"
+status = 200
+force = true
+[[redirects]]
+from = "/rss"
+to = "/index.xml"
+status = 200
+force = true
+
+#
+# [[plugins]]
+# package = "netlify-plugin-checklinks"
+#
+#   [plugins.inputs]
+#   # An array of glob patterns for pages on your site
+#   # Recursive traversal will start from these
+#   entryPoints = [
+#     "*.html",
+#   ]
+#
+#   # Recurse through all the links and asset references on your page, starting
+#   # at the entrypoints
+#   recursive = true
+#
+#   # Checklinks outputs TAP (https://testanything.org/tap-version-13-specification.html)
+#   # by default. Enabling pretty mode makes the output easier on the eyes.
+#   pretty = true
+#
+#   # You can mark some check as skipped, which will block checklinks
+#   # from ever attempting to execute them.
+#   # skipPatterns is an array of strings you can match against failing reports
+#   skipPatterns = [
+#       "#search-input",
+#       "search-input"
+#   ]
+#
+#
+#   # You can mark some check as todo, which will execute the check, but allow failures.
+#   # todoPatterns is an array of strings you can match against failing reports
+#   todoPatterns = []
+#
+#   # Report on all broken links to external pages.
+#   # Enabling this will make your tests more brittle, since you can't control
+#   # external pages.
+#   checkExternal = false
+#
+#   # Enable to check references to source maps, source map sources etc.
+#   # Many build tools don't emit working references, so this is disabled by default
+#   followSourceMaps = false
+#
+
+## todo: timeout/error. revisit later on
+## [[plugins]]
+## package = "netlify-plugin-subfont"
+##
+##   [plugins.inputs]
+##   # An array of glob patterns for pages on your site
+##   # Recursive traversal will start from these
+##   entryPoints = [
+##     "*.html",
+##   ]
+##
+##   # Follow your links across all pages to optimize the fonts across the antire site
+##   recursive = true
+##
+##   # Subfont lets you set CSS font-display value of the optimized subsets
+##   # See https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display
+##   fontDisplay = "swap"
+##
+##   # Inline generated CSS @font-face blocks into each page
+##   # When set to `false` an external CSS file will be created
+##   inlineCss = false
+##
+##   # Inline generated font subsets into their respective @font-face blocks
+##   # When set to `false` external font files will be created
+##   inlineFonts = false
