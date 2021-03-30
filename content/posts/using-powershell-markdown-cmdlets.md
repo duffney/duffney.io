@@ -180,14 +180,3 @@ _Special thanks to [Jeff Hicks](https://twitter.com/JeffHicks) for including me 
 |Jeff Hicks|@jeffhicks| [https://jdhitsolutions.com/](https://jdhitsolutions.com/)|
 |Tommy Maynard|@thetommymaynard| [https://tommymaynard.com/](https://tommymaynard.com/) |
 
-<br>
-
----
-
-<div align="center">
-<p>"The Most <b>Actionable</b> Newsletter to Hit Your Inbox"</p>
-<iframe src="https://duffney.substack.com/embed" width="480" height="320" style="border:1px solid #EEE; background:white;" frameborder="0" scrolling="no"></iframe>
-<p><i>No spam. Just the best work I'm capable of.</i></p>
-</div>
-
-<br>
