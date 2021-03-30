@@ -29,7 +29,9 @@ Only through weaving knowledge together do you convert learning into understandi
 
 ## 1. Action
 
-☑️ Counter your consumption with deliberate practice.
+```
+Counter your consumption with deliberate practice.
+```
 
 Over the course of a few days, tally up the number of hours you spend consuming information vs practicing.
 
