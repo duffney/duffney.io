@@ -13,7 +13,7 @@ categories: ["newsletter"]
 
 ## 1. Reflection
 
----
+```
 
 Understanding must always be the outcome of learning.
 
@@ -21,7 +21,7 @@ It feels productive to ingest information and unproductive to spend time digesti
 
 Only through weaving knowledge together do you convert learning into understanding.”
 
----
+```
 
 ## 1. Quote
 
