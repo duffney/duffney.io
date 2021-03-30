@@ -13,15 +13,13 @@ categories: ["newsletter"]
 
 ## 1. Reflection
 
-```
-
 Understanding must always be the outcome of learning.
 
 It feels productive to ingest information and unproductive to spend time digesting it. But a body that doesn't digest is malnourished and a mind that doesn't process is starved. Leaving knowledge isolated starves you of understanding.
 
-Only through weaving knowledge together do you convert learning into understanding.”
+Only through weaving knowledge together do you convert learning into understanding.
 
-```
+[Share ths on Twitter](https://ctt.ac/mku4c)
 
 ## 1. Quote
 
@@ -29,9 +27,7 @@ Only through weaving knowledge together do you convert learning into understandi
 
 ## 1. Action
 
-```
-Counter your consumption with deliberate practice.
-```
+**__Counter your consumption with deliberate practice.**__
 
 Over the course of a few days, tally up the number of hours you spend consuming information vs practicing.
 
