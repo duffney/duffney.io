@@ -13,8 +13,6 @@ categories: ["newsletter"]
 
 ## 1. Reflection
 
----
-
 Understanding must always be the outcome of learning.
 
 It feels productive to ingest information and unproductive to spend time digesting it. But a body that doesn't digest is malnourished and a mind that doesn't process is starved. Leaving knowledge isolated starves you of understanding.
@@ -27,7 +25,9 @@ Only through weaving knowledge together do you convert learning into understandi
 
 > _“Anything worth doing is worth doing badly, so start by doing it badly.” — Jordan Peterson_
 
-{{< youtube 0ZIgwua8FiU >}}
+{{< youtube FJV7HeHT4q4 >}}
+
+---
 
 ## 1. Action
 
@@ -36,6 +36,7 @@ Only through weaving knowledge together do you convert learning into understandi
 Over the course of a few days, tally up the number of hours you spend consuming information vs practicing.
 
 > Examples:
+>
 > * Watched 1 hour of a video course and spent 30 minutes coding.
 > * Spent 2 hours on social media and 1 hour working on setting up a lab environment.
 > * Read for 30 minutes and spent 1 hour writing notes.
