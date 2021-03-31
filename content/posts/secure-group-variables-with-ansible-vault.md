@@ -119,14 +119,3 @@ Variables can be sensitive and non-sensitive, but having them in different place
 
 [How To Use Vault to Protect Sensitive Ansible Data](https://www.digitalocean.com/community/tutorials/how-to-use-vault-to-protect-sensitive-ansible-data-on-ubuntu-16-04)
 
-<br>
-
----
-
-<div align="center">
-<p>"The Most <b>Actionable</b> Newsletter to Hit Your Inbox"</p>
-<iframe src="https://duffney.substack.com/embed" width="480" height="320" style="border:1px solid #EEE; background:white;" frameborder="0" scrolling="no"></iframe>
-<p><i>No spam. Just the best work I'm capable of.</i></p>
-</div>
-
-<br>

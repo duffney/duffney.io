@@ -2,11 +2,11 @@
 author:
   name: "Josh Duffney"
 date: 2020-09-04
-linktitle: Living at Work Must Die
+linktitle: stop-living-at-work
 type:
 - post
 - posts
-title: Living at Work Must Die
+title: Stop Living at Work
 tags: ["deep-work","remote-work"]
 categories: ["essays"]
 aliases:
@@ -65,10 +65,3 @@ Remote work has become the new norm but how we work has stayed the same. Over th
 **Your will is weak, use app blockers**
 
 > _There will be idleness. Your first instinct will be to check-in. Your will power will deplete quicker than you think. Use apps like @freedom instead of relying on willpower to stay focused._
-
-<br>
-
----
-<div align="center">
-<iframe src="https://duffney.substack.com/embed" width="480" height="320" style="border:1px solid #EEE; background:white;" frameborder="0" scrolling="no"></iframe>
-</div>

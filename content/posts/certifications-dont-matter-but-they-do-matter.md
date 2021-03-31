@@ -69,14 +69,3 @@ Passing the exams was simply validation. The real value was in learning alongsid
 
 If you feel stuck, overwhelmed, or confused by where you should invest your time to improve your craft. Consider a certification path. _Invest in yourself and enjoy the process._
 
-<br>
-
----
-
-<div align="center">
-<p>"The Most <b>Actionable</b> Newsletter to Hit Your Inbox"</p>
-<iframe src="https://duffney.substack.com/embed" width="480" height="320" style="border:1px solid #EEE; background:white;" frameborder="0" scrolling="no"></iframe>
-<p><i>No spam. Just the best work I'm capable of.</i></p>
-</div>
-
-<br>

@@ -99,15 +99,15 @@ disqusShortname = "duffney"
 
 
   [[menu.main]]
-    identifier = "links"
-    name       = "links"
-    url        = "/links"
+    identifier = "podcast"
+    name       = "podcast"
+    url        = "http://perspectivesintech.com/"
     weight = 200
 
   [[menu.main]]
     identifier = "newsletter"
     name       = "newsletter"
-    url        = "/1-1-1"
+    url        = "https://newsletter.duffney.io/"
     weight = 300
 
   [[menu.main]]
