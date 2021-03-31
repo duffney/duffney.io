@@ -124,13 +124,3 @@ There are two types of stories.
 Stories that have a complete narrative. And stories that have just begun. Ones that invite you along the journey.
 
 That’s the invitation I’m extending to you, this story is just beginning.
-
-<br>
-
----
-
-
-<div align="center">
-<p><b>Subscribe</b> by entering your email below.</p>
-<iframe src="https://duffney.substack.com/embed" width="480" height="320" style="border:1px solid #EEE; background:white;" frameborder="0" scrolling="no"></iframe>
-</div> 

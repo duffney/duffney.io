@@ -103,9 +103,4 @@ Time management will keep you on track. But it was developed before much of the 
 
 Attention is the key to your freedom.
 
-<br>
-
----
-<div align="center">
-<iframe src="https://duffney.substack.com/embed" width="480" height="320" style="border:1px solid #EEE; background:white;" frameborder="0" scrolling="no"></iframe>
-</div> 
+ 
