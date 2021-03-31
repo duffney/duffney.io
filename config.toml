@@ -107,7 +107,7 @@ disqusShortname = "duffney"
   [[menu.main]]
     identifier = "newsletter"
     name       = "newsletter"
-    url        = "https://newsletter.duffney.io/"
+    url        = "https://duffney.substack.com/"
     weight = 300
 
   [[menu.main]]

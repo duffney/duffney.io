@@ -12,7 +12,10 @@ You can find me elsewhere on [Twitter](https://twitter.com/joshduffney).
 
 ---
 
-<script async data-uid="a1e537562f" src="https://unique-writer-1890.ck.page/a1e537562f/index.js"></script>
+<div><center>
+<iframe src="https://duffney.substack.com/embed" width="480" height="320" style="border:1px solid #EEE; background:white;" frameborder="0" scrolling="no"></iframe>
+</center>
+</div>
 
 ---
 
