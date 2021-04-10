@@ -181,15 +181,3 @@ You don't have to do that if you are not going to reuse the expression. Below is
 ## Pluralsight Course
 
 If you want to learn more about regular expression, check out my Pluralsight course titled [Introduction to Regular Expression (Regex)](https://app.pluralsight.com/library/courses/regular-expression-introduction/table-of-contents).
-
-<br>
-
----
-
-<div align="center">
-<p>"The Most <b>Actionable</b> Newsletter to Hit Your Inbox"</p>
-<iframe src="https://duffney.substack.com/embed" width="480" height="320" style="border:1px solid #EEE; background:white;" frameborder="0" scrolling="no"></iframe>
-<p><i>No spam. Just the best work I'm capable of.</i></p>
-</div>
-
-<br>

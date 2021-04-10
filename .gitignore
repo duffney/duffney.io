@@ -22,7 +22,6 @@ _site/
 node_modules/
 bower_components/
 
-
 #System Files
 .DS_Store/
 
@@ -45,7 +44,6 @@ act/
 
 
 *.clixml
-.DS_Store
 bin
 .cache
 *dontcommit*

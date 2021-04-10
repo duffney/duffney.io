@@ -210,13 +210,3 @@ Nothing stops me. I wake up every morning at 4:30 am and write. Sometimes I writ
 It looks like work to others but feels like play to me. I have awoken the playful child within. The one who does for the sake of doing. I write to write. I write for the joy of writing. I write, simply, because I must. 
 
 It’s time to start building the evidence for another new identity. The evidence of a writer.
-
----
-
-<br></br>
-
-<div align="center">
-<a href="https://duffney.substack.com/">Subscribe</a>
-</div>
-
-<br></br>

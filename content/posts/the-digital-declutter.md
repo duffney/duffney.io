@@ -107,18 +107,3 @@ _Tip: Buy or pick up that book you've been wanting to read._
 <br>
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Atomic Habits applied to your cell phone:<br><br>There is an attention slot machine in your pocket stealing your time. If you want it back give this a try.<br><br>🧵 👇</p>&mdash; Josh Duffney (@joshduffney) <a href="https://twitter.com/joshduffney/status/1316406046987096064?ref_src=twsrc%5Etfw">October 14, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
----
-
-<div align="center">
-<p>"The Most <b>Actionable</b> Newsletter to Hit Your Inbox"</p>
-<iframe src="https://duffney.substack.com/embed" width="480" height="320" style="border:1px solid #EEE; background:white;" frameborder="0" scrolling="no"></iframe>
-<p><i>No spam. Just the best work I'm capable of.</i></p>
-</div>
-
-<br>
-<!--
-<a class="twitter-share-button"
-  href="https://twitter.com/intent/tweet">
-Tweet</a>
--->

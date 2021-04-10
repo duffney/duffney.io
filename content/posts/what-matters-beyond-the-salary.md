@@ -79,15 +79,3 @@ Where are you today? Have you reached your number? Do you even know what that nu
 * Have you defined your success? (Be the Master reference)
 * Are you tracking your progress?
 * Have you tied the days to weeks, and months to years?
-
-<br>
-
----
-
-<div align="center">
-<p>"The Most <b>Actionable</b> Newsletter to Hit Your Inbox"</p>
-<iframe src="https://duffney.substack.com/embed" width="480" height="320" style="border:1px solid #EEE; background:white;" frameborder="0" scrolling="no"></iframe>
-<p><i>No spam. Just the best work I'm capable of.</i></p>
-</div>
-
-<br>
