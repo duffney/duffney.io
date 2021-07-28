@@ -1,3 +1,9 @@
 [build]
 publish = "public"
 command = "hugo --gc --minify"
+
+[[redirects]]
+  from = "/time-blocking-in-obsidian"
+  to = "https://theknowledgeworker.substack.com/p/time-blocking-in-obsidian"
+  status = 301
+  force = true
