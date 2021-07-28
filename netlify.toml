@@ -7,3 +7,9 @@ command = "hugo --gc --minify"
   to = "https://theknowledgeworker.substack.com/p/time-blocking-in-obsidian"
   status = 301
   force = true
+
+[[redirects]]
+  from = "/how-to-take-smart-notes-in-obsidian"
+  to = "https://theknowledgeworker.substack.com/p/how-to-take-smart-notes-in-obsidian"
+  status = 301
+  force = true
