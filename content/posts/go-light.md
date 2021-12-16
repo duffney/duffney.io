@@ -10,8 +10,6 @@ title: Go Light
 
 ---
 
-# Go Light
-
 Anniversaries are always special, but this month is the anniversary of getting my brain back.
 
 Last December, I purchased The Light Phone. It’s a cute little device. Often mistaken for an air condition remote. Sparks lots of conversations with strangers. And is responsible for giving me my brain back.
