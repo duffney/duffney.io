@@ -19,7 +19,7 @@ disqusShortname = "duffney"
   dateformNumTime = "2006-01-02 15:04 -0700"
 
   # Subtitle for home
-  homeSubtitle = "Engineering Focus in a Distracted World 🌏"
+  homeSubtitle = "Follow me on Twitter. Binge my videos on YouTube. Or checkout my code on GitHub"
 
   # Set disableReadOtherPosts to true in order to hide the links to other posts.
   disableReadOtherPosts = false
@@ -48,8 +48,8 @@ disqusShortname = "duffney"
 
 [languages]
   [languages.en]
-    title = "duffney.io"
-    subtitle = ""
+    title = ""
+    subtitle = "duffney.io"
     keywords = ""
     copyright = '<a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank" rel="noopener">CC BY-NC 4.0</a>'
     readOtherPosts = "Read other posts"
@@ -59,7 +59,7 @@ disqusShortname = "duffney"
       logoHomeLink = "/"
 
 [params.portrait]
-  path = "/img/portrait.jpg"
+  path = "/img/displaypic30.png"
   alt = "Portrait"
 
 [permalinks]
@@ -70,14 +70,11 @@ disqusShortname = "duffney"
     name = "twitter"
     url  = "https://twitter.com/joshduffney"
   [[params.social]]
+    name = "youtube"
+    url  = "https://www.youtube.com/channel/UCCV1T7JbfzbE2O7P3kydmKw"
+  [[params.social]]
     name = "github"
     url  = "https://github.com/Duffney"
-  [[params.social]]
-    name = "linkedin"
-    url  = "https://www.linkedin.com/in/joshduffney/"
-  [[params.social]]
-    name = "stackoverflow"
-    url  = "https://stackoverflow.com/users/3934865/joshduffney"
 
   [markup]
   [markup.goldmark]
@@ -86,31 +83,11 @@ disqusShortname = "duffney"
 
   # And you can even create generic menu
   [[menu.main]]
-    identifier = "blog"
-    name       = "blog"
+    identifier = "About"
+    name       = "about"
+    url        = "/about"
+  [[menu.main]]
+    identifier = "Posts"
+    name       = "subscribe"
     url        = "/posts"
-    weight = -200
 
-  [[menu.main]]
-    identifier = "start here"
-    name = "start here"
-    url = "/start-here/"
-    weight = -300
-
-
-  [[menu.main]]
-    identifier = "podcast"
-    name       = "podcast"
-    url        = "http://perspectivesintech.com/"
-    weight = 200
-
-  [[menu.main]]
-    identifier = "newsletter"
-    name       = "newsletter"
-    url        = "https://theknowledgeworker.substack.com/"
-    weight = 300
-
-  [[menu.main]]
-    identifier = "books"
-    name       = "books"
-    url        = "https://gumroad.com/joshduffney/"
