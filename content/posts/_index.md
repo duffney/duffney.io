@@ -4,7 +4,7 @@
 
 <!-- Change to keyboard image from knowledge worker -->
 
-Join *The Knowledge Worker* newsletter, and rethink how you work.
+Join 2,380 subscribers and enter your email below.
 
 <style>
   .gumroad-follow-form-embed {
