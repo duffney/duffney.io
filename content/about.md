@@ -4,7 +4,7 @@
 
 Welcome to my blog, where I share what I learn.
 
-At my day job, I’m a Senior Content Developer Microsoft. On the side I write [books](https://app.gumroad.com/joshduffney/), create [YouTube](https://www.youtube.com/channel/UCCV1T7JbfzbE2O7P3kydmKw) videos, and occasionally [tweet](https://twitter.com/joshduffney) things.
+At my day job, I’m a Senior Content Developer Microsoft. And on the side I write [books](https://app.gumroad.com/joshduffney/), create [YouTube](https://www.youtube.com/channel/UCCV1T7JbfzbE2O7P3kydmKw) videos, and occasionally [tweet](https://twitter.com/joshduffney) things.
 
 Thank you for visitng, I hope you find something of value here.
 
