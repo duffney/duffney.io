@@ -4,7 +4,7 @@
 
 Welcome to my blog, where I share what I learn.
 
-At my day job, I’m a Senior Content Developer Microsoft. Formerly a Microsoft MVP. An Ex-SRE at Stack Overflow. And Pluralsight author. On the side I write [books](https://app.gumroad.com/joshduffney/), create [YouTube](https://www.youtube.com/channel/UCCV1T7JbfzbE2O7P3kydmKw) videos, and occasionally [tweet](https://twitter.com/joshduffney) things.
+At my day job, I’m a Senior Content Developer Microsoft. On the side I write [books](https://app.gumroad.com/joshduffney/), create [YouTube](https://www.youtube.com/channel/UCCV1T7JbfzbE2O7P3kydmKw) videos, and occasionally [tweet](https://twitter.com/joshduffney) things.
 
 Thank you for visitng, I hope you find something of value here.
 
@@ -20,3 +20,6 @@ Thank you for visitng, I hope you find something of value here.
 |[You're an Engineer be an Engineer](/youre-an-engineer-be-an-engineer)|   	|   	|
 |[Building a New Identity](https://duffney.io/building-a-new-identity/)|   	|   	|
 |[Putting Down the Pager to Pick up the Pen](https://duffney.io/putting-down-the-pager-to-pick-up-the-pen/)|||
+
+
+<!-- Formerly a Microsoft MVP. An Ex-SRE at Stack Overflow. And Pluralsight author. -->
