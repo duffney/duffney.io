@@ -2,11 +2,15 @@
 
 ## 👋 Hi, I'm Josh Duffney
 
-Welcome to my blog, where I share what I learn.
+<!-- Welcome to my blog, -->
 
-At my day job, I’m a Senior Content Developer Microsoft. And on the side I write [books](https://app.gumroad.com/joshduffney/), create [YouTube](https://www.youtube.com/channel/UCCV1T7JbfzbE2O7P3kydmKw) videos, and occasionally [tweet](https://twitter.com/joshduffney) things.
+I’m a Senior Content Developer Microsoft. Former Microsoft MVP. Ex-SRE at StackOverflow. And Pluralsigh author.
 
-Thank you for visitng, I hope you find something of value here.
+On the side, I write [books](https://app.gumroad.com/joshduffney/), create [YouTube](https://www.youtube.com/channel/UCCV1T7JbfzbE2O7P3kydmKw) videos, and occasionally [tweet](https://twitter.com/joshduffney) things about technology, productivity, and personal knowledge management.
+
+<br>
+
+Thank you for visitng, I hope you discover something of value in these pages.
 
 <br>
 
@@ -15,11 +19,8 @@ Thank you for visitng, I hope you find something of value here.
 |**My journey in tech**:|<img width=50/>|**Reclaiming my focus**:|
 |---	|---	|---	|
 |[Doubling My Salary a PowerShell Story](/doubling-my-salary-a-powershell-story/)|   	|[Detaching from Distraction](/detaching-from-distraction/)|
-|[Becoming a Craftsman](/becoming-a-craftsman)||[The Digital Declutter](/the-digital-declutter/)|
-|[What Matters Beyond the Salary](/what-matters-beyond-the-salary)|   	|[Attention Matters More than Time](/attention-matters-more-than-time/)|
-|[You're an Engineer be an Engineer](/youre-an-engineer-be-an-engineer)|   	|   	|
-|[Building a New Identity](https://duffney.io/building-a-new-identity/)|   	|   	|
-|[Putting Down the Pager to Pick up the Pen](https://duffney.io/putting-down-the-pager-to-pick-up-the-pen/)|||
+|[You're an Engineer be an Engineer](/youre-an-engineer-be-an-engineer)||[The Digital Declutter](/the-digital-declutter/)|
+|[Putting Down the Pager to Pick up the Pen](https://duffney.io/putting-down-the-pager-to-pick-up-the-pen/)|   	|[Attention Matters More than Time](/attention-matters-more-than-time/)|
 
 
 <!-- Formerly a Microsoft MVP. An Ex-SRE at Stack Overflow. And Pluralsight author. -->
