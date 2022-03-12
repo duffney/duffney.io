@@ -4,7 +4,7 @@
 
 <!-- Welcome to my blog, -->
 
-I’m a Senior Content Developer Microsoft. Former Microsoft MVP. Ex-SRE at StackOverflow. And Pluralsigh author.
+Senior Content Developer Microsoft. Former Microsoft MVP. Ex-SRE at StackOverflow. And Pluralsigh author.
 
 On the side, I write [books](https://app.gumroad.com/joshduffney/), create [YouTube](https://www.youtube.com/channel/UCCV1T7JbfzbE2O7P3kydmKw) videos, and occasionally [tweet](https://twitter.com/joshduffney) things about technology, productivity, and personal knowledge management.
 
