@@ -2,6 +2,8 @@
 
 ![displaypic30](/img/keyboard.png) 
 
+<h2>The Knowledge Worker</h2>
+
 <!-- Change to keyboard image from knowledge worker -->
 
 Join 2,380 subscribers and enter your email below.
