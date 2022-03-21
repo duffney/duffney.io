@@ -6,11 +6,9 @@
 
 Senior Content Developer Microsoft. Former Microsoft MVP. Ex-SRE at StackOverflow. And Pluralsigh author.
 
-On the side, I write [books](https://app.gumroad.com/joshduffney/), create [YouTube](https://www.youtube.com/channel/UCCV1T7JbfzbE2O7P3kydmKw) videos, and occasionally [tweet](https://twitter.com/joshduffney) things about technology, productivity, and personal knowledge management.
+My side-projects include writing [books](https://app.gumroad.com/joshduffney/) and recording [YouTube](https://www.youtube.com/channel/UCCV1T7JbfzbE2O7P3kydmKw) videos about technology, productivity, and personal knowledge management.
 
-<br>
-
-Thank you for visitng, I hope you discover something of value in these pages.
+You can learn more about me by checking out my [reading-list](/reading-list). Or skimming a few of the blog posts linked below.
 
 <br>
 
@@ -21,6 +19,3 @@ Thank you for visitng, I hope you discover something of value in these pages.
 |[Doubling My Salary a PowerShell Story](/doubling-my-salary-a-powershell-story/)|   	|[Detaching from Distraction](/detaching-from-distraction/)|
 |[You're an Engineer be an Engineer](/youre-an-engineer-be-an-engineer)||[The Digital Declutter](/the-digital-declutter/)|
 |[Putting Down the Pager to Pick up the Pen](https://duffney.io/putting-down-the-pager-to-pick-up-the-pen/)|   	|[Attention Matters More than Time](/attention-matters-more-than-time/)|
-
-
-<!-- Formerly a Microsoft MVP. An Ex-SRE at Stack Overflow. And Pluralsight author. -->
