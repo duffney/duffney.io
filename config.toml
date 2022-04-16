@@ -88,6 +88,6 @@ disqusShortname = "duffney"
     url        = "/about"
   [[menu.main]]
     identifier = "Posts"
-    name       = "subscribe"
+    name       = "posts"
     url        = "/posts"
 

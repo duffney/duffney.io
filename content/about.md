@@ -2,13 +2,11 @@
 
 ## 👋 Hi, I'm Josh Duffney
 
-<!-- Welcome to my blog, -->
+A software engineer, writer, and speaker.
 
-Senior Content Developer Microsoft. Former Microsoft MVP. Ex-SRE at StackOverflow. And Pluralsigh author.
+I write **[books](https://app.gumroad.com/joshduffney/)** and record **[YouTube](https://www.youtube.com/channel/UCCV1T7JbfzbE2O7P3kydmKw)** videos about technology, productivity, and personal knowledge management.
 
-My side-projects include writing [books](https://app.gumroad.com/joshduffney/) and recording [YouTube](https://www.youtube.com/channel/UCCV1T7JbfzbE2O7P3kydmKw) videos about technology, productivity, and personal knowledge management.
-
-You can learn more about me by checking out my [reading-list](/reading-list). Or skimming a few of the blog posts linked below.
+Learn more about me by reading my post, [I quit my 500k job at Microsoft to start a company (NOT)](https://theknowledgeworker.substack.com/p/i-quit-my-500k-job-at-microsoft-to). 😏
 
 <br>
 

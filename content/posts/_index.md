@@ -1,10 +1,12 @@
+Join my email list and enter your email below.
+<iframe src="https://theknowledgeworker.substack.com/embed" width="480" height="320" style="border:1px solid #EEE; background:white;" frameborder="0" scrolling="no"></iframe>
 
 
-![displaypic30](/img/keyboard.png) 
+
+<!-- ![displaypic30](/img/keyboard.png) 
 
 <h2>The Knowledge Worker</h2>
 
-<!-- Change to keyboard image from knowledge worker -->
 
 Join 2,380 subscribers and enter your email below.
 
@@ -56,7 +58,7 @@ Join 2,380 subscribers and enter your email below.
 <input name="seller_id" type="hidden" value="7807279384399">
 <input name="email" placeholder="Your email address" type="email">
 <button data-custom-highlight-color="" type="submit">Subscribe</button>
-</form>
+</form> -->
 
 No spam, ever. Unsubscribe anytime.
 
