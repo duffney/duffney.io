@@ -1,7 +1,19 @@
-Join my email list and enter your email below.
+# posts
+---
+
+<div class="iframe-container">
+<p>Join my email list and enter your email below.</p>
 <iframe src="https://theknowledgeworker.substack.com/embed" width="480" height="320" style="border:1px solid #EEE; background:white;" frameborder="0" scrolling="no"></iframe>
 
+<p>No spam, ever. Unsubscribe anytime.</p>
+</div>
 
+<style>
+  .iframe-container {
+		text-align:center;
+  		width:100%;
+  }
+</style>
 
 <!-- ![displaypic30](/img/keyboard.png) 
 
@@ -60,6 +72,6 @@ Join 2,380 subscribers and enter your email below.
 <button data-custom-highlight-color="" type="submit">Subscribe</button>
 </form> -->
 
-No spam, ever. Unsubscribe anytime.
+
 
 <br><br>
