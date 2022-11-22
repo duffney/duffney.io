@@ -86,6 +86,7 @@ _Natalie was taken aback by the depth of the analogies I used in conversation. S
 
 I wrote his blog post almost a year ago and for one reason or another, never published it. After a gentle nudge from [Dan Wahlin](https://twitter.com/DanWahlin), I re-read this blog post and decided to publish it. After reading it and reflecting on it, I am grateful for how much of it has stuck with me. At the same time, I realized how much I miss the person I was at the end of that blissful 30 days. The pendulum has swung too far and it is time to push it back. Over the next 30 days, starting on 3-16-2020 I'll be doing another digital declutter. During the first digital declutter I cut out nearly all technology after work hours. This time around I will not be as hardcore, but without sacrifice there is no reward. Ironically, I'll be using social media and you as my accountability partners. This time around I will be documenting not only my thoughts and reflections, I will also be sharing the protocols and tactics I use. I invite you to join me in this digital declutter. Here is how you get started.
 
+To learn more about Digital Minimalism, check out [Digital Minimalism: Habits & Tips to Declutter Your Devices](https://business-essay.com/blog/digital-minimalism-habits-tips-to-declutter-your-devices-infographic/).
 
 ## Next Steps
 
@@ -98,8 +99,6 @@ I wrote his blog post almost a year ago and for one reason or another, never pub
 I've mentioned my wife, Natalie a few times in this post. She's been a critical piece of the digital declutter. I needed someone to be my observer in a sense. I wanted to get accurate feedback on what changes happened to my behavior. She's also my partner in life and the most qualified person to give me this feedback. Hearing such positive things from her made me realize the true impact the experiment had on me. I recommend finding someone close to you, to be this for you as you go on your journey through the digital declutter.
 
 _Tip: Buy or pick up that book you've been wanting to read._
-
-To learn more about Digital Minimalism, check out [Digital Minimalism: Habits & Tips to Declutter Your Devices](https://business-essay.com/blog/digital-minimalism-habits-tips-to-declutter-your-devices-infographic/).
 
 <br>
 
