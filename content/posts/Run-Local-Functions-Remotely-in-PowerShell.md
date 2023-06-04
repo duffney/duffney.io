@@ -112,3 +112,6 @@ Select-Object NodeName,IPaddress,MacAddress,DNS
 
 ![PositionalParams](/img/posts/Run-Local-Functions-Remotely-in-PowerShell/PositionalParams.gif "PositionalParams")
 
+# Alternative Solution: Load Function in Remote Session
+
+If you need to use your locally defined function multiple times, or with other code included in a scriptblock, check out this blog post from [matthewjdegarmo](https://github.com/matthewjdegarmo), [How to Import a Locally Defined Function into a Remote PowerShell Session](https://matthewjdegarmo.com/powershell/2021/03/31/how-to-import-a-locally-defined-function-into-a-remote-powershell-session.html).
