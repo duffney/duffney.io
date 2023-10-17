@@ -23,7 +23,7 @@ https://x.com/joshduffney/status/1709629776623771676?s=20
 
 ## Build an image without package metadata
 
-For this post, I've written a simple [hello-world](/content/tutorials/hello-world/) app in Go and written an accompaning Dockerfile to containerize the appliaction. As you can see from the image, the one on the bottom is significantly smaller. That's because `FROM scratch` was used to remove the entire file system, exept the hello binary.
+For this post, I've written a simple [hello-world](https://github.com/duffney/duffney.io/tree/master/content/tutorials/hello-world) app in Go and written an accompaning Dockerfile to containerize the appliaction. As you can see from the image, the one on the bottom is significantly smaller. That's because `FROM scratch` was used to remove the entire file system, exept the hello binary.
 
 ![hello-image-size](/img/posts/include-pkg-metadata-containers/image-size.png)
 
